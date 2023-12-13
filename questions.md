@@ -1,0 +1,12 @@
+## Questions
+* Pourquoi _ ? (Why _?)
+* Qui _ ? (Who _?)
+* Où _ ? (Where _?)
+* Quand _ ? (When _?)
+* Comment _ ? (How _?)
+* Combien _ ? (How much/many _?)
+* Quel _ ? (Which/What _?)
+* À quelle heure _ ? (At what time _?)
+* À quoi _ ? (To what _?)
+* De qui _ ? (From whom _?)
+* Est-ce que (is it)
