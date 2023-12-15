@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "J'allume": "I turn on/light",
+    "Tu allumes": "You turn on/light",
+    "Il/Elle allume": "He/She turns on/lights",
+    "Nous allumons": "We turn on/light",
+    "Vous allumez": "You turn on/light (formal)",
+    "Ils/Elles allument": "They turn on/light"
+  },
+  "Imparfait (Imperfect)": {
+    "J'allumais": "I used to turn on/light",
+    "Tu allumais": "You used to turn on/light",
+    "Il/Elle allumait": "He/She used to turn on/light",
+    "Nous allumions": "We used to turn on/light",
+    "Vous allumiez": "You used to turn on/light (formal)",
+    "Ils/Elles allumaient": "They used to turn on/light"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai allumé": "I turned on/lit",
+    "Tu as allumé": "You turned on/lit",
+    "Il/Elle a allumé": "He/She turned on/lit",
+    "Nous avons allumé": "We turned on/lit",
+    "Vous avez allumé": "You turned on/lit (formal)",
+    "Ils/Elles ont allumé": "They turned on/lit"
+  },
+  "Futur simple (Simple Future)": {
+    "J'allumerai": "I will turn on/light",
+    "Tu allumeras": "You will turn on/light",
+    "Il/Elle allumera": "He/She will turn on/light",
+    "Nous allumerons": "We will turn on/light",
+    "Vous allumerez": "You will turn on/light (formal)",
+    "Ils/Elles allumeront": "They will turn on/light"
+  }
+}

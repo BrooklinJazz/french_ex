@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "J'accours": "I rush",
+    "Tu accours": "You rush",
+    "Il/Elle accourt": "He/She rushes",
+    "Nous accourons": "We rush",
+    "Vous accourez": "You rush (formal)",
+    "Ils/Elles accourent": "They rush"
+  },
+  "Imparfait (Imperfect)": {
+    "J'accourais": "I used to rush",
+    "Tu accourais": "You used to rush",
+    "Il/Elle accourait": "He/She used to rush",
+    "Nous accourions": "We used to rush",
+    "Vous accouriez": "You used to rush (formal)",
+    "Ils/Elles accouraient": "They used to rush"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai accouru": "I rushed",
+    "Tu as accouru": "You rushed",
+    "Il/Elle a accouru": "He/She rushed",
+    "Nous avons accouru": "We rushed",
+    "Vous avez accouru": "You rushed (formal)",
+    "Ils/Elles ont accouru": "They rushed"
+  },
+  "Futur simple (Simple Future)": {
+    "J'accourrai": "I will rush",
+    "Tu accourras": "You will rush",
+    "Il/Elle accourra": "He/She will rush",
+    "Nous accourrons": "We will rush",
+    "Vous accourrez": "You will rush (formal)",
+    "Ils/Elles accourront": "They will rush"
+  }
+}

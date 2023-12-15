@@ -4,124 +4,151 @@ defmodule Tutor do
   """
 
   @verbs File.read!("verbs.json") |> Jason.decode!()
-  @verb_conjugations File.ls!("./verbs")
-                     |> Enum.map(fn file ->
-                       "./verbs/#{file}" |> File.read!() |> Jason.decode!()
-                     end)
 
   def quiz do
-    conjugations = Enum.random(@verb_conjugations)
-    {tense, conjugation} = Enum.random(conjugations)
+    verb = random_verb()
 
-    {french, english} = Enum.random(conjugations)
-
-    prompt =
+    exercise =
       Enum.random([
-        # fn -> translate_to_english(english, french, tense) end,
-        # fn -> translate_to_french(english, french, tense) end,
-        # fn -> what_tense_is_this(english, french, tense) end,
-        # fn -> what_french_verb_is_this() end,
-        # fn -> what_english_verb_is_this() end,
-        fn -> write_conjugations() end
+        &translate_french_verb/1,
+        &translate_english_verb/1,
+        &translate_english_conjugation/1,
+        &translate_french_conjugation/1,
+        &provide_the_tense/1,
+        &full_quiz/1
       ])
 
-    prompt.()
+    ask(exercise.(verb))
     quiz()
   end
 
-  def what_french_verb_is_this do
-    {french, english} = @verbs |> Enum.random()
+  def ask([]), do: IO.puts("Quiz complete!")
 
-    answer = IO.gets("what is #{french} in english?\n") |> String.trim()
-    IO.puts("#{english}\n")
+  def ask([message | tail]) when is_binary(message) do
+    IO.puts("""
+    ========================================
+    #{message}
+    ========================================
+    """)
+
+    ask(tail)
   end
 
-  def what_english_verb_is_this do
-    {french, english} = @verbs |> Enum.random()
-
-    answer = IO.gets("what is #{english} in french?\n") |> String.trim()
-    IO.puts("#{french}\n")
+  def ask([%Question{} = question | tail]) do
+    ask(question)
+    ask(tail)
   end
 
-  def translate_to_english(english, french, tense) do
-    answer = IO.gets("translate \"#{french}\" to english\n") |> String.trim()
+  def ask(%Question{question: question, answer: answer}) do
+    _response = IO.gets(question) |> String.trim() |> String.downcase()
 
-    case answer do
-      "h" ->
-        IO.puts(tense)
-        translate_to_english(english, french, tense)
-
-      _ ->
-        IO.puts("It is #{english}")
-    end
+    IO.puts("The answer is #{answer}")
   end
 
-  def translate_to_french(english, french, tense) do
-    answer = IO.gets("translate \"#{english}\" to french\n") |> String.trim()
+  def random_verb, do: Enum.random(@verbs)
 
-    case answer do
-      "h" ->
-        IO.puts(tense)
-        translate_to_french(english, french, tense)
-
-      _ ->
-        IO.puts("It is #{french}")
-    end
+  def translate_french_verb({french_verb, english_verb}) do
+    %Question{question: "what is #{french_verb} in english?\n", answer: english_verb}
   end
 
-  def what_tense_is_this(_english, french, tense) do
-    answer = IO.gets("what tense is \"#{french}\"?\n") |> String.trim()
-
-    case answer do
-      "h" ->
-        IO.puts(french)
-        what_tense_is_this(_english, french, tense)
-
-      _ ->
-        IO.puts("It is #{tense}")
-    end
+  def translate_english_verb({french_verb, english_verb}) do
+    %Question{question: "what is #{english_verb} in french?\n", answer: french_verb}
   end
 
-  def write_conjugations do
-    {verb, english} = @verbs |> Enum.random()
-    path =
-      "verbs/#{verb_file_name(verb)}.json"
-      |> File.read!()
-      |> Jason.decode!()
-      |> Enum.each(fn {tense, conjugations} ->
-        IO.puts("""
-        =================================================================
-        Write the conjugations for #{verb} (#{english}) in #{tense}
-        =================================================================
-        """)
-        conjugations
-        |> Enum.each(fn {french, english} ->
-          [subject | _tail] = String.split(french, " ")
+  def translate_english_conjugation({french_verb, english_verb}) do
+    tenses = get_verb_tenses(french_verb)
+    {tense, conjugations} = Enum.random(tenses)
+    {french_conjugation, english_conjugation} = Enum.random(conjugations)
+    %Question{question: "what is #{english_conjugation} in french?\n", answer: french_conjugation}
+  end
 
-          IO.gets("#{subject}: ")
-          IO.puts(french)
-        end)
+  def translate_french_conjugation({french_verb, english_verb}) do
+    tenses = get_verb_tenses(french_verb)
+    {tense, conjugations} = Enum.random(tenses)
+    {french_conjugation, english_conjugation} = Enum.random(conjugations)
+
+    %Question{
+      question: "what is #{french_conjugation} in english?\n",
+      answer: english_conjugation
+    }
+  end
+
+  def provide_the_tense({french_verb, english_verb}) do
+    tenses = get_verb_tenses(french_verb)
+    {tense, conjugations} = Enum.random(tenses)
+    {french_conjugation, _english_conjugation} = Enum.random(conjugations)
+    %Question{question: "what tense is #{french_conjugation}", answer: tense}
+  end
+
+  def full_quiz({french_verb, english_verb} = verb) do
+    tenses = get_simple_verb_tenses(french_verb)
+
+    conjugation_questions =
+      Enum.map(tenses, fn {tense, conjugation} ->
+        questions =
+          Enum.map(conjugation, fn {french_conjugation, english_conjugation} ->
+            subject = get_subject(french_conjugation)
+            %Question{question: "#{subject} ", answer: french_conjugation}
+          end)
+
+        ["fill in the conjugations for #{french_verb} in #{tense}", questions]
       end)
+      |> List.flatten()
 
-    # {tense, conjugations} = @verb_conjugations
-    # # verb
-    # |> Enum.random()
-    # # conjugation
-    # |> Enum.random()
-    # |> Enum.each(fn {french, english} ->
-    #   [subject | _tail] = String.split(french, " ")
-
-    #   IO.gets("write conjugations\n")
-    # end)
-    # |> IO.inspect()
-    Process.sleep(10000)
+    [
+      "Starting quiz on #{french_verb}",
+      translate_french_verb(verb)
+      | conjugation_questions
+    ]
   end
 
-  # se réveiller -> se_reveiller
-  defp verb_file_name(verb) do
-    verb
-    |> String.normalize(:nfd)
-    |> String.replace(~r/[^A-z\s]/u, "")
-    |> String.replace(~r/\s/, "_")
+  def get_simple_verb_tenses(verb) do
+    tenses = get_verb_tenses(verb)
+
+    past = Enum.find(tenses, fn {tense, _} -> tense == "Passé composé (Present Perfect)" end)
+    present = Enum.find(tenses, fn {tense, _} -> tense == "Présent (Present)" end)
+    future = Enum.find(tenses, fn {tense, _} -> tense == "Futur simple (Simple Future)" end)
+
+    [present, past, future]
+  end
+
+  def get_verbs_json, do: @verbs
+
+  def get_verb_tenses(verb) do
+    File.read!(verb_file_path(verb)) |> Jason.decode!()
+  end
+
+  @doc """
+  Get the subject of a french conjugation
+
+  iex> Tutor.get_subject("je suis")
+  "je"
+  iex> Tutor.get_subject("j'etais")
+  "j'"
+  iex> Tutor.get_subject("tu es")
+  "tu"
+  iex> Tutor.get_subject("il/elle est")
+  "il/elle"
+  iex> Tutor.get_subject("nous sommes")
+  "nous"
+  iex> Tutor.get_subject("vous etes")
+  "vous"
+  iex> Tutor.get_subject("ils/elles sont")
+  "ils/elles"
+  """
+  def get_subject(french_conjugation) do
+    Regex.run(~r/je|j\'|tu|il\/elle|nous|vous|ils\/elles/i, french_conjugation) |> hd()
+  end
+
+
+  # se réveiller -> verbs/se_reveiller.json
+  defp verb_file_path(verb) do
+    file_name =
+      verb
+      |> String.normalize(:nfd)
+      |> String.replace(~r/[^A-z\s]/u, "")
+      |> String.replace(~r/\s/, "_")
+
+    "verbs/#{file_name}.json"
   end
 end

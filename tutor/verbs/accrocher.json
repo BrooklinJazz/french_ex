@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "J'accroche": "I hang/hook",
+    "Tu accroches": "You hang/hook",
+    "Il/Elle accroche": "He/She hangs/hooks",
+    "Nous accrochons": "We hang/hook",
+    "Vous accrochez": "You hang/hook (formal)",
+    "Ils/Elles accrochent": "They hang/hook"
+  },
+  "Imparfait (Imperfect)": {
+    "J'accrochais": "I used to hang/hook",
+    "Tu accrochais": "You used to hang/hook",
+    "Il/Elle accrochait": "He/She used to hang/hook",
+    "Nous accrochions": "We used to hang/hook",
+    "Vous accrochiez": "You used to hang/hook (formal)",
+    "Ils/Elles accrochaient": "They used to hang/hook"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai accroché": "I hung/hooked",
+    "Tu as accroché": "You hung/hooked",
+    "Il/Elle a accroché": "He/She hung/hooked",
+    "Nous avons accroché": "We hung/hooked",
+    "Vous avez accroché": "You hung/hooked (formal)",
+    "Ils/Elles ont accroché": "They hung/hooked"
+  },
+  "Futur simple (Simple Future)": {
+    "J'accrocherai": "I will hang/hook",
+    "Tu accrocheras": "You will hang/hook",
+    "Il/Elle accrochera": "He/She will hang/hook",
+    "Nous accrocherons": "We will hang/hook",
+    "Vous accrocherez": "You will hang/hook (formal)",
+    "Ils/Elles accrocheront": "They will hang/hook"
+  }
+}
