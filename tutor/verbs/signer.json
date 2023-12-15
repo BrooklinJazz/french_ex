@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je signe": "I sign",
+    "Tu signes": "You sign",
+    "Il/Elle signe": "He/She signs",
+    "Nous signons": "We sign",
+    "Vous signez": "You sign (formal)",
+    "Ils/Elles signent": "They sign"
+  },
+  "Imparfait (Imperfect)": {
+    "Je signais": "I used to sign",
+    "Tu signais": "You used to sign",
+    "Il/Elle signait": "He/She used to sign",
+    "Nous signions": "We used to sign",
+    "Vous signiez": "You used to sign (formal)",
+    "Ils/Elles signaient": "They used to sign"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai signé": "I signed",
+    "Tu as signé": "You signed",
+    "Il/Elle a signé": "He/She signed",
+    "Nous avons signé": "We signed",
+    "Vous avez signé": "You signed (formal)",
+    "Ils/Elles ont signé": "They signed"
+  },
+  "Futur simple (Simple Future)": {
+    "Je signerai": "I will sign",
+    "Tu signeras": "You will sign",
+    "Il/Elle signera": "He/She will sign",
+    "Nous signerons": "We will sign",
+    "Vous signerez": "You will sign (formal)",
+    "Ils/Elles signeront": "They will sign"
+  }
+}

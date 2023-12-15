@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je retrouve": "I find/meet",
+    "Tu retrouves": "You find/meet",
+    "Il/Elle retrouve": "He/She finds/meets",
+    "Nous retrouvons": "We find/meet",
+    "Vous retrouvez": "You find/meet (formal)",
+    "Ils/Elles retrouvent": "They find/meet"
+  },
+  "Imparfait (Imperfect)": {
+    "Je retrouvais": "I used to find/meet",
+    "Tu retrouvais": "You used to find/meet",
+    "Il/Elle retrouvait": "He/She used to find/meet",
+    "Nous retrouvions": "We used to find/meet",
+    "Vous retrouviez": "You used to find/meet (formal)",
+    "Ils/Elles retrouvaient": "They used to find/meet"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai retrouvé": "I found/met",
+    "Tu as retrouvé": "You found/met",
+    "Il/Elle a retrouvé": "He/She found/met",
+    "Nous avons retrouvé": "We found/met",
+    "Vous avez retrouvé": "You found/met (formal)",
+    "Ils/Elles ont retrouvé": "They found/met"
+  },
+  "Futur simple (Simple Future)": {
+    "Je retrouverai": "I will find/meet",
+    "Tu retrouveras": "You will find/meet",
+    "Il/Elle retrouvera": "He/She will find/meet",
+    "Nous retrouverons": "We will find/meet",
+    "Vous retrouverez": "You will find/meet (formal)",
+    "Ils/Elles retrouveront": "They will find/meet"
+  }
+}

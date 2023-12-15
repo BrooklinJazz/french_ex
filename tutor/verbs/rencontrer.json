@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je rencontre": "I meet",
+    "Tu rencontres": "You meet",
+    "Il/Elle rencontre": "He/She meets",
+    "Nous rencontrons": "We meet",
+    "Vous rencontrez": "You meet (formal)",
+    "Ils/Elles rencontrent": "They meet"
+  },
+  "Imparfait (Imperfect)": {
+    "Je rencontrais": "I used to meet",
+    "Tu rencontrais": "You used to meet",
+    "Il/Elle rencontrait": "He/She used to meet",
+    "Nous rencontrions": "We used to meet",
+    "Vous rencontriez": "You used to meet (formal)",
+    "Ils/Elles rencontraient": "They used to meet"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai rencontré": "I met",
+    "Tu as rencontré": "You met",
+    "Il/Elle a rencontré": "He/She met",
+    "Nous avons rencontré": "We met",
+    "Vous avez rencontré": "You met (formal)",
+    "Ils/Elles ont rencontré": "They met"
+  },
+  "Futur simple (Simple Future)": {
+    "Je rencontrerai": "I will meet",
+    "Tu rencontreras": "You will meet",
+    "Il/Elle rencontrera": "He/She will meet",
+    "Nous rencontrerons": "We will meet",
+    "Vous rencontrerez": "You will meet (formal)",
+    "Ils/Elles rencontreront": "They will meet"
+  }
+}
