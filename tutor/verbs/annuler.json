@@ -1,0 +1,55 @@
+{
+  "Présent (Present)": {
+    "J'annule": "I cancel",
+    "Tu annules": "You cancel",
+    "Il/Elle annule": "He/She cancels",
+    "Nous annulons": "We cancel",
+    "Vous annulez": "You cancel (formal)",
+    "Ils/Elles annulent": "They cancel"
+  },
+  "Imparfait (Imperfect)": {
+    "J'annulais": "I used to cancel",
+    "Tu annulais": "You used to cancel",
+    "Il/Elle annulait": "He/She used to cancel",
+    "Nous annulions": "We used to cancel",
+    "Vous annuliez": "You used to cancel (formal)",
+    "Ils/Elles annulaient": "They used to cancel"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai annulé": "I have canceled",
+    "Tu as annulé": "You have canceled",
+    "Il/Elle a annulé": "He/She has canceled",
+    "Nous avons annulé": "We have canceled",
+    "Vous avez annulé": "You have canceled (formal)",
+    "Ils/Elles ont annulé": "They have canceled"
+  },
+  "Futur (Future)": {
+    "J'annulerai": "I will cancel",
+    "Tu annuleras": "You will cancel",
+    "Il/Elle annulera": "He/She will cancel",
+    "Nous annulerons": "We will cancel",
+    "Vous annulerez": "You will cancel (formal)",
+    "Ils/Elles annuleront": "They will cancel"
+  },
+  "Conditionnel (Conditional)": {
+    "J'annulerais": "I would cancel",
+    "Tu annulerais": "You would cancel",
+    "Il/Elle annulerait": "He/She would cancel",
+    "Nous annulerions": "We would cancel",
+    "Vous annuleriez": "You would cancel (formal)",
+    "Ils/Elles annuleraient": "They would cancel"
+  },
+  "Subjonctif (Subjunctive)": {
+    "Que j'annule": "That I cancel",
+    "Que tu annules": "That you cancel",
+    "Qu'il/elle annule": "That he/she cancels",
+    "Que nous annulions": "That we cancel",
+    "Que vous annuliez": "That you cancel (formal)",
+    "Qu'ils/elles annulent": "That they cancel"
+  },
+  "Impératif (Imperative)": {
+    "Annule": "Cancel (tu)",
+    "Annulons": "Let's cancel (nous)",
+    "Annulez": "Cancel (vous)"
+  }
+}

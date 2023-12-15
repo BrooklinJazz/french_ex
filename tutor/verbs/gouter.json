@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je goûte": "I taste",
+    "Tu goûtes": "You taste",
+    "Il/Elle goûte": "He/She tastes",
+    "Nous goûtons": "We taste",
+    "Vous goûtez": "You taste (formal)",
+    "Ils/Elles goûtent": "They taste"
+  },
+  "Imparfait (Imperfect)": {
+    "Je goûtais": "I used to taste",
+    "Tu goûtais": "You used to taste",
+    "Il/Elle goûtait": "He/She used to taste",
+    "Nous goûtions": "We used to taste",
+    "Vous goûtiez": "You used to taste (formal)",
+    "Ils/Elles goûtaient": "They used to taste"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai goûté": "I tasted",
+    "Tu as goûté": "You tasted",
+    "Il/Elle a goûté": "He/She tasted",
+    "Nous avons goûté": "We tasted",
+    "Vous avez goûté": "You tasted (formal)",
+    "Ils/Elles ont goûté": "They tasted"
+  },
+  "Futur simple (Simple Future)": {
+    "Je goûterai": "I will taste",
+    "Tu goûteras": "You will taste",
+    "Il/Elle goûtera": "He/She will taste",
+    "Nous goûterons": "We will taste",
+    "Vous goûterez": "You will taste (formal)",
+    "Ils/Elles goûteront": "They will taste"
+  }
+}

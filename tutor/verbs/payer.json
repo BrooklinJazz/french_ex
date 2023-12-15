@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je paie": "I pay / I'm paying",
+    "Tu paies": "You pay / You're paying",
+    "Il/Elle paie": "He/She pays / He/She's paying",
+    "Nous payons": "We pay / We're paying",
+    "Vous payez": "You pay / You're paying (formal)",
+    "Ils/Elles paient": "They pay / They're paying"
+  },
+  "Imparfait (Imperfect)": {
+    "Je payais": "I used to pay",
+    "Tu payais": "You used to pay",
+    "Il/Elle payait": "He/She used to pay",
+    "Nous payions": "We used to pay",
+    "Vous payiez": "You used to pay (formal)",
+    "Ils/Elles payaient": "They used to pay"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai payé": "I paid / I've paid",
+    "Tu as payé": "You paid / You've paid",
+    "Il/Elle a payé": "He/She paid / He/She's paid",
+    "Nous avons payé": "We paid / We've paid",
+    "Vous avez payé": "You paid / You've paid (formal)",
+    "Ils/Elles ont payé": "They paid / They've paid"
+  },
+  "Futur simple (Simple Future)": {
+    "Je paierai": "I will pay",
+    "Tu paieras": "You will pay",
+    "Il/Elle paiera": "He/She will pay",
+    "Nous paierons": "We will pay",
+    "Vous paierez": "You will pay (formal)",
+    "Ils/Elles paieront": "They will pay"
+  }
+}

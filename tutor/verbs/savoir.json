@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je sais": "I know",
+    "Tu sais": "You know",
+    "Il/Elle sait": "He/She knows",
+    "Nous savons": "We know",
+    "Vous savez": "You know (formal)",
+    "Ils/Elles savent": "They know"
+  },
+  "Imparfait (Imperfect)": {
+    "Je savais": "I used to know",
+    "Tu savais": "You used to know",
+    "Il/Elle savait": "He/She used to know",
+    "Nous savions": "We used to know",
+    "Vous saviez": "You used to know (formal)",
+    "Ils/Elles savaient": "They used to know"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai su": "I knew",
+    "Tu as su": "You knew",
+    "Il/Elle a su": "He/She knew",
+    "Nous avons su": "We knew",
+    "Vous avez su": "You knew (formal)",
+    "Ils/Elles ont su": "They knew"
+  },
+  "Futur simple (Simple Future)": {
+    "Je saurai": "I will know",
+    "Tu sauras": "You will know",
+    "Il/Elle saura": "He/She will know",
+    "Nous saurons": "We will know",
+    "Vous saurez": "You will know (formal)",
+    "Ils/Elles sauront": "They will know"
+  }
+}

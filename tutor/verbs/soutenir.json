@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je soutiens": "I support",
+    "Tu soutiens": "You support",
+    "Il/Elle soutient": "He/She supports",
+    "Nous soutenons": "We support",
+    "Vous soutenez": "You support (formal)",
+    "Ils/Elles soutiennent": "They support"
+  },
+  "Imparfait (Imperfect)": {
+    "Je soutenais": "I used to support",
+    "Tu soutenais": "You used to support",
+    "Il/Elle soutenait": "He/She used to support",
+    "Nous soutenions": "We used to support",
+    "Vous souteniez": "You used to support (formal)",
+    "Ils/Elles soutenaient": "They used to support"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai soutenu": "I supported",
+    "Tu as soutenu": "You supported",
+    "Il/Elle a soutenu": "He/She supported",
+    "Nous avons soutenu": "We supported",
+    "Vous avez soutenu": "You supported (formal)",
+    "Ils/Elles ont soutenu": "They supported"
+  },
+  "Futur simple (Simple Future)": {
+    "Je soutiendrai": "I will support",
+    "Tu soutiendras": "You will support",
+    "Il/Elle soutiendra": "He/She will support",
+    "Nous soutiendrons": "We will support",
+    "Vous soutiendrez": "You will support (formal)",
+    "Ils/Elles soutiendront": "They will support"
+  }
+}

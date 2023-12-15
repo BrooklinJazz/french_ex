@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "J'oublie": "I forget / I'm forgetting",
+    "Tu oublies": "You forget / You're forgetting",
+    "Il/Elle oublie": "He/She forgets / He/She's forgetting",
+    "Nous oublions": "We forget / We're forgetting",
+    "Vous oubliez": "You forget / You're forgetting (formal)",
+    "Ils/Elles oublient": "They forget / They're forgetting"
+  },
+  "Imparfait (Imperfect)": {
+    "J'oubliais": "I used to forget",
+    "Tu oubliais": "You used to forget",
+    "Il/Elle oubliait": "He/She used to forget",
+    "Nous oubliions": "We used to forget",
+    "Vous oubliiez": "You used to forget (formal)",
+    "Ils/Elles oubliaient": "They used to forget"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai oublié": "I forgot / I've forgotten",
+    "Tu as oublié": "You forgot / You've forgotten",
+    "Il/Elle a oublié": "He/She forgot / He/She's forgotten",
+    "Nous avons oublié": "We forgot / We've forgotten",
+    "Vous avez oublié": "You forgot / You've forgotten (formal)",
+    "Ils/Elles ont oublié": "They forgot / They've forgotten"
+  },
+  "Futur simple (Simple Future)": {
+    "J'oublierai": "I will forget",
+    "Tu oublieras": "You will forget",
+    "Il/Elle oubliera": "He/She will forget",
+    "Nous oublierons": "We will forget",
+    "Vous oublierez": "You will forget (formal)",
+    "Ils/Elles oublieront": "They will forget"
+  }
+}

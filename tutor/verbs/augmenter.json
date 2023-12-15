@@ -1,0 +1,55 @@
+{
+  "Présent (Present)": {
+    "J'augmente": "I increase",
+    "Tu augmentes": "You increase",
+    "Il/Elle augmente": "He/She increases",
+    "Nous augmentons": "We increase",
+    "Vous augmentez": "You increase (formal)",
+    "Ils/Elles augmentent": "They increase"
+  },
+  "Imparfait (Imperfect)": {
+    "J'augmentais": "I used to increase",
+    "Tu augmentais": "You used to increase",
+    "Il/Elle augmentait": "He/She used to increase",
+    "Nous augmentions": "We used to increase",
+    "Vous augmentiez": "You used to increase (formal)",
+    "Ils/Elles augmentaient": "They used to increase"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai augmenté": "I have increased",
+    "Tu as augmenté": "You have increased",
+    "Il/Elle a augmenté": "He/She has increased",
+    "Nous avons augmenté": "We have increased",
+    "Vous avez augmenté": "You have increased (formal)",
+    "Ils/Elles ont augmenté": "They have increased"
+  },
+  "Futur (Future)": {
+    "J'augmenterai": "I will increase",
+    "Tu augmenteras": "You will increase",
+    "Il/Elle augmentera": "He/She will increase",
+    "Nous augmenterons": "We will increase",
+    "Vous augmenterez": "You will increase (formal)",
+    "Ils/Elles augmenteront": "They will increase"
+  },
+  "Conditionnel (Conditional)": {
+    "J'augmenterais": "I would increase",
+    "Tu augmenterais": "You would increase",
+    "Il/Elle augmenterait": "He/She would increase",
+    "Nous augmenterions": "We would increase",
+    "Vous augmenteriez": "You would increase (formal)",
+    "Ils/Elles augmenteraient": "They would increase"
+  },
+  "Subjonctif (Subjunctive)": {
+    "Que j'augmente": "That I increase",
+    "Que tu augmentes": "That you increase",
+    "Qu'il/elle augmente": "That he/she increases",
+    "Que nous augmentions": "That we increase",
+    "Que vous augmentiez": "That you increase (formal)",
+    "Qu'ils/elles augmentent": "That they increase"
+  },
+  "Impératif (Imperative)": {
+    "Augmente": "Increase (tu)",
+    "Augmentons": "Let's increase (nous)",
+    "Augmentez": "Increase (vous)"
+  }
+}

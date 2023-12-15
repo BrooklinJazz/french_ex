@@ -1,0 +1,55 @@
+{
+  "Présent (Present)": {
+    "J'arrête": "I stop",
+    "Tu arrêtes": "You stop",
+    "Il/Elle arrête": "He/She stops",
+    "Nous arrêtons": "We stop",
+    "Vous arrêtez": "You stop (formal)",
+    "Ils/Elles arrêtent": "They stop"
+  },
+  "Imparfait (Imperfect)": {
+    "J'arrêtais": "I used to stop",
+    "Tu arrêtais": "You used to stop",
+    "Il/Elle arrêtait": "He/She used to stop",
+    "Nous arrêtions": "We used to stop",
+    "Vous arrêtiez": "You used to stop (formal)",
+    "Ils/Elles arrêtaient": "They used to stop"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai arrêté": "I have stopped",
+    "Tu as arrêté": "You have stopped",
+    "Il/Elle a arrêté": "He/She has stopped",
+    "Nous avons arrêté": "We have stopped",
+    "Vous avez arrêté": "You have stopped (formal)",
+    "Ils/Elles ont arrêté": "They have stopped"
+  },
+  "Futur (Future)": {
+    "J'arrêterai": "I will stop",
+    "Tu arrêteras": "You will stop",
+    "Il/Elle arrêtera": "He/She will stop",
+    "Nous arrêterons": "We will stop",
+    "Vous arrêterez": "You will stop (formal)",
+    "Ils/Elles arrêteront": "They will stop"
+  },
+  "Conditionnel (Conditional)": {
+    "J'arrêterais": "I would stop",
+    "Tu arrêterais": "You would stop",
+    "Il/Elle arrêterait": "He/She would stop",
+    "Nous arrêterions": "We would stop",
+    "Vous arrêteriez": "You would stop (formal)",
+    "Ils/Elles arrêteraient": "They would stop"
+  },
+  "Subjonctif (Subjunctive)": {
+    "Que j'arrête": "That I stop",
+    "Que tu arrêtes": "That you stop",
+    "Qu'il/elle arrête": "That he/she stops",
+    "Que nous arrêtions": "That we stop",
+    "Que vous arrêtiez": "That you stop (formal)",
+    "Qu'ils/elles arrêtent": "That they stop"
+  },
+  "Impératif (Imperative)": {
+    "Arrête": "Stop (tu)",
+    "Arrêtons": "Let's stop (nous)",
+    "Arrêtez": "Stop (vous)"
+  }
+}

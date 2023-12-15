@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je cherche": "I look for",
+    "Tu cherches": "You look for",
+    "Il/Elle cherche": "He/She looks for",
+    "Nous cherchons": "We look for",
+    "Vous cherchez": "You look for (formal)",
+    "Ils/Elles cherchent": "They look for"
+  },
+  "Imparfait (Imperfect)": {
+    "Je cherchais": "I used to look for",
+    "Tu cherchais": "You used to look for",
+    "Il/Elle cherchait": "He/She used to look for",
+    "Nous cherchions": "We used to look for",
+    "Vous cherchiez": "You used to look for (formal)",
+    "Ils/Elles cherchaient": "They used to look for"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai cherché": "I have looked for",
+    "Tu as cherché": "You have looked for",
+    "Il/Elle a cherché": "He/She has looked for",
+    "Nous avons cherché": "We have looked for",
+    "Vous avez cherché": "You have looked for (formal)",
+    "Ils/Elles ont cherché": "They have looked for"
+  },
+  "Futur simple (Simple Future)": {
+    "Je chercherai": "I will look for",
+    "Tu chercheras": "You will look for",
+    "Il/Elle cherchera": "He/She will look for",
+    "Nous chercherons": "We will look for",
+    "Vous chercherez": "You will look for (formal)",
+    "Ils/Elles chercheront": "They will look for"
+  }
+}

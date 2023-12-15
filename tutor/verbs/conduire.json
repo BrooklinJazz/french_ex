@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je conduis": "I drive, lead",
+    "Tu conduis": "You drive, lead",
+    "Il/Elle conduit": "He/She drives, leads",
+    "Nous conduisons": "We drive, lead",
+    "Vous conduisez": "You drive, lead (formal)",
+    "Ils/Elles conduisent": "They drive, lead"
+  },
+  "Imparfait (Imperfect)": {
+    "Je conduisais": "I used to drive, lead",
+    "Tu conduisais": "You used to drive, lead",
+    "Il/Elle conduisait": "He/She used to drive, lead",
+    "Nous conduisions": "We used to drive, lead",
+    "Vous conduisiez": "You used to drive, lead (formal)",
+    "Ils/Elles conduisaient": "They used to drive, lead"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai conduit": "I have driven, led",
+    "Tu as conduit": "You have driven, led",
+    "Il/Elle a conduit": "He/She has driven, led",
+    "Nous avons conduit": "We have driven, led",
+    "Vous avez conduit": "You have driven, led (formal)",
+    "Ils/Elles ont conduit": "They have driven, led"
+  },
+  "Futur simple (Simple Future)": {
+    "Je conduirai": "I will drive, lead",
+    "Tu conduiras": "You will drive, lead",
+    "Il/Elle conduira": "He/She will drive, lead",
+    "Nous conduirons": "We will drive, lead",
+    "Vous conduirez": "You will drive, lead (formal)",
+    "Ils/Elles conduiront": "They will drive, lead"
+  }
+}

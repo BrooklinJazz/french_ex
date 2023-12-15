@@ -1,0 +1,55 @@
+{
+  "Présent (Present)": {
+    "J'allume": "I turn on",
+    "Tu allumes": "You turn on",
+    "Il/Elle allume": "He/She turns on",
+    "Nous allumons": "We turn on",
+    "Vous allumez": "You turn on (formal)",
+    "Ils/Elles allument": "They turn on"
+  },
+  "Imparfait (Imperfect)": {
+    "J'allumais": "I used to turn on",
+    "Tu allumais": "You used to turn on",
+    "Il/Elle allumait": "He/She used to turn on",
+    "Nous allumions": "We used to turn on",
+    "Vous allumiez": "You used to turn on (formal)",
+    "Ils/Elles allumaient": "They used to turn on"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai allumé": "I have turned on",
+    "Tu as allumé": "You have turned on",
+    "Il/Elle a allumé": "He/She has turned on",
+    "Nous avons allumé": "We have turned on",
+    "Vous avez allumé": "You have turned on (formal)",
+    "Ils/Elles ont allumé": "They have turned on"
+  },
+  "Futur (Future)": {
+    "J'allumerai": "I will turn on",
+    "Tu allumeras": "You will turn on",
+    "Il/Elle allumera": "He/She will turn on",
+    "Nous allumerons": "We will turn on",
+    "Vous allumerez": "You will turn on (formal)",
+    "Ils/Elles allumeront": "They will turn on"
+  },
+  "Conditionnel (Conditional)": {
+    "J'allumerais": "I would turn on",
+    "Tu allumerais": "You would turn on",
+    "Il/Elle allumerait": "He/She would turn on",
+    "Nous allumerions": "We would turn on",
+    "Vous allumeriez": "You would turn on (formal)",
+    "Ils/Elles allumeraient": "They would turn on"
+  },
+  "Subjonctif (Subjunctive)": {
+    "Que j'allume": "That I turn on",
+    "Que tu allumes": "That you turn on",
+    "Qu'il/elle allume": "That he/she turns on",
+    "Que nous allumions": "That we turn on",
+    "Que vous allumiez": "That you turn on (formal)",
+    "Qu'ils/elles allument": "That they turn on"
+  },
+  "Impératif (Imperative)": {
+    "Allume": "Turn on (tu)",
+    "Allumons": "Let's turn on (nous)",
+    "Allumez": "Turn on (vous)"
+  }
+}

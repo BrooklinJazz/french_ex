@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je comprends": "I understand",
+    "Tu comprends": "You understand",
+    "Il/Elle comprend": "He/She understands",
+    "Nous comprenons": "We understand",
+    "Vous comprenez": "You understand (formal)",
+    "Ils/Elles comprennent": "They understand"
+  },
+  "Imparfait (Imperfect)": {
+    "Je comprenais": "I used to understand",
+    "Tu comprenais": "You used to understand",
+    "Il/Elle comprenait": "He/She used to understand",
+    "Nous comprenions": "We used to understand",
+    "Vous compreniez": "You used to understand (formal)",
+    "Ils/Elles comprenaient": "They used to understand"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai compris": "I have understood",
+    "Tu as compris": "You have understood",
+    "Il/Elle a compris": "He/She has understood",
+    "Nous avons compris": "We have understood",
+    "Vous avez compris": "You have understood (formal)",
+    "Ils/Elles ont compris": "They have understood"
+  },
+  "Futur simple (Simple Future)": {
+    "Je comprendrai": "I will understand",
+    "Tu comprendras": "You will understand",
+    "Il/Elle comprendra": "He/She will understand",
+    "Nous comprendrons": "We will understand",
+    "Vous comprendrez": "You will understand (formal)",
+    "Ils/Elles comprendront": "They will understand"
+  }
+}

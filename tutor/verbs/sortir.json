@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je sors": "I go out / I take out",
+    "Tu sors": "You go out / You take out",
+    "Il/Elle sort": "He/She goes out / He/She takes out",
+    "Nous sortons": "We go out / We take out",
+    "Vous sortez": "You go out / You take out (formal)",
+    "Ils/Elles sortent": "They go out / They take out"
+  },
+  "Imparfait (Imperfect)": {
+    "Je sortais": "I used to go out / I used to take out",
+    "Tu sortais": "You used to go out / You used to take out",
+    "Il/Elle sortait": "He/She used to go out / He/She used to take out",
+    "Nous sortions": "We used to go out / We used to take out",
+    "Vous sortiez": "You used to go out / You used to take out (formal)",
+    "Ils/Elles sortaient": "They used to go out / They used to take out"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai sorti": "I went out / I took out",
+    "Tu as sorti": "You went out / You took out",
+    "Il/Elle a sorti": "He/She went out / He/She took out",
+    "Nous avons sorti": "We went out / We took out",
+    "Vous avez sorti": "You went out / You took out (formal)",
+    "Ils/Elles ont sorti": "They went out / They took out"
+  },
+  "Futur simple (Simple Future)": {
+    "Je sortirai": "I will go out / I will take out",
+    "Tu sortiras": "You will go out / You will take out",
+    "Il/Elle sortira": "He/She will go out / He/She will take out",
+    "Nous sortirons": "We will go out / We will take out",
+    "Vous sortirez": "You will go out / You will take out (formal)",
+    "Ils/Elles sortiront": "They will go out / They will take out"
+  }
+}

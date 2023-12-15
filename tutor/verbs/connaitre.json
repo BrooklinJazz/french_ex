@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je connais": "I know, am familiar with",
+    "Tu connais": "You know, are familiar with",
+    "Il/Elle connaît": "He/She knows, is familiar with",
+    "Nous connaissons": "We know, are familiar with",
+    "Vous connaissez": "You know, are familiar with (formal)",
+    "Ils/Elles connaissent": "They know, are familiar with"
+  },
+  "Imparfait (Imperfect)": {
+    "Je connaissais": "I used to know, was familiar with",
+    "Tu connaissais": "You used to know, were familiar with",
+    "Il/Elle connaissait": "He/She used to know, was familiar with",
+    "Nous connaissions": "We used to know, were familiar with",
+    "Vous connaissiez": "You used to know, were familiar with (formal)",
+    "Ils/Elles connaissaient": "They used to know, were familiar with"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai connu": "I have known, experienced",
+    "Tu as connu": "You have known, experienced",
+    "Il/Elle a connu": "He/She has known, experienced",
+    "Nous avons connu": "We have known, experienced",
+    "Vous avez connu": "You have known, experienced (formal)",
+    "Ils/Elles ont connu": "They have known, experienced"
+  },
+  "Futur simple (Simple Future)": {
+    "Je connaîtrai": "I will know, be familiar with",
+    "Tu connaîtras": "You will know, be familiar with",
+    "Il/Elle connaîtra": "He/She will know, be familiar with",
+    "Nous connaîtrons": "We will know, be familiar with",
+    "Vous connaîtrez": "You will know, be familiar with (formal)",
+    "Ils/Elles connaîtront": "They will know, be familiar with"
+  }
+}

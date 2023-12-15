@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je ressens": "I feel",
+    "Tu ressens": "You feel",
+    "Il/Elle ressent": "He/She feels",
+    "Nous ressentons": "We feel",
+    "Vous ressentez": "You feel (formal)",
+    "Ils/Elles ressentent": "They feel"
+  },
+  "Imparfait (Imperfect)": {
+    "Je ressentais": "I used to feel",
+    "Tu ressentais": "You used to feel",
+    "Il/Elle ressentait": "He/She used to feel",
+    "Nous ressentions": "We used to feel",
+    "Vous ressentiez": "You used to feel (formal)",
+    "Ils/Elles ressentaient": "They used to feel"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai ressenti": "I felt",
+    "Tu as ressenti": "You felt",
+    "Il/Elle a ressenti": "He/She felt",
+    "Nous avons ressenti": "We felt",
+    "Vous avez ressenti": "You felt (formal)",
+    "Ils/Elles ont ressenti": "They felt"
+  },
+  "Futur simple (Simple Future)": {
+    "Je ressentirai": "I will feel",
+    "Tu ressentiras": "You will feel",
+    "Il/Elle ressentira": "He/She will feel",
+    "Nous ressentirons": "We will feel",
+    "Vous ressentirez": "You will feel (formal)",
+    "Ils/Elles ressentiront": "They will feel"
+  }
+}

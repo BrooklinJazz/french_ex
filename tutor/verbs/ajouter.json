@@ -1,0 +1,55 @@
+{
+  "Présent (Present)": {
+    "J'ajoute": "I add",
+    "Tu ajoutes": "You add",
+    "Il/Elle ajoute": "He/She adds",
+    "Nous ajoutons": "We add",
+    "Vous ajoutez": "You add (formal)",
+    "Ils/Elles ajoutent": "They add"
+  },
+  "Imparfait (Imperfect)": {
+    "J'ajoutais": "I used to add",
+    "Tu ajoutais": "You used to add",
+    "Il/Elle ajoutait": "He/She used to add",
+    "Nous ajoutions": "We used to add",
+    "Vous ajoutiez": "You used to add (formal)",
+    "Ils/Elles ajoutaient": "They used to add"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai ajouté": "I have added",
+    "Tu as ajouté": "You have added",
+    "Il/Elle a ajouté": "He/She has added",
+    "Nous avons ajouté": "We have added",
+    "Vous avez ajouté": "You have added (formal)",
+    "Ils/Elles ont ajouté": "They have added"
+  },
+  "Futur (Future)": {
+    "J'ajouterai": "I will add",
+    "Tu ajouteras": "You will add",
+    "Il/Elle ajoutera": "He/She will add",
+    "Nous ajouterons": "We will add",
+    "Vous ajouterez": "You will add (formal)",
+    "Ils/Elles ajouteront": "They will add"
+  },
+  "Conditionnel (Conditional)": {
+    "J'ajouterais": "I would add",
+    "Tu ajouterais": "You would add",
+    "Il/Elle ajouterait": "He/She would add",
+    "Nous ajouterions": "We would add",
+    "Vous ajouteriez": "You would add (formal)",
+    "Ils/Elles ajouteraient": "They would add"
+  },
+  "Subjonctif (Subjunctive)": {
+    "Que j'ajoute": "That I add",
+    "Que tu ajoutes": "That you add",
+    "Qu'il/elle ajoute": "That he/she adds",
+    "Que nous ajoutions": "That we add",
+    "Que vous ajoutiez": "That you add (formal)",
+    "Qu'ils/elles ajoutent": "That they add"
+  },
+  "Impératif (Imperative)": {
+    "Ajoute": "Add (tu)",
+    "Ajoutons": "Let's add (nous)",
+    "Ajoutez": "Add (vous)"
+  }
+}

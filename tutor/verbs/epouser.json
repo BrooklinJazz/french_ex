@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "J'épouse": "I marry, I espouse",
+    "Tu épouses": "You marry, You espouse",
+    "Il/Elle épouse": "He/She marries, He/She espouses",
+    "Nous épousons": "We marry, We espouse",
+    "Vous épousez": "You marry, You espouse (formal)",
+    "Ils/Elles épousent": "They marry, They espouse"
+  },
+  "Imparfait (Imperfect)": {
+    "J'épousais": "I used to marry, I used to espouse",
+    "Tu épousais": "You used to marry, You used to espouse",
+    "Il/Elle épousait": "He/She used to marry, He/She used to espouse",
+    "Nous épousions": "We used to marry, We used to espouse",
+    "Vous épousiez": "You used to marry, You used to espouse (formal)",
+    "Ils/Elles épousaient": "They used to marry, They used to espouse"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai épousé": "I married, I espoused",
+    "Tu as épousé": "You married, You espoused",
+    "Il/Elle a épousé": "He/She married, He/She espoused",
+    "Nous avons épousé": "We married, We espoused",
+    "Vous avez épousé": "You married, You espoused (formal)",
+    "Ils/Elles ont épousé": "They married, They espoused"
+  },
+  "Futur simple (Simple Future)": {
+    "J'épouserai": "I will marry, I will espouse",
+    "Tu épouseras": "You will marry, You will espouse",
+    "Il/Elle épousera": "He/She will marry, He/She will espouse",
+    "Nous épouserons": "We will marry, We will espouse",
+    "Vous épouserez": "You will marry, You will espouse (formal)",
+    "Ils/Elles épouseront": "They will marry, They will espouse"
+  }
+}

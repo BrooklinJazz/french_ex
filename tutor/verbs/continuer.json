@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je continue": "I continue",
+    "Tu continues": "You continue",
+    "Il/Elle continue": "He/She continues",
+    "Nous continuons": "We continue",
+    "Vous continuez": "You continue (formal)",
+    "Ils/Elles continuent": "They continue"
+  },
+  "Imparfait (Imperfect)": {
+    "Je continuais": "I used to continue",
+    "Tu continuais": "You used to continue",
+    "Il/Elle continuait": "He/She used to continue",
+    "Nous continuions": "We used to continue",
+    "Vous continuiez": "You used to continue (formal)",
+    "Ils/Elles continuaient": "They used to continue"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai continué": "I have continued",
+    "Tu as continué": "You have continued",
+    "Il/Elle a continué": "He/She has continued",
+    "Nous avons continué": "We have continued",
+    "Vous avez continué": "You have continued (formal)",
+    "Ils/Elles ont continué": "They have continued"
+  },
+  "Futur simple (Simple Future)": {
+    "Je continuerai": "I will continue",
+    "Tu continueras": "You will continue",
+    "Il/Elle continuera": "He/She will continue",
+    "Nous continuerons": "We will continue",
+    "Vous continuerez": "You will continue (formal)",
+    "Ils/Elles continueront": "They will continue"
+  }
+}

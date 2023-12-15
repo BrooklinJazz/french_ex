@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je remets": "I put back",
+    "Tu remets": "You put back",
+    "Il/Elle remet": "He/She puts back",
+    "Nous remettons": "We put back",
+    "Vous remettez": "You put back (formal)",
+    "Ils/Elles remettent": "They put back"
+  },
+  "Imparfait (Imperfect)": {
+    "Je remettais": "I used to put back",
+    "Tu remettais": "You used to put back",
+    "Il/Elle remettait": "He/She used to put back",
+    "Nous remettions": "We used to put back",
+    "Vous remettiez": "You used to put back (formal)",
+    "Ils/Elles remettaient": "They used to put back"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai remis": "I put back",
+    "Tu as remis": "You put back",
+    "Il/Elle a remis": "He/She put back",
+    "Nous avons remis": "We put back",
+    "Vous avez remis": "You put back (formal)",
+    "Ils/Elles ont remis": "They put back"
+  },
+  "Futur simple (Simple Future)": {
+    "Je remettrai": "I will put back",
+    "Tu remettras": "You will put back",
+    "Il/Elle remettra": "He/She will put back",
+    "Nous remettrons": "We will put back",
+    "Vous remettrez": "You will put back (formal)",
+    "Ils/Elles remettront": "They will put back"
+  }
+}

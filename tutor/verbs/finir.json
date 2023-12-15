@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je finis": "I finish",
+    "Tu finis": "You finish",
+    "Il/Elle finit": "He/She finishes",
+    "Nous finissons": "We finish",
+    "Vous finissez": "You finish (formal)",
+    "Ils/Elles finissent": "They finish"
+  },
+  "Imparfait (Imperfect)": {
+    "Je finissais": "I used to finish",
+    "Tu finissais": "You used to finish",
+    "Il/Elle finissait": "He/She used to finish",
+    "Nous finissions": "We used to finish",
+    "Vous finissiez": "You used to finish (formal)",
+    "Ils/Elles finissaient": "They used to finish"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai fini": "I finished",
+    "Tu as fini": "You finished",
+    "Il/Elle a fini": "He/She finished",
+    "Nous avons fini": "We finished",
+    "Vous avez fini": "You finished (formal)",
+    "Ils/Elles ont fini": "They finished"
+  },
+  "Futur simple (Simple Future)": {
+    "Je finirai": "I will finish",
+    "Tu finiras": "You will finish",
+    "Il/Elle finira": "He/She will finish",
+    "Nous finirons": "We will finish",
+    "Vous finirez": "You will finish (formal)",
+    "Ils/Elles finiront": "They will finish"
+  }
+}

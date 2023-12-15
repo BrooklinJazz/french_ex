@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je perds": "I lose / I'm losing",
+    "Tu perds": "You lose / You're losing",
+    "Il/Elle perd": "He/She loses / He/She's losing",
+    "Nous perdons": "We lose / We're losing",
+    "Vous perdez": "You lose / You're losing (formal)",
+    "Ils/Elles perdent": "They lose / They're losing"
+  },
+  "Imparfait (Imperfect)": {
+    "Je perdais": "I used to lose",
+    "Tu perdais": "You used to lose",
+    "Il/Elle perdait": "He/She used to lose",
+    "Nous perdions": "We used to lose",
+    "Vous perdiez": "You used to lose (formal)",
+    "Ils/Elles perdaient": "They used to lose"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai perdu": "I lost / I've lost",
+    "Tu as perdu": "You lost / You've lost",
+    "Il/Elle a perdu": "He/She lost / He/She's lost",
+    "Nous avons perdu": "We lost / We've lost",
+    "Vous avez perdu": "You lost / You've lost (formal)",
+    "Ils/Elles ont perdu": "They lost / They've lost"
+  },
+  "Futur simple (Simple Future)": {
+    "Je perdrai": "I will lose",
+    "Tu perdras": "You will lose",
+    "Il/Elle perdra": "He/She will lose",
+    "Nous perdrons": "We will lose",
+    "Vous perdrez": "You will lose (formal)",
+    "Ils/Elles perdront": "They will lose"
+  }
+}

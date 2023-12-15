@@ -1,0 +1,58 @@
+{
+  "Présent (Present)": {
+    "Je suis": "I am",
+    "Tu es": "You are",
+    "Il/Elle/On est": "He/She/One is",
+    "Nous sommes": "We are",
+    "Vous êtes": "You are (formal)",
+    "Ils/Elles sont": "They are"
+  },
+  "Imparfait (Imperfect)": {
+    "J'étais": "I was",
+    "Tu étais": "You were",
+    "Il/Elle/On était": "He/She/One was",
+    "Nous étions": "We were",
+    "Vous étiez": "You were (formal)",
+    "Ils/Elles étaient": "They were"
+  },
+  "Passé Composé (Past Simple)": {
+    "J'ai été": "I was",
+    "Tu as été": "You were",
+    "Il/Elle/On a été": "He/She/One was",
+    "Nous avons été": "We were",
+    "Vous avez été": "You were (formal)",
+    "Ils/Elles ont été": "They were"
+  },
+  "Futur Simple (Future)": {
+    "Je serai": "I will be",
+    "Tu seras": "You will be",
+    "Il/Elle/On sera": "He/She/One will be",
+    "Nous serons": "We will be",
+    "Vous serez": "You will be (formal)",
+    "Ils/Elles seront": "They will be"
+  },
+  "Conditionnel Présent (Conditional)": {
+    "Je serais": "I would be",
+    "Tu serais": "You would be",
+    "Il/Elle/On serait": "He/She/One would be",
+    "Nous serions": "We would be",
+    "Vous seriez": "You would be (formal)",
+    "Ils/Elles seraient": "They would be"
+  },
+  "Futur Proche (Near Future)": {
+    "Je vais être": "I am going to be",
+    "Tu vas être": "You are going to be",
+    "Il/Elle/On va être": "He/She/One is going to be",
+    "Nous allons être": "We are going to be",
+    "Vous allez être": "You are going to be",
+    "Ils/Elles vont être": "They are going to be"
+  },
+  "Subjonctif Présent (Subjunctive Present)": {
+    "Que je sois": "That I be",
+    "Que tu sois": "That you be",
+    "Qu'il/Elle/On soit": "That he/she/one be",
+    "Que nous soyons": "That we be",
+    "Que vous soyez": "That you be",
+    "Qu'ils/Elles soient": "That they be"
+  }
+}

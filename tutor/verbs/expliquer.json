@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "J'explique": "I explain",
+    "Tu expliques": "You explain",
+    "Il/Elle explique": "He/She explains",
+    "Nous expliquons": "We explain",
+    "Vous expliquez": "You explain (formal)",
+    "Ils/Elles expliquent": "They explain"
+  },
+  "Imparfait (Imperfect)": {
+    "J'expliquais": "I used to explain",
+    "Tu expliquais": "You used to explain",
+    "Il/Elle expliquait": "He/She used to explain",
+    "Nous expliquions": "We used to explain",
+    "Vous expliquiez": "You used to explain (formal)",
+    "Ils/Elles expliquaient": "They used to explain"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai expliqué": "I explained",
+    "Tu as expliqué": "You explained",
+    "Il/Elle a expliqué": "He/She explained",
+    "Nous avons expliqué": "We explained",
+    "Vous avez expliqué": "You explained (formal)",
+    "Ils/Elles ont expliqué": "They explained"
+  },
+  "Futur simple (Simple Future)": {
+    "J'expliquerai": "I will explain",
+    "Tu expliqueras": "You will explain",
+    "Il/Elle expliquera": "He/She will explain",
+    "Nous expliquerons": "We will explain",
+    "Vous expliquerez": "You will explain (formal)",
+    "Ils/Elles expliqueront": "They will explain"
+  }
+}

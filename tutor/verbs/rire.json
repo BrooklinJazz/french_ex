@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je ris": "I laugh",
+    "Tu ris": "You laugh",
+    "Il/Elle rit": "He/She laughs",
+    "Nous rions": "We laugh",
+    "Vous riez": "You laugh (formal)",
+    "Ils/Elles rient": "They laugh"
+  },
+  "Imparfait (Imperfect)": {
+    "Je riais": "I used to laugh",
+    "Tu riais": "You used to laugh",
+    "Il/Elle riait": "He/She used to laugh",
+    "Nous riions": "We used to laugh",
+    "Vous riiez": "You used to laugh (formal)",
+    "Ils/Elles riaient": "They used to laugh"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai ri": "I laughed",
+    "Tu as ri": "You laughed",
+    "Il/Elle a ri": "He/She laughed",
+    "Nous avons ri": "We laughed",
+    "Vous avez ri": "You laughed (formal)",
+    "Ils/Elles ont ri": "They laughed"
+  },
+  "Futur simple (Simple Future)": {
+    "Je rirai": "I will laugh",
+    "Tu riras": "You will laugh",
+    "Il/Elle rira": "He/She will laugh",
+    "Nous rirons": "We will laugh",
+    "Vous rirez": "You will laugh (formal)",
+    "Ils/Elles riront": "They will laugh"
+  }
+}

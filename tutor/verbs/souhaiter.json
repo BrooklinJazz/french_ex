@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je souhaite": "I wish",
+    "Tu souhaites": "You wish",
+    "Il/Elle souhaite": "He/She wishes",
+    "Nous souhaitons": "We wish",
+    "Vous souhaitez": "You wish (formal)",
+    "Ils/Elles souhaitent": "They wish"
+  },
+  "Imparfait (Imperfect)": {
+    "Je souhaitais": "I used to wish",
+    "Tu souhaitais": "You used to wish",
+    "Il/Elle souhaitait": "He/She used to wish",
+    "Nous souhaitions": "We used to wish",
+    "Vous souhaitiez": "You used to wish (formal)",
+    "Ils/Elles souhaitaient": "They used to wish"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai souhaité": "I wished",
+    "Tu as souhaité": "You wished",
+    "Il/Elle a souhaité": "He/She wished",
+    "Nous avons souhaité": "We wished",
+    "Vous avez souhaité": "You wished (formal)",
+    "Ils/Elles ont souhaité": "They wished"
+  },
+  "Futur simple (Simple Future)": {
+    "Je souhaiterai": "I will wish",
+    "Tu souhaiteras": "You will wish",
+    "Il/Elle souhaitera": "He/She will wish",
+    "Nous souhaiterons": "We will wish",
+    "Vous souhaiterez": "You will wish (formal)",
+    "Ils/Elles souhaiteront": "They will wish"
+  }
+}

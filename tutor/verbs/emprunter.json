@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "J'emprunte": "I borrow",
+    "Tu empruntes": "You borrow",
+    "Il/Elle emprunte": "He/She borrows",
+    "Nous empruntons": "We borrow",
+    "Vous empruntez": "You borrow (formal)",
+    "Ils/Elles empruntent": "They borrow"
+  },
+  "Imparfait (Imperfect)": {
+    "J'empruntais": "I used to borrow",
+    "Tu empruntais": "You used to borrow",
+    "Il/Elle empruntait": "He/She used to borrow",
+    "Nous empruntions": "We used to borrow",
+    "Vous empruntiez": "You used to borrow (formal)",
+    "Ils/Elles empruntaient": "They used to borrow"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai emprunté": "I borrowed",
+    "Tu as emprunté": "You borrowed",
+    "Il/Elle a emprunté": "He/She borrowed",
+    "Nous avons emprunté": "We borrowed",
+    "Vous avez emprunté": "You borrowed (formal)",
+    "Ils/Elles ont emprunté": "They borrowed"
+  },
+  "Futur simple (Simple Future)": {
+    "J'emprunterai": "I will borrow",
+    "Tu emprunteras": "You will borrow",
+    "Il/Elle empruntera": "He/She will borrow",
+    "Nous emprunterons": "We will borrow",
+    "Vous emprunterez": "You will borrow (formal)",
+    "Ils/Elles emprunteront": "They will borrow"
+  }
+}

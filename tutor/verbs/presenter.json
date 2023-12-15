@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je présente": "I introduce/present",
+    "Tu présentes": "You introduce/present",
+    "Il/Elle présente": "He/She introduces/presents",
+    "Nous présentons": "We introduce/present",
+    "Vous présentez": "You introduce/present (formal)",
+    "Ils/Elles présentent": "They introduce/present"
+  },
+  "Imparfait (Imperfect)": {
+    "Je présentais": "I used to introduce/present",
+    "Tu présentais": "You used to introduce/present",
+    "Il/Elle présentait": "He/She used to introduce/present",
+    "Nous présentions": "We used to introduce/present",
+    "Vous présentiez": "You used to introduce/present (formal)",
+    "Ils/Elles présentaient": "They used to introduce/present"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai présenté": "I introduced/presented",
+    "Tu as présenté": "You introduced/presented",
+    "Il/Elle a présenté": "He/She introduced/presented",
+    "Nous avons présenté": "We introduced/presented",
+    "Vous avez présenté": "You introduced/presented (formal)",
+    "Ils/Elles ont présenté": "They introduced/presented"
+  },
+  "Futur simple (Simple Future)": {
+    "Je présenterai": "I will introduce/present",
+    "Tu présenteras": "You will introduce/present",
+    "Il/Elle présentera": "He/She will introduce/present",
+    "Nous présenterons": "We will introduce/present",
+    "Vous présenterez": "You will introduce/present (formal)",
+    "Ils/Elles présenteront": "They will introduce/present"
+  }
+}

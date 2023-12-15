@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je sauve": "I save",
+    "Tu sauves": "You save",
+    "Il/Elle sauve": "He/She saves",
+    "Nous sauvons": "We save",
+    "Vous sauvez": "You save (formal)",
+    "Ils/Elles sauvent": "They save"
+  },
+  "Imparfait (Imperfect)": {
+    "Je sauvais": "I used to save",
+    "Tu sauvais": "You used to save",
+    "Il/Elle sauvait": "He/She used to save",
+    "Nous sauvions": "We used to save",
+    "Vous sauviez": "You used to save (formal)",
+    "Ils/Elles sauvaient": "They used to save"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai sauvé": "I saved",
+    "Tu as sauvé": "You saved",
+    "Il/Elle a sauvé": "He/She saved",
+    "Nous avons sauvé": "We saved",
+    "Vous avez sauvé": "You saved (formal)",
+    "Ils/Elles ont sauvé": "They saved"
+  },
+  "Futur simple (Simple Future)": {
+    "Je sauverai": "I will save",
+    "Tu sauveras": "You will save",
+    "Il/Elle sauvera": "He/She will save",
+    "Nous sauverons": "We will save",
+    "Vous sauverez": "You will save (formal)",
+    "Ils/Elles sauveront": "They will save"
+  }
+}

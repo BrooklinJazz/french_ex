@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je vaux": "I am worth",
+    "Tu vaux": "You are worth",
+    "Il/Elle vaut": "He/She is worth",
+    "Nous valons": "We are worth",
+    "Vous valez": "You are worth (formal)",
+    "Ils/Elles valent": "They are worth"
+  },
+  "Imparfait (Imperfect)": {
+    "Je valais": "I used to be worth",
+    "Tu valais": "You used to be worth",
+    "Il/Elle valait": "He/She used to be worth",
+    "Nous valions": "We used to be worth",
+    "Vous valiez": "You used to be worth (formal)",
+    "Ils/Elles valaient": "They used to be worth"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai valu": "I was worth",
+    "Tu as valu": "You were worth",
+    "Il/Elle a valu": "He/She was worth",
+    "Nous avons valu": "We were worth",
+    "Vous avez valu": "You were worth (formal)",
+    "Ils/Elles ont valu": "They were worth"
+  },
+  "Futur simple (Simple Future)": {
+    "Je vaudrai": "I will be worth",
+    "Tu vaudras": "You will be worth",
+    "Il/Elle vaudra": "He/She will be worth",
+    "Nous vaudrons": "We will be worth",
+    "Vous vaudrez": "You will be worth (formal)",
+    "Ils/Elles vaudront": "They will be worth"
+  }
+}

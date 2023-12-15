@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je laisse": "I leave",
+    "Tu laisses": "You leave",
+    "Il/Elle laisse": "He/She leaves",
+    "Nous laissons": "We leave",
+    "Vous laissez": "You leave (formal)",
+    "Ils/Elles laissent": "They leave"
+  },
+  "Imparfait (Imperfect)": {
+    "Je laissais": "I used to leave",
+    "Tu laissais": "You used to leave",
+    "Il/Elle laissait": "He/She used to leave",
+    "Nous laissions": "We used to leave",
+    "Vous laissiez": "You used to leave (formal)",
+    "Ils/Elles laissaient": "They used to leave"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai laissé": "I left",
+    "Tu as laissé": "You left",
+    "Il/Elle a laissé": "He/She left",
+    "Nous avons laissé": "We left",
+    "Vous avez laissé": "You left (formal)",
+    "Ils/Elles ont laissé": "They left"
+  },
+  "Futur simple (Simple Future)": {
+    "Je laisserai": "I will leave",
+    "Tu laisseras": "You will leave",
+    "Il/Elle laissera": "He/She will leave",
+    "Nous laisserons": "We will leave",
+    "Vous laisserez": "You will leave (formal)",
+    "Ils/Elles laisseront": "They will leave"
+  }
+}

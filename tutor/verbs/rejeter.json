@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je rejette": "I reject",
+    "Tu jettes": "You reject",
+    "Il/Elle jette": "He/She rejects",
+    "Nous rejetons": "We reject",
+    "Vous rejetez": "You reject (formal)",
+    "Ils/Elles jettent": "They reject"
+  },
+  "Imparfait (Imperfect)": {
+    "Je rejetais": "I used to reject",
+    "Tu rejetais": "You used to reject",
+    "Il/Elle rejetait": "He/She used to reject",
+    "Nous rejetions": "We used to reject",
+    "Vous rejetiez": "You used to reject (formal)",
+    "Ils/Elles rejetaient": "They used to reject"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai rejeté": "I rejected",
+    "Tu as rejeté": "You rejected",
+    "Il/Elle a rejeté": "He/She rejected",
+    "Nous avons rejeté": "We rejected",
+    "Vous avez rejeté": "You rejected (formal)",
+    "Ils/Elles ont rejeté": "They rejected"
+  },
+  "Futur simple (Simple Future)": {
+    "Je rejetterai": "I will reject",
+    "Tu rejetteras": "You will reject",
+    "Il/Elle rejettera": "He/She will reject",
+    "Nous rejetterons": "We will reject",
+    "Vous rejetterez": "You will reject (formal)",
+    "Ils/Elles rejetteront": "They will reject"
+  }
+}

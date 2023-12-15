@@ -1,0 +1,55 @@
+{
+  "Présent (Present)": {
+    "J'aide": "I help, aid",
+    "Tu aides": "You help, aid",
+    "Il/Elle aide": "He/She helps, aids",
+    "Nous aidons": "We help, aid",
+    "Vous aidez": "You help, aid (formal)",
+    "Ils/Elles aident": "They help, aid"
+  },
+  "Imparfait (Imperfect)": {
+    "J'aidais": "I used to help, aid",
+    "Tu aidais": "You used to help, aid",
+    "Il/Elle aidait": "He/She used to help, aid",
+    "Nous aidions": "We used to help, aid",
+    "Vous aidiez": "You used to help, aid (formal)",
+    "Ils/Ellesaidaient": "They used to help, aid"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai aidé": "I have helped, aided",
+    "Tu as aidé": "You have helped, aided",
+    "Il/Elle a aidé": "He/She has helped, aided",
+    "Nous avons aidé": "We have helped, aided",
+    "Vous avez aidé": "You have helped, aided (formal)",
+    "Ils/Elles ont aidé": "They have helped, aided"
+  },
+  "Futur (Future)": {
+    "J'aiderai": "I will help, aid",
+    "Tu aideras": "You will help, aid",
+    "Il/Elle aidera": "He/She will help, aid",
+    "Nous aiderons": "We will help, aid",
+    "Vous aiderez": "You will help, aid (formal)",
+    "Ils/Elles aideront": "They will help, aid"
+  },
+  "Conditionnel (Conditional)": {
+    "J'aiderais": "I would help, aid",
+    "Tu aiderais": "You would help, aid",
+    "Il/Elle aiderait": "He/She would help, aid",
+    "Nous aiderions": "We would help, aid",
+    "Vous aideriez": "You would help, aid (formal)",
+    "Ils/Elles aideraient": "They would help, aid"
+  },
+  "Subjonctif (Subjunctive)": {
+    "Que j'aide": "That I help, aid",
+    "Que tu aides": "That you help, aid",
+    "Qu'il/elle aide": "That he/she helps, aids",
+    "Que nous aidions": "That we help, aid",
+    "Que vous aidiez": "That you help, aid (formal)",
+    "Qu'ils/elles aident": "That they help, aid"
+  },
+  "Impératif (Imperative)": {
+    "Aide": "Help, aid (tu)",
+    "Aidons": "Let's help, aid (nous)",
+    "Aidez": "Help, aid (vous)"
+  }
+}

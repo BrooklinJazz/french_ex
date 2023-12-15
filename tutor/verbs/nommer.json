@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je nomme": "I name / I'm naming",
+    "Tu nommes": "You name / You're naming",
+    "Il/Elle nomme": "He/She names / He/She's naming",
+    "Nous nommons": "We name / We're naming",
+    "Vous nommez": "You name / You're naming (formal)",
+    "Ils/Elles nomment": "They name / They're naming"
+  },
+  "Imparfait (Imperfect)": {
+    "Je nommais": "I used to name",
+    "Tu nommais": "You used to name",
+    "Il/Elle nommait": "He/She used to name",
+    "Nous nommions": "We used to name",
+    "Vous nommiez": "You used to name (formal)",
+    "Ils/Elles nommaient": "They used to name"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai nommé": "I named / I've named",
+    "Tu as nommé": "You named / You've named",
+    "Il/Elle a nommé": "He/She named / He/She's named",
+    "Nous avons nommé": "We named / We've named",
+    "Vous avez nommé": "You named / You've named (formal)",
+    "Ils/Elles ont nommé": "They named / They've named"
+  },
+  "Futur simple (Simple Future)": {
+    "Je nommerai": "I will name",
+    "Tu nommeras": "You will name",
+    "Il/Elle nommera": "He/She will name",
+    "Nous nommerons": "We will name",
+    "Vous nommerez": "You will name (formal)",
+    "Ils/Elles nommeront": "They will name"
+  }
+}

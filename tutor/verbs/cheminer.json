@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je chemine": "I walk on",
+    "Tu chemines": "You walk on",
+    "Il/Elle chemine": "He/She walks on",
+    "Nous cheminons": "We walk on",
+    "Vous cheminez": "You walk on (formal)",
+    "Ils/Elles cheminent": "They walk on"
+  },
+  "Imparfait (Imperfect)": {
+    "Je cheminai": "I used to walk on",
+    "Tu cheminai": "You used to walk on",
+    "Il/Elle cheminai": "He/She used to walk on",
+    "Nous cheminions": "We used to walk on",
+    "Vous cheminiiez": "You used to walk on (formal)",
+    "Ils/Elles cheminaiient": "They used to walk on"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai cheminé": "I have walked on",
+    "Tu as cheminé": "You have walked on",
+    "Il/Elle a cheminé": "He/She has walked on",
+    "Nous avons cheminé": "We have walked on",
+    "Vous avez cheminé": "You have walked on (formal)",
+    "Ils/Elles ont cheminé": "They have walked on"
+  },
+  "Futur simple (Simple Future)": {
+    "Je cheminerai": "I will walk on",
+    "Tu chemineras": "You will walk on",
+    "Il/Elle cheminera": "He/She will walk on",
+    "Nous cheminerons": "We will walk on",
+    "Vous cheminerez": "You will walk on (formal)",
+    "Ils/Elles chemineront": "They will walk on"
+  }
+}

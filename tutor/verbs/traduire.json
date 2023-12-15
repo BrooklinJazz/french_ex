@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je traduis": "I translate",
+    "Tu traduis": "You translate",
+    "Il/Elle traduit": "He/She translates",
+    "Nous traduisons": "We translate",
+    "Vous traduisez": "You translate (formal)",
+    "Ils/Elles traduisent": "They translate"
+  },
+  "Imparfait (Imperfect)": {
+    "Je traduisais": "I used to translate",
+    "Tu traduisais": "You used to translate",
+    "Il/Elle traduisait": "He/She used to translate",
+    "Nous traduisions": "We used to translate",
+    "Vous traduisiez": "You used to translate (formal)",
+    "Ils/Elles traduisaient": "They used to translate"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai traduit": "I translated",
+    "Tu as traduit": "You translated",
+    "Il/Elle a traduit": "He/She translated",
+    "Nous avons traduit": "We translated",
+    "Vous avez traduit": "You translated (formal)",
+    "Ils/Elles ont traduit": "They translated"
+  },
+  "Futur simple (Simple Future)": {
+    "Je traduirai": "I will translate",
+    "Tu traduiras": "You will translate",
+    "Il/Elle traduira": "He/She will translate",
+    "Nous traduirons": "We will translate",
+    "Vous traduirez": "You will translate (formal)",
+    "Ils/Elles traduiront": "They will translate"
+  }
+}

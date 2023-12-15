@@ -1,0 +1,58 @@
+{
+  "Présent (Present)": {
+    "Je viens": "I come",
+    "Tu viens": "You come",
+    "Il/Elle/On vient": "He/She/One comes",
+    "Nous venons": "We come",
+    "Vous venez": "You come (formal)",
+    "Ils/Elles viennent": "They come"
+  },
+  "Imparfait (Imperfect)": {
+    "Je venais": "I came",
+    "Tu venais": "You came",
+    "Il/Elle/On venait": "He/She/One came",
+    "Nous venions": "We came",
+    "Vous veniez": "You came (formal)",
+    "Ils/Elles venaient": "They came"
+  },
+  "Passé Composé (Past Simple)": {
+    "Je suis venu(e)": "I came",
+    "Tu es venu(e)": "You came",
+    "Il/Elle/On est venu(e)": "He/She/One came",
+    "Nous sommes venu(e)s": "We came",
+    "Vous êtes venu(e)(s)": "You came (formal)",
+    "Ils/Elles sont venu(e)s": "They came"
+  },
+  "Futur Simple (Future)": {
+    "Je viendrai": "I will come",
+    "Tu viendras": "You will come",
+    "Il/Elle/On viendra": "He/She/One will come",
+    "Nous viendrons": "We will come",
+    "Vous viendrez": "You will come (formal)",
+    "Ils/Elles viendront": "They will come"
+  },
+  "Conditionnel Présent (Conditional)": {
+    "Je viendrais": "I would come",
+    "Tu viendrais": "You would come",
+    "Il/Elle/On viendrait": "He/She/One would come",
+    "Nous viendrions": "We would come",
+    "Vous viendriez": "You would come (formal)",
+    "Ils/Elles viendraient": "They would come"
+  },
+  "Futur Proche (Near Future)": {
+    "Je vais venir": "I am going to come",
+    "Tu vas venir": "You are going to come",
+    "Il/Elle/On va venir": "He/She/One is going to come",
+    "Nous allons venir": "We are going to come",
+    "Vous allez venir": "You are going to come",
+    "Ils/Elles vont venir": "They are going to come"
+  },
+  "Subjonctif Présent (Subjunctive Present)": {
+    "Que je vienne": "That I come",
+    "Que tu viennes": "That you come",
+    "Qu'il/Elle/On vienne": "That he/she/one comes",
+    "Que nous venions": "That we come",
+    "Que vous veniez": "That you come",
+    "Qu'ils/Elles viennent": "That they come"
+  }
+}

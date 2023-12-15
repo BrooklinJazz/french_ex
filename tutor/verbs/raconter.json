@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je raconte": "I tell",
+    "Tu racontes": "You tell",
+    "Il/Elle raconte": "He/She tells",
+    "Nous racontons": "We tell",
+    "Vous racontez": "You tell (formal)",
+    "Ils/Elles racontent": "They tell"
+  },
+  "Imparfait (Imperfect)": {
+    "Je racontais": "I used to tell",
+    "Tu racontais": "You used to tell",
+    "Il/Elle racontait": "He/She used to tell",
+    "Nous racontions": "We used to tell",
+    "Vous racontiez": "You used to tell (formal)",
+    "Ils/Elles racontaient": "They used to tell"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai raconté": "I told",
+    "Tu as raconté": "You told",
+    "Il/Elle a raconté": "He/She told",
+    "Nous avons raconté": "We told",
+    "Vous avez raconté": "You told (formal)",
+    "Ils/Elles ont raconté": "They told"
+  },
+  "Futur simple (Simple Future)": {
+    "Je raconterai": "I will tell",
+    "Tu raconteras": "You will tell",
+    "Il/Elle racontera": "He/She will tell",
+    "Nous raconterons": "We will tell",
+    "Vous raconterez": "You will tell (formal)",
+    "Ils/Elles raconteront": "They will tell"
+  }
+}

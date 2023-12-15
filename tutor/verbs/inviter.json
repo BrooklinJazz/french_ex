@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "J'invite": "I invite",
+    "Tu invites": "You invite",
+    "Il/Elle invite": "He/She invites",
+    "Nous invitons": "We invite",
+    "Vous invitez": "You invite (formal)",
+    "Ils/Elles invitent": "They invite"
+  },
+  "Imparfait (Imperfect)": {
+    "J'invitais": "I used to invite",
+    "Tu invitais": "You used to invite",
+    "Il/Elle invitait": "He/She used to invite",
+    "Nous invitions": "We used to invite",
+    "Vous invitiez": "You used to invite (formal)",
+    "Ils/Elles invitaient": "They used to invite"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai invité": "I invited",
+    "Tu as invité": "You invited",
+    "Il/Elle a invité": "He/She invited",
+    "Nous avons invité": "We invited",
+    "Vous avez invité": "You invited (formal)",
+    "Ils/Elles ont invité": "They invited"
+  },
+  "Futur simple (Simple Future)": {
+    "J'inviterai": "I will invite",
+    "Tu inviteras": "You will invite",
+    "Il/Elle invitera": "He/She will invite",
+    "Nous inviterons": "We will invite",
+    "Vous inviterez": "You will invite (formal)",
+    "Ils/Elles inviteront": "They will invite"
+  }
+}

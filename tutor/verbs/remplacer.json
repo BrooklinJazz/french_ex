@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je remplace": "I replace",
+    "Tu remplaces": "You replace",
+    "Il/Elle remplace": "He/She replaces",
+    "Nous remplaçons": "We replace",
+    "Vous remplacez": "You replace (formal)",
+    "Ils/Elles remplacent": "They replace"
+  },
+  "Imparfait (Imperfect)": {
+    "Je remplaçais": "I used to replace",
+    "Tu remplaçais": "You used to replace",
+    "Il/Elle remplaçait": "He/She used to replace",
+    "Nous remplacions": "We used to replace",
+    "Vous remplaciez": "You used to replace (formal)",
+    "Ils/Elles remplaçaient": "They used to replace"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai remplacé": "I replaced",
+    "Tu as remplacé": "You replaced",
+    "Il/Elle a remplacé": "He/She replaced",
+    "Nous avons remplacé": "We replaced",
+    "Vous avez remplacé": "You replaced (formal)",
+    "Ils/Elles ont remplacé": "They replaced"
+  },
+  "Futur simple (Simple Future)": {
+    "Je remplacerai": "I will replace",
+    "Tu remplaceras": "You will replace",
+    "Il/Elle remplacera": "He/She will replace",
+    "Nous remplacerons": "We will replace",
+    "Vous remplacerez": "You will replace (formal)",
+    "Ils/Elles remplaceront": "They will replace"
+  }
+}

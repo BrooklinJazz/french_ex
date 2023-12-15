@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je cuis": "I cook",
+    "Tu cuis": "You cook",
+    "Il/Elle cuit": "He/She cooks",
+    "Nous cuisons": "We cook",
+    "Vous cuisez": "You cook (formal)",
+    "Ils/Elles cuisent": "They cook"
+  },
+  "Imparfait (Imperfect)": {
+    "Je cuisais": "I used to cook",
+    "Tu cuisais": "You used to cook",
+    "Il/Elle cuisait": "He/She used to cook",
+    "Nous cuisions": "We used to cook",
+    "Vous cuisiez": "You used to cook (formal)",
+    "Ils/Elles cuisaient": "They used to cook"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai cuit": "I have cooked",
+    "Tu as cuit": "You have cooked",
+    "Il/Elle a cuit": "He/She has cooked",
+    "Nous avons cuit": "We have cooked",
+    "Vous avez cuit": "You have cooked (formal)",
+    "Ils/Elles ont cuit": "They have cooked"
+  },
+  "Futur simple (Simple Future)": {
+    "Je cuirai": "I will cook",
+    "Tu cuiras": "You will cook",
+    "Il/Elle cuira": "He/She will cook",
+    "Nous cuirons": "We will cook",
+    "Vous cuirez": "You will cook (formal)",
+    "Ils/Elles cuiront": "They will cook"
+  }
+}

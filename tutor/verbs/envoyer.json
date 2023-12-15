@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "J'envoie": "I send, I throw",
+    "Tu envoies": "You send, You throw",
+    "Il/Elle envoie": "He/She sends, He/She throws",
+    "Nous envoyons": "We send, We throw",
+    "Vous envoyez": "You send, You throw (formal)",
+    "Ils/Elles envoient": "They send, They throw"
+  },
+  "Imparfait (Imperfect)": {
+    "J'envoyais": "I used to send, I used to throw",
+    "Tu envoyais": "You used to send, You used to throw",
+    "Il/Elle envoyait": "He/She used to send, He/She used to throw",
+    "Nous envoyions": "We used to send, We used to throw",
+    "Vous envoyiez": "You used to send, You used to throw (formal)",
+    "Ils/Elles envoyaient": "They used to send, They used to throw"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai envoyé": "I sent, I threw",
+    "Tu as envoyé": "You sent, You threw",
+    "Il/Elle a envoyé": "He/She sent, He/She threw",
+    "Nous avons envoyé": "We sent, We threw",
+    "Vous avez envoyé": "You sent, You threw (formal)",
+    "Ils/Elles ont envoyé": "They sent, They threw"
+  },
+  "Futur simple (Simple Future)": {
+    "J'enverrai": "I will send, I will throw",
+    "Tu enverras": "You will send, You will throw",
+    "Il/Elle enverra": "He/She will send, He/She will throw",
+    "Nous enverrons": "We will send, We will throw",
+    "Vous enverrez": "You will send, You will throw (formal)",
+    "Ils/Elles enverront": "They will send, They will throw"
+  }
+}

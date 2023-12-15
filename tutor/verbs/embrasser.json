@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "J'embrasse": "I kiss / I embrace",
+    "Tu embrasses": "You kiss / You embrace",
+    "Il/Elle embrasse": "He/She kisses / He/She embraces",
+    "Nous embrassons": "We kiss / We embrace",
+    "Vous embrassez": "You kiss / You embrace (formal)",
+    "Ils/Elles embrassent": "They kiss / They embrace"
+  },
+  "Imparfait (Imperfect)": {
+    "J'embrassais": "I used to kiss / I used to embrace",
+    "Tu embrassais": "You used to kiss / You used to embrace",
+    "Il/Elle embrassait": "He/She used to kiss / He/She used to embrace",
+    "Nous embrassions": "We used to kiss / We used to embrace",
+    "Vous embrassiez": "You used to kiss / You used to embrace (formal)",
+    "Ils/Elles embrassaient": "They used to kiss / They used to embrace"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai embrassé": "I kissed / I embraced",
+    "Tu as embrassé": "You kissed / You embraced",
+    "Il/Elle a embrassé": "He/She kissed / He/She embraced",
+    "Nous avons embrassé": "We kissed / We embraced",
+    "Vous avez embrassé": "You kissed / You embraced (formal)",
+    "Ils/Elles ont embrassé": "They kissed / They embraced"
+  },
+  "Futur simple (Simple Future)": {
+    "J'embrasserai": "I will kiss / I will embrace",
+    "Tu embrasseras": "You will kiss / You will embrace",
+    "Il/Elle embrassera": "He/She will kiss / He/She will embrace",
+    "Nous embrasserons": "We will kiss / We will embrace",
+    "Vous embrasserez": "You will kiss / You will embrace (formal)",
+    "Ils/Elles embrasseront": "They will kiss / They will embrace"
+  }
+}

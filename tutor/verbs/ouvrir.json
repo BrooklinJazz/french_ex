@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "J'ouvre": "I open / I'm opening",
+    "Tu ouvres": "You open / You're opening",
+    "Il/Elle ouvre": "He/She opens / He/She's opening",
+    "Nous ouvrons": "We open / We're opening",
+    "Vous ouvrez": "You open / You're opening (formal)",
+    "Ils/Elles ouvrent": "They open / They're opening"
+  },
+  "Imparfait (Imperfect)": {
+    "J'ouvrais": "I used to open",
+    "Tu ouvrais": "You used to open",
+    "Il/Elle ouvrait": "He/She used to open",
+    "Nous ouvrions": "We used to open",
+    "Vous ouvriez": "You used to open (formal)",
+    "Ils/Elles ouvraient": "They used to open"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai ouvert": "I opened / I've opened",
+    "Tu as ouvert": "You opened / You've opened",
+    "Il/Elle a ouvert": "He/She opened / He/She's opened",
+    "Nous avons ouvert": "We opened / We've opened",
+    "Vous avez ouvert": "You opened / You've opened (formal)",
+    "Ils/Elles ont ouvert": "They opened / They've opened"
+  },
+  "Futur simple (Simple Future)": {
+    "J'ouvrirai": "I will open",
+    "Tu ouvriras": "You will open",
+    "Il/Elle ouvrira": "He/She will open",
+    "Nous ouvrirons": "We will open",
+    "Vous ouvrirez": "You will open (formal)",
+    "Ils/Elles ouvriront": "They will open"
+  }
+}

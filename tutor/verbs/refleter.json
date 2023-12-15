@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je reflète": "I reflect",
+    "Tu reflètes": "You reflect",
+    "Il/Elle reflète": "He/She reflects",
+    "Nous reflétons": "We reflect",
+    "Vous reflétez": "You reflect (formal)",
+    "Ils/Elles reflètent": "They reflect"
+  },
+  "Imparfait (Imperfect)": {
+    "Je reflétais": "I used to reflect",
+    "Tu reflétais": "You used to reflect",
+    "Il/Elle reflétait": "He/She used to reflect",
+    "Nous reflétions": "We used to reflect",
+    "Vous reflétiez": "You used to reflect (formal)",
+    "Ils/Elles reflétaient": "They used to reflect"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai reflété": "I reflected",
+    "Tu as reflété": "You reflected",
+    "Il/Elle a reflété": "He/She reflected",
+    "Nous avons reflété": "We reflected",
+    "Vous avez reflété": "You reflected (formal)",
+    "Ils/Elles ont reflété": "They reflected"
+  },
+  "Futur simple (Simple Future)": {
+    "Je refléterai": "I will reflect",
+    "Tu refléteras": "You will reflect",
+    "Il/Elle reflétera": "He/She will reflect",
+    "Nous refléterons": "We will reflect",
+    "Vous refléterez": "You will reflect (formal)",
+    "Ils/Elles refléteront": "They will reflect"
+  }
+}

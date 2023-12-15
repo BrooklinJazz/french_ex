@@ -1,0 +1,55 @@
+{
+  "Présent (Present)": {
+    "J'arrange": "I arrange",
+    "Tu arranges": "You arrange",
+    "Il/Elle arrange": "He/She arranges",
+    "Nous arrangeons": "We arrange",
+    "Vous arrangez": "You arrange (formal)",
+    "Ils/Elles arrangent": "They arrange"
+  },
+  "Imparfait (Imperfect)": {
+    "J'arrangeais": "I used to arrange",
+    "Tu arrangeais": "You used to arrange",
+    "Il/Elle arrangeait": "He/She used to arrange",
+    "Nous arrangions": "We used to arrange",
+    "Vous arrangiez": "You used to arrange (formal)",
+    "Ils/Elles arrangeaient": "They used to arrange"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai arrangé": "I have arranged",
+    "Tu as arrangé": "You have arranged",
+    "Il/Elle a arrangé": "He/She has arranged",
+    "Nous avons arrangé": "We have arranged",
+    "Vous avez arrangé": "You have arranged (formal)",
+    "Ils/Elles ont arrangé": "They have arranged"
+  },
+  "Futur (Future)": {
+    "J'arrangerai": "I will arrange",
+    "Tu arrangeras": "You will arrange",
+    "Il/Elle arrangera": "He/She will arrange",
+    "Nous arrangerons": "We will arrange",
+    "Vous arrangerez": "You will arrange (formal)",
+    "Ils/Elles arrangeront": "They will arrange"
+  },
+  "Conditionnel (Conditional)": {
+    "J'arrangerais": "I would arrange",
+    "Tu arrangerais": "You would arrange",
+    "Il/Elle arrangerait": "He/She would arrange",
+    "Nous arrangerions": "We would arrange",
+    "Vous arrangeriez": "You would arrange (formal)",
+    "Ils/Elles arrangeraient": "They would arrange"
+  },
+  "Subjonctif (Subjunctive)": {
+    "Que j'arrange": "That I arrange",
+    "Que tu arranges": "That you arrange",
+    "Qu'il/elle arrange": "That he/she arranges",
+    "Que nous arrangions": "That we arrange",
+    "Que vous arrangiez": "That you arrange (formal)",
+    "Qu'ils/elles arrangent": "That they arrange"
+  },
+  "Impératif (Imperative)": {
+    "Arrange": "Arrange (tu)",
+    "Arrangeons": "Let's arrange (nous)",
+    "Arrangez": "Arrange (vous)"
+  }
+}

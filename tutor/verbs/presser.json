@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je presse": "I squeeze",
+    "Tu presses": "You squeeze",
+    "Il/Elle presse": "He/She squeezes",
+    "Nous pressons": "We squeeze",
+    "Vous pressez": "You squeeze (formal)",
+    "Ils/Elles pressent": "They squeeze"
+  },
+  "Imparfait (Imperfect)": {
+    "Je pressais": "I used to squeeze",
+    "Tu pressais": "You used to squeeze",
+    "Il/Elle pressait": "He/She used to squeeze",
+    "Nous pressions": "We used to squeeze",
+    "Vous pressiez": "You used to squeeze (formal)",
+    "Ils/Elles pressaient": "They used to squeeze"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai pressé": "I squeezed",
+    "Tu as pressé": "You squeezed",
+    "Il/Elle a pressé": "He/She squeezed",
+    "Nous avons pressé": "We squeezed",
+    "Vous avez pressé": "You squeezed (formal)",
+    "Ils/Elles ont pressé": "They squeezed"
+  },
+  "Futur simple (Simple Future)": {
+    "Je presserai": "I will squeeze",
+    "Tu presseras": "You will squeeze",
+    "Il/Elle pressera": "He/She will squeeze",
+    "Nous presserons": "We will squeeze",
+    "Vous presserez": "You will squeeze (formal)",
+    "Ils/Elles presseront": "They will squeeze"
+  }
+}

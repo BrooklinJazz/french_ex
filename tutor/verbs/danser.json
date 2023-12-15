@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je danse": "I dance",
+    "Tu danses": "You dance",
+    "Il/Elle danse": "He/She dances",
+    "Nous dansons": "We dance",
+    "Vous dansez": "You dance (formal)",
+    "Ils/Elles dansent": "They dance"
+  },
+  "Imparfait (Imperfect)": {
+    "Je dansais": "I used to dance",
+    "Tu dansais": "You used to dance",
+    "Il/Elle dansait": "He/She used to dance",
+    "Nous dansions": "We used to dance",
+    "Vous dansiez": "You used to dance (formal)",
+    "Ils/Elles dansaient": "They used to dance"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai dansé": "I have danced",
+    "Tu as dansé": "You have danced",
+    "Il/Elle a dansé": "He/She has danced",
+    "Nous avons dansé": "We have danced",
+    "Vous avez dansé": "You have danced (formal)",
+    "Ils/Elles ont dansé": "They have danced"
+  },
+  "Futur simple (Simple Future)": {
+    "Je danserai": "I will dance",
+    "Tu danseras": "You will dance",
+    "Il/Elle dansera": "He/She will dance",
+    "Nous danserons": "We will dance",
+    "Vous danserez": "You will dance (formal)",
+    "Ils/Elles danseront": "They will dance"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je décide": "I decide",
+    "Tu décides": "You decide",
+    "Il/Elle décide": "He/She decides",
+    "Nous décidons": "We decide",
+    "Vous décidez": "You decide (formal)",
+    "Ils/Elles décident": "They decide"
+  },
+  "Imparfait (Imperfect)": {
+    "Je décidais": "I used to decide",
+    "Tu décidais": "You used to decide",
+    "Il/Elle décidait": "He/She used to decide",
+    "Nous décidions": "We used to decide",
+    "Vous décidiez": "You used to decide (formal)",
+    "Ils/Elles décidaient": "They used to decide"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai décidé": "I have decided",
+    "Tu as décidé": "You have decided",
+    "Il/Elle a décidé": "He/She has decided",
+    "Nous avons décidé": "We have decided",
+    "Vous avez décidé": "You have decided (formal)",
+    "Ils/Elles ont décidé": "They have decided"
+  },
+  "Futur simple (Simple Future)": {
+    "Je déciderai": "I will decide",
+    "Tu décideras": "You will decide",
+    "Il/Elle décidera": "He/She will decide",
+    "Nous déciderons": "We will decide",
+    "Vous déciderez": "You will decide (formal)",
+    "Ils/Elles décideront": "They will decide"
+  }
+}

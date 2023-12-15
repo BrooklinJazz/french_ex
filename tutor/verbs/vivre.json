@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je vis": "I live",
+    "Tu vis": "You live",
+    "Il/Elle vit": "He/She lives",
+    "Nous vivons": "We live",
+    "Vous vivez": "You live (formal)",
+    "Ils/Elles vivent": "They live"
+  },
+  "Imparfait (Imperfect)": {
+    "Je vivais": "I used to live",
+    "Tu vivais": "You used to live",
+    "Il/Elle vivait": "He/She used to live",
+    "Nous vivions": "We used to live",
+    "Vous viviez": "You used to live (formal)",
+    "Ils/Elles vivaient": "They used to live"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai vécu": "I lived",
+    "Tu as vécu": "You lived",
+    "Il/Elle a vécu": "He/She lived",
+    "Nous avons vécu": "We lived",
+    "Vous avez vécu": "You lived (formal)",
+    "Ils/Elles ont vécu": "They lived"
+  },
+  "Futur simple (Simple Future)": {
+    "Je vivrai": "I will live",
+    "Tu vivras": "You will live",
+    "Il/Elle vivra": "He/She will live",
+    "Nous vivrons": "We will live",
+    "Vous vivrez": "You will live (formal)",
+    "Ils/Elles vivront": "They will live"
+  }
+}

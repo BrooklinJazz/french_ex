@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je mélange": "I mix",
+    "Tu mélanges": "You mix",
+    "Il/Elle mélange": "He/She mixes",
+    "Nous mélangeons": "We mix",
+    "Vous mélangez": "You mix (formal)",
+    "Ils/Elles mélangent": "They mix"
+  },
+  "Imparfait (Imperfect)": {
+    "Je mélangeais": "I used to mix",
+    "Tu mélangeais": "You used to mix",
+    "Il/Elle mélangeait": "He/She used to mix",
+    "Nous mélangions": "We used to mix",
+    "Vous mélangiez": "You used to mix (formal)",
+    "Ils/Elles mélangeaient": "They used to mix"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai mélangé": "I mixed",
+    "Tu as mélangé": "You mixed",
+    "Il/Elle a mélangé": "He/She mixed",
+    "Nous avons mélangé": "We mixed",
+    "Vous avez mélangé": "You mixed (formal)",
+    "Ils/Elles ont mélangé": "They mixed"
+  },
+  "Futur simple (Simple Future)": {
+    "Je mélangerai": "I will mix",
+    "Tu mélangeras": "You will mix",
+    "Il/Elle mélangera": "He/She will mix",
+    "Nous mélangerons": "We will mix",
+    "Vous mélangerez": "You will mix (formal)",
+    "Ils/Elles mélangeront": "They will mix"
+  }
+}

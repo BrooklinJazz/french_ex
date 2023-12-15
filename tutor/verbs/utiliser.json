@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "J'utilise": "I use",
+    "Tu utilises": "You use",
+    "Il/Elle utilise": "He/She uses",
+    "Nous utilisons": "We use",
+    "Vous utilisez": "You use (formal)",
+    "Ils/Elles utilisent": "They use"
+  },
+  "Imparfait (Imperfect)": {
+    "J'utilisais": "I used to use",
+    "Tu utilisais": "You used to use",
+    "Il/Elle utilisait": "He/She used to use",
+    "Nous utilisions": "We used to use",
+    "Vous utilisiez": "You used to use (formal)",
+    "Ils/Elles utilisaient": "They used to use"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai utilisé": "I used",
+    "Tu as utilisé": "You used",
+    "Il/Elle a utilisé": "He/She used",
+    "Nous avons utilisé": "We used",
+    "Vous avez utilisé": "You used (formal)",
+    "Ils/Elles ont utilisé": "They used"
+  },
+  "Futur simple (Simple Future)": {
+    "J'utiliserai": "I will use",
+    "Tu utiliseras": "You will use",
+    "Il/Elle utilisera": "He/She will use",
+    "Nous utiliserons": "We will use",
+    "Vous utiliserez": "You will use (formal)",
+    "Ils/Elles utiliseront": "They will use"
+  }
+}

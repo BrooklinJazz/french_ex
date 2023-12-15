@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je mange": "I eat",
+    "Tu manges": "You eat",
+    "Il/Elle mange": "He/She eats",
+    "Nous mangeons": "We eat",
+    "Vous mangez": "You eat (formal)",
+    "Ils/Elles mangent": "They eat"
+  },
+  "Imparfait (Imperfect)": {
+    "Je mangeais": "I used to eat",
+    "Tu mangeais": "You used to eat",
+    "Il/Elle mangeait": "He/She used to eat",
+    "Nous mangions": "We used to eat",
+    "Vous mangiez": "You used to eat (formal)",
+    "Ils/Elles mangeaient": "They used to eat"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai mangé": "I ate",
+    "Tu as mangé": "You ate",
+    "Il/Elle a mangé": "He/She ate",
+    "Nous avons mangé": "We ate",
+    "Vous avez mangé": "You ate (formal)",
+    "Ils/Elles ont mangé": "They ate"
+  },
+  "Futur simple (Simple Future)": {
+    "Je mangerai": "I will eat",
+    "Tu mangeras": "You will eat",
+    "Il/Elle mangera": "He/She will eat",
+    "Nous mangerons": "We will eat",
+    "Vous mangerez": "You will eat (formal)",
+    "Ils/Elles mangeront": "They will eat"
+  }
+}

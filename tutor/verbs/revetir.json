@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je revêts": "I put on",
+    "Tu revêts": "You put on",
+    "Il/Elle revêt": "He/She puts on",
+    "Nous revêtons": "We put on",
+    "Vous revêtez": "You put on (formal)",
+    "Ils/Elles revêtent": "They put on"
+  },
+  "Imparfait (Imperfect)": {
+    "Je revêtais": "I used to put on",
+    "Tu revêtais": "You used to put on",
+    "Il/Elle revêtait": "He/She used to put on",
+    "Nous revêtions": "We used to put on",
+    "Vous revêtiez": "You used to put on (formal)",
+    "Ils/Elles revêtaient": "They used to put on"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai revêtu": "I put on",
+    "Tu as revêtu": "You put on",
+    "Il/Elle a revêtu": "He/She put on",
+    "Nous avons revêtu": "We put on",
+    "Vous avez revêtu": "You put on (formal)",
+    "Ils/Elles ont revêtu": "They put on"
+  },
+  "Futur simple (Simple Future)": {
+    "Je revêtirai": "I will put on",
+    "Tu revêtiras": "You will put on",
+    "Il/Elle revêtira": "He/She will put on",
+    "Nous revêtirons": "We will put on",
+    "Vous revêtirez": "You will put on (formal)",
+    "Ils/Elles revêtiront": "They will put on"
+  }
+}

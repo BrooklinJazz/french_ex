@@ -1,0 +1,58 @@
+{
+  "Présent (Present)": {
+    "Je vais": "I go",
+    "Tu vas": "You go",
+    "Il/Elle/On va": "He/She/One goes",
+    "Nous allons": "We go",
+    "Vous allez": "You go (formal)",
+    "Ils/Elles vont": "They go"
+  },
+  "Imparfait (Imperfect)": {
+    "J'allais": "I went",
+    "Tu allais": "You went",
+    "Il/Elle/On allait": "He/She/One went",
+    "Nous allions": "We went",
+    "Vous alliez": "You went (formal)",
+    "Ils/Elles allaient": "They went"
+  },
+  "Passé Composé (Past Simple)": {
+    "Je suis allé(e)": "I went",
+    "Tu es allé(e)": "You went",
+    "Il/Elle/On est allé(e)": "He/She/One went",
+    "Nous sommes allé(e)s": "We went",
+    "Vous êtes allé(e)(s)": "You went (formal)",
+    "Ils/Elles sont allé(e)s": "They went"
+  },
+  "Futur Simple (Future)": {
+    "J'irai": "I will go",
+    "Tu iras": "You will go",
+    "Il/Elle/On ira": "He/She/One will go",
+    "Nous irons": "We will go",
+    "Vous irez": "You will go (formal)",
+    "Ils/Elles iront": "They will go"
+  },
+  "Conditionnel Présent (Conditional)": {
+    "Je irais": "I would go",
+    "Tu irais": "You would go",
+    "Il/Elle/On irait": "He/She/One would go",
+    "Nous irions": "We would go",
+    "Vous iriez": "You would go (formal)",
+    "Ils/Elles iraient": "They would go"
+  },
+  "Futur Proche (Near Future)": {
+    "Je vais aller": "I am going to go",
+    "Tu vas aller": "You are going to go",
+    "Il/Elle/On va aller": "He/She/One is going to go",
+    "Nous allons aller": "We are going to go",
+    "Vous allez aller": "You are going to go",
+    "Ils/Elles vont aller": "They are going to go"
+  },
+  "Subjonctif Présent (Subjunctive Present)": {
+    "Que j'aille": "That I go",
+    "Que tu ailles": "That you go",
+    "Qu'il/Elle/On aille": "That he/she/one goes",
+    "Que nous allions": "That we go",
+    "Que vous alliez": "That you go",
+    "Qu'ils/Elles aillent": "That they go"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "Présent (Present)": {
+    "J'annonce": "I announce",
+    "Tu annonces": "You announce",
+    "Il/Elle annonce": "He/She announces",
+    "Nous annonçons": "We announce",
+    "Vous annoncez": "You announce (formal)",
+    "Ils/Elles annoncent": "They announce"
+  },
+  "Imparfait (Imperfect)": {
+    "J'annonçais": "I used to announce",
+    "Tu annonçais": "You used to announce",
+    "Il/Elle annonçait": "He/She used to announce",
+    "Nous annoncions": "We used to announce",
+    "Vous annonciez": "You used to announce (formal)",
+    "Ils/Elles annonçaient": "They used to announce"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai annoncé": "I have announced",
+    "Tu as annoncé": "You have announced",
+    "Il/Elle a annoncé": "He/She has announced",
+    "Nous avons annoncé": "We have announced",
+    "Vous avez annoncé": "You have announced (formal)",
+    "Ils/Elles ont annoncé": "They have announced"
+  },
+  "Futur (Future)": {
+    "J'annoncerai": "I will announce",
+    "Tu annonceras": "You will announce",
+    "Il/Elle annoncera": "He/She will announce",
+    "Nous annoncerons": "We will announce",
+    "Vous annoncerez": "You will announce (formal)",
+    "Ils/Elles annonceront": "They will announce"
+  },
+  "Conditionnel (Conditional)": {
+    "J'annoncerais": "I would announce",
+    "Tu annoncerais": "You would announce",
+    "Il/Elle annoncerait": "He/She would announce",
+    "Nous annoncerions": "We would announce",
+    "Vous annonceriez": "You would announce (formal)",
+    "Ils/Elles annonceraient": "They would announce"
+  },
+  "Subjonctif (Subjunctive)": {
+    "Que j'annonce": "That I announce",
+    "Que tu annonces": "That you announce",
+    "Qu'il/elle annonce": "That he/she announces",
+    "Que nous annoncions": "That we announce",
+    "Que vous annonciez": "That you announce (formal)",
+    "Qu'ils/elles annoncent": "That they announce"
+  },
+  "Impératif (Imperative)": {
+    "Annonce": "Announce (tu)",
+    "Annonçons": "Let's announce (nous)",
+    "Annoncez": "Announce (vous)"
+  }
+}

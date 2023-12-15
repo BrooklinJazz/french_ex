@@ -1,0 +1,58 @@
+{
+  "Présent (Present)": {
+    "Je veux": "I want",
+    "Tu veux": "You want",
+    "Il/Elle/On veut": "He/She/One wants",
+    "Nous voulons": "We want",
+    "Vous voulez": "You want (formal)",
+    "Ils/Elles veulent": "They want"
+  },
+  "Imparfait (Imperfect)": {
+    "Je voulais": "I wanted",
+    "Tu voulais": "You wanted",
+    "Il/Elle/On voulait": "He/She/One wanted",
+    "Nous voulions": "We wanted",
+    "Vous vouliez": "You wanted (formal)",
+    "Ils/Elles voulaient": "They wanted"
+  },
+  "Passé Composé (Past Simple)": {
+    "J'ai voulu": "I wanted",
+    "Tu as voulu": "You wanted",
+    "Il/Elle/On a voulu": "He/She/One wanted",
+    "Nous avons voulu": "We wanted",
+    "Vous avez voulu": "You wanted (formal)",
+    "Ils/Elles ont voulu": "They wanted"
+  },
+  "Futur Simple (Future)": {
+    "Je voudrai": "I will want",
+    "Tu voudras": "You will want",
+    "Il/Elle/On voudra": "He/She/One will want",
+    "Nous voudrons": "We will want",
+    "Vous voudrez": "You will want (formal)",
+    "Ils/Elles voudront": "They will want"
+  },
+  "Conditionnel Présent (Conditional)": {
+    "Je voudrais": "I would want",
+    "Tu voudrais": "You would want",
+    "Il/Elle/On voudrait": "He/She/One would want",
+    "Nous voudrions": "We would want",
+    "Vous voudriez": "You would want (formal)",
+    "Ils/Elles voudraient": "They would want"
+  },
+  "Futur Proche (Near Future)": {
+    "Je vais vouloir": "I am going to want",
+    "Tu vas vouloir": "You are going to want",
+    "Il/Elle/On va vouloir": "He/She/One is going to want",
+    "Nous allons vouloir": "We are going to want",
+    "Vous allez vouloir": "You are going to want",
+    "Ils/Elles vont vouloir": "They are going to want"
+  },
+  "Subjonctif Présent (Subjunctive Present)": {
+    "Que je veuille": "That I want",
+    "Que tu veuilles": "That you want",
+    "Qu'il/Elle/On veuille": "That he/she/one wants",
+    "Que nous voulions": "That we want",
+    "Que vous vouliez": "That you want",
+    "Qu'ils/Elles veuillent": "That they want"
+  }
+}

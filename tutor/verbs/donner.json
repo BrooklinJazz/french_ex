@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je donne": "I give",
+    "Tu donnes": "You give",
+    "Il/Elle donne": "He/She gives",
+    "Nous donnons": "We give",
+    "Vous donnez": "You give (formal)",
+    "Ils/Elles donnent": "They give"
+  },
+  "Imparfait (Imperfect)": {
+    "Je donnais": "I used to give",
+    "Tu donnais": "You used to give",
+    "Il/Elle donnait": "He/She used to give",
+    "Nous donnions": "We used to give",
+    "Vous donniez": "You used to give (formal)",
+    "Ils/Elles donnaient": "They used to give"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai donné": "I gave",
+    "Tu as donné": "You gave",
+    "Il/Elle a donné": "He/She gave",
+    "Nous avons donné": "We gave",
+    "Vous avez donné": "You gave (formal)",
+    "Ils/Elles ont donné": "They gave"
+  },
+  "Futur simple (Simple Future)": {
+    "Je donnerai": "I will give",
+    "Tu donneras": "You will give",
+    "Il/Elle donnera": "He/She will give",
+    "Nous donnerons": "We will give",
+    "Vous donnerez": "You will give (formal)",
+    "Ils/Elles donneront": "They will give"
+  }
+}

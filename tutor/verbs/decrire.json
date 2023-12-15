@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je décris": "I describe",
+    "Tu décris": "You describe",
+    "Il/Elle décrit": "He/She describes",
+    "Nous décrivons": "We describe",
+    "Vous décrivez": "You describe (formal)",
+    "Ils/Elles décrivent": "They describe"
+  },
+  "Imparfait (Imperfect)": {
+    "Je décrivais": "I used to describe",
+    "Tu décrivais": "You used to describe",
+    "Il/Elle décrivait": "He/She used to describe",
+    "Nous décrivions": "We used to describe",
+    "Vous décriviez": "You used to describe (formal)",
+    "Ils/Elles décrivaient": "They used to describe"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai décrit": "I have described",
+    "Tu as décrit": "You have described",
+    "Il/Elle a décrit": "He/She has described",
+    "Nous avons décrit": "We have described",
+    "Vous avez décrit": "You have described (formal)",
+    "Ils/Elles ont décrit": "They have described"
+  },
+  "Futur simple (Simple Future)": {
+    "Je décrirai": "I will describe",
+    "Tu décriras": "You will describe",
+    "Il/Elle décrira": "He/She will describe",
+    "Nous décrirons": "We will describe",
+    "Vous décrirez": "You will describe (formal)",
+    "Ils/Elles décriront": "They will describe"
+  }
+}

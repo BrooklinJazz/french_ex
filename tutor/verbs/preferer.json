@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je préfère": "I prefer",
+    "Tu préfères": "You prefer",
+    "Il/Elle préfère": "He/She prefers",
+    "Nous préférons": "We prefer",
+    "Vous préférez": "You prefer (formal)",
+    "Ils/Elles préfèrent": "They prefer"
+  },
+  "Imparfait (Imperfect)": {
+    "Je préférais": "I used to prefer",
+    "Tu préférais": "You used to prefer",
+    "Il/Elle préférait": "He/She used to prefer",
+    "Nous préférions": "We used to prefer",
+    "Vous préfériez": "You used to prefer (formal)",
+    "Ils/Elles préféraient": "They used to prefer"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai préféré": "I preferred",
+    "Tu as préféré": "You preferred",
+    "Il/Elle a préféré": "He/She preferred",
+    "Nous avons préféré": "We preferred",
+    "Vous avez préféré": "You preferred (formal)",
+    "Ils/Elles ont préféré": "They preferred"
+  },
+  "Futur simple (Simple Future)": {
+    "Je préférerai": "I will prefer",
+    "Tu préféreras": "You will prefer",
+    "Il/Elle préférera": "He/She will prefer",
+    "Nous préférerons": "We will prefer",
+    "Vous préférerez": "You will prefer (formal)",
+    "Ils/Elles préféreront": "They will prefer"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je reconduis": "I renew",
+    "Tu reconduis": "You renew",
+    "Il/Elle reconduit": "He/She renews",
+    "Nous reconduisons": "We renew",
+    "Vous reconduisez": "You renew (formal)",
+    "Ils/Elles reconduisent": "They renew"
+  },
+  "Imparfait (Imperfect)": {
+    "Je reconduisais": "I used to renew",
+    "Tu reconduisais": "You used to renew",
+    "Il/Elle reconduisait": "He/She used to renew",
+    "Nous reconduisions": "We used to renew",
+    "Vous reconduisiez": "You used to renew (formal)",
+    "Ils/Elles reconduisaient": "They used to renew"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai reconduit": "I renewed",
+    "Tu as reconduit": "You renewed",
+    "Il/Elle a reconduit": "He/She renewed",
+    "Nous avons reconduit": "We renewed",
+    "Vous avez reconduit": "You renewed (formal)",
+    "Ils/Elles ont reconduit": "They renewed"
+  },
+  "Futur simple (Simple Future)": {
+    "Je reconduirai": "I will renew",
+    "Tu reconduiras": "You will renew",
+    "Il/Elle reconduira": "He/She will renew",
+    "Nous reconduirons": "We will renew",
+    "Vous reconduirez": "You will renew (formal)",
+    "Ils/Elles reconduiront": "They will renew"
+  }
+}

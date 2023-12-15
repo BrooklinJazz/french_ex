@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je pense": "I think / I'm thinking",
+    "Tu penses": "You think / You're thinking",
+    "Il/Elle pense": "He/She thinks / He/She's thinking",
+    "Nous pensons": "We think / We're thinking",
+    "Vous pensez": "You think / You're thinking (formal)",
+    "Ils/Elles pensent": "They think / They're thinking"
+  },
+  "Imparfait (Imperfect)": {
+    "Je pensais": "I used to think",
+    "Tu pensais": "You used to think",
+    "Il/Elle pensait": "He/She used to think",
+    "Nous pensions": "We used to think",
+    "Vous pensiez": "You used to think (formal)",
+    "Ils/Elles pensaient": "They used to think"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai pensé": "I thought / I've thought",
+    "Tu as pensé": "You thought / You've thought",
+    "Il/Elle a pensé": "He/She thought / He/She's thought",
+    "Nous avons pensé": "We thought / We've thought",
+    "Vous avez pensé": "You thought / You've thought (formal)",
+    "Ils/Elles ont pensé": "They thought / They've thought"
+  },
+  "Futur simple (Simple Future)": {
+    "Je penserai": "I will think",
+    "Tu penseras": "You will think",
+    "Il/Elle pensera": "He/She will think",
+    "Nous penserons": "We will think",
+    "Vous penserez": "You will think (formal)",
+    "Ils/Elles penseront": "They will think"
+  }
+}

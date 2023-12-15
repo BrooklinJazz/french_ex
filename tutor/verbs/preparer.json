@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je prépare": "I prepare",
+    "Tu prépares": "You prepare",
+    "Il/Elle prépare": "He/She prepares",
+    "Nous préparons": "We prepare",
+    "Vous préparez": "You prepare (formal)",
+    "Ils/Elles préparent": "They prepare"
+  },
+  "Imparfait (Imperfect)": {
+    "Je préparais": "I used to prepare",
+    "Tu préparais": "You used to prepare",
+    "Il/Elle préparait": "He/She used to prepare",
+    "Nous préparions": "We used to prepare",
+    "Vous prépariez": "You used to prepare (formal)",
+    "Ils/Elles préparaient": "They used to prepare"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai préparé": "I prepared",
+    "Tu as préparé": "You prepared",
+    "Il/Elle a préparé": "He/She prepared",
+    "Nous avons préparé": "We prepared",
+    "Vous avez préparé": "You prepared (formal)",
+    "Ils/Elles ont préparé": "They prepared"
+  },
+  "Futur simple (Simple Future)": {
+    "Je préparerai": "I will prepare",
+    "Tu prépareras": "You will prepare",
+    "Il/Elle préparera": "He/She will prepare",
+    "Nous préparerons": "We will prepare",
+    "Vous préparerez": "You will prepare (formal)",
+    "Ils/Elles prépareront": "They will prepare"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je vends": "I sell",
+    "Tu vends": "You sell",
+    "Il/Elle vend": "He/She sells",
+    "Nous vendons": "We sell",
+    "Vous vendez": "You sell (formal)",
+    "Ils/Elles vendent": "They sell"
+  },
+  "Imparfait (Imperfect)": {
+    "Je vendais": "I used to sell",
+    "Tu vendais": "You used to sell",
+    "Il/Elle vendait": "He/She used to sell",
+    "Nous vendions": "We used to sell",
+    "Vous vendiez": "You used to sell (formal)",
+    "Ils/Elles vendaient": "They used to sell"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai vendu": "I sold",
+    "Tu as vendu": "You sold",
+    "Il/Elle a vendu": "He/She sold",
+    "Nous avons vendu": "We sold",
+    "Vous avez vendu": "You sold (formal)",
+    "Ils/Elles ont vendu": "They sold"
+  },
+  "Futur simple (Simple Future)": {
+    "Je vendrai": "I will sell",
+    "Tu vendras": "You will sell",
+    "Il/Elle vendra": "He/She will sell",
+    "Nous vendrons": "We will sell",
+    "Vous vendrez": "You will sell (formal)",
+    "Ils/Elles vendront": "They will sell"
+  }
+}

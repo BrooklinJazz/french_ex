@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je cause": "I chat/cause",
+    "Tu causes": "You chat/cause",
+    "Il/Elle cause": "He/She chats/causes",
+    "Nous causons": "We chat/cause",
+    "Vous causez": "You chat/cause (formal)",
+    "Ils/Elles causent": "They chat/cause"
+  },
+  "Imparfait (Imperfect)": {
+    "Je causais": "I used to chat/cause",
+    "Tu causais": "You used to chat/cause",
+    "Il/Elle causait": "He/She used to chat/cause",
+    "Nous causions": "We used to chat/cause",
+    "Vous causiez": "You used to chat/cause (formal)",
+    "Ils/Elles causaient": "They used to chat/cause"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai causé": "I have chatted/caused",
+    "Tu as causé": "You have chatted/caused",
+    "Il/Elle a causé": "He/She has chatted/caused",
+    "Nous avons causé": "We have chatted/caused",
+    "Vous avez causé": "You have chatted/caused (formal)",
+    "Ils/Elles ont causé": "They have chatted/caused"
+  },
+  "Futur simple (Simple Future)": {
+    "Je causerai": "I will chat/cause",
+    "Tu causeras": "You will chat/cause",
+    "Il/Elle causera": "He/She will chat/cause",
+    "Nous causerons": "We will chat/cause",
+    "Vous causerez": "You will chat/cause (formal)",
+    "Ils/Elles causeront": "They will chat/cause"
+  }
+}

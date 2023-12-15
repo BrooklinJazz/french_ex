@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je crie": "I shout",
+    "Tu cries": "You shout",
+    "Il/Elle crie": "He/She shouts",
+    "Nous crions": "We shout",
+    "Vous criez": "You shout (formal)",
+    "Ils/Elles crient": "They shout"
+  },
+  "Imparfait (Imperfect)": {
+    "Je criais": "I used to shout",
+    "Tu criais": "You used to shout",
+    "Il/Elle criait": "He/She used to shout",
+    "Nous criions": "We used to shout",
+    "Vous criiez": "You used to shout (formal)",
+    "Ils/Elles criaient": "They used to shout"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai crié": "I have shouted",
+    "Tu as crié": "You have shouted",
+    "Il/Elle a crié": "He/She has shouted",
+    "Nous avons crié": "We have shouted",
+    "Vous avez crié": "You have shouted (formal)",
+    "Ils/Elles ont crié": "They have shouted"
+  },
+  "Futur simple (Simple Future)": {
+    "Je crierai": "I will shout",
+    "Tu crieras": "You will shout",
+    "Il/Elle criera": "He/She will shout",
+    "Nous crierons": "We will shout",
+    "Vous crierez": "You will shout (formal)",
+    "Ils/Elles crieront": "They will shout"
+  }
+}

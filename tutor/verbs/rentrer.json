@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je rentre": "I bring in / I get in",
+    "Tu rentres": "You bring in / You get in",
+    "Il/Elle rentre": "He/She brings in / He/She gets in",
+    "Nous rentrons": "We bring in / We get in",
+    "Vous rentrez": "You bring in / You get in (formal)",
+    "Ils/Elles rentrent": "They bring in / They get in"
+  },
+  "Imparfait (Imperfect)": {
+    "Je rentrais": "I used to bring in / I used to get in",
+    "Tu rentrais": "You used to bring in / You used to get in",
+    "Il/Elle rentrait": "He/She used to bring in / He/She used to get in",
+    "Nous rentrions": "We used to bring in / We used to get in",
+    "Vous rentriez": "You used to bring in / You used to get in (formal)",
+    "Ils/Elles rentraient": "They used to bring in / They used to get in"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai rentré": "I brought in / I got in",
+    "Tu as rentré": "You brought in / You got in",
+    "Il/Elle a rentré": "He/She brought in / He/She got in",
+    "Nous avons rentré": "We brought in / We got in",
+    "Vous avez rentré": "You brought in / You got in (formal)",
+    "Ils/Elles ont rentré": "They brought in / They got in"
+  },
+  "Futur simple (Simple Future)": {
+    "Je rentrerai": "I will bring in / I will get in",
+    "Tu rentreras": "You will bring in / You will get in",
+    "Il/Elle rentrera": "He/She will bring in / He/She will get in",
+    "Nous rentrerons": "We will bring in / We will get in",
+    "Vous rentrerez": "You will bring in / You will get in (formal)",
+    "Ils/Elles rentreront": "They will bring in / They will get in"
+  }
+}

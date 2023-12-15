@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "J'efface": "I erase",
+    "Tu effaces": "You erase",
+    "Il/Elle efface": "He/She erases",
+    "Nous effaçons": "We erase",
+    "Vous effacez": "You erase (formal)",
+    "Ils/Elles effacent": "They erase"
+  },
+  "Imparfait (Imperfect)": {
+    "J'effaçais": "I used to erase",
+    "Tu effaçais": "You used to erase",
+    "Il/Elle effaçait": "He/She used to erase",
+    "Nous effacions": "We used to erase",
+    "Vous effaciez": "You used to erase (formal)",
+    "Ils/Elles effaçaient": "They used to erase"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai effacé": "I erased",
+    "Tu as effacé": "You erased",
+    "Il/Elle a effacé": "He/She erased",
+    "Nous avons effacé": "We erased",
+    "Vous avez effacé": "You erased (formal)",
+    "Ils/Elles ont effacé": "They erased"
+  },
+  "Futur simple (Simple Future)": {
+    "J'effacerai": "I will erase",
+    "Tu effaceras": "You will erase",
+    "Il/Elle effacera": "He/She will erase",
+    "Nous effacerons": "We will erase",
+    "Vous effacerez": "You will erase (formal)",
+    "Ils/Elles effaceront": "They will erase"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "Présent (Present)": {
+    "J'appelle": "I call",
+    "Tu appelles": "You call",
+    "Il/Elle appelle": "He/She calls",
+    "Nous appelons": "We call",
+    "Vous appelez": "You call (formal)",
+    "Ils/Elles appellent": "They call"
+  },
+  "Imparfait (Imperfect)": {
+    "J'appelais": "I used to call",
+    "Tu appelais": "You used to call",
+    "Il/Elle appelait": "He/She used to call",
+    "Nous appelions": "We used to call",
+    "Vous appeliez": "You used to call (formal)",
+    "Ils/Elles appelaient": "They used to call"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai appelé": "I have called",
+    "Tu as appelé": "You have called",
+    "Il/Elle a appelé": "He/She has called",
+    "Nous avons appelé": "We have called",
+    "Vous avez appelé": "You have called (formal)",
+    "Ils/Elles ont appelé": "They have called"
+  },
+  "Futur (Future)": {
+    "J'appellerai": "I will call",
+    "Tu appelleras": "You will call",
+    "Il/Elle appellera": "He/She will call",
+    "Nous appellerons": "We will call",
+    "Vous appellerez": "You will call (formal)",
+    "Ils/Elles appelleront": "They will call"
+  },
+  "Conditionnel (Conditional)": {
+    "J'appellerais": "I would call",
+    "Tu appellerais": "You would call",
+    "Il/Elle appellerait": "He/She would call",
+    "Nous appellerions": "We would call",
+    "Vous appelleriez": "You would call (formal)",
+    "Ils/Elles appelleraient": "They would call"
+  },
+  "Subjonctif (Subjunctive)": {
+    "Que j'appelle": "That I call",
+    "Que tu appelles": "That you call",
+    "Qu'il/elle appelle": "That he/she calls",
+    "Que nous appelions": "That we call",
+    "Que vous appeliez": "That you call (formal)",
+    "Qu'ils/elles appellent": "That they call"
+  },
+  "Impératif (Imperative)": {
+    "Appelle": "Call (tu)",
+    "Appelons": "Let's call (nous)",
+    "Appelez": "Call (vous)"
+  }
+}

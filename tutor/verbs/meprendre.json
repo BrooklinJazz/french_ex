@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je me méprends": "I mistake myself",
+    "Tu te méprends": "You mistake yourself",
+    "Il/Elle se méprend": "He/She mistakes himself/herself",
+    "Nous nous méprenons": "We mistake ourselves",
+    "Vous vous méprenez": "You mistake yourself (formal)",
+    "Ils/Elles se méprennent": "They mistake themselves"
+  },
+  "Imparfait (Imperfect)": {
+    "Je me méprenais": "I used to mistake myself",
+    "Tu te méprenais": "You used to mistake yourself",
+    "Il/Elle se méprenait": "He/She used to mistake himself/herself",
+    "Nous nous méprenions": "We used to mistake ourselves",
+    "Vous vous mépreniez": "You used to mistake yourself (formal)",
+    "Ils/Elles se méprenaient": "They used to mistake themselves"
+  },
+  "Passé composé (Present Perfect)": {
+    "Je me suis mépris": "I mistook myself",
+    "Tu t'es mépris": "You mistook yourself",
+    "Il/Elle s'est mépris": "He/She mistook himself/herself",
+    "Nous nous sommes mépris": "We mistook ourselves",
+    "Vous vous êtes mépris": "You mistook yourself (formal)",
+    "Ils/Elles se sont mépris": "They mistook themselves"
+  },
+  "Futur simple (Simple Future)": {
+    "Je me méprendrai": "I will mistake myself",
+    "Tu te méprendras": "You will mistake yourself",
+    "Il/Elle se méprendra": "He/She will mistake himself/herself",
+    "Nous nous méprendrons": "We will mistake ourselves",
+    "Vous vous méprendrez": "You will mistake yourself (formal)",
+    "Ils/Elles se méprendront": "They will mistake themselves"
+  }
+}

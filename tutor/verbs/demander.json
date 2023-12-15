@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je demande": "I ask",
+    "Tu demandes": "You ask",
+    "Il/Elle demande": "He/She asks",
+    "Nous demandons": "We ask",
+    "Vous demandez": "You ask (formal)",
+    "Ils/Elles demandent": "They ask"
+  },
+  "Imparfait (Imperfect)": {
+    "Je demandais": "I used to ask",
+    "Tu demandais": "You used to ask",
+    "Il/Elle demandait": "He/She used to ask",
+    "Nous demandions": "We used to ask",
+    "Vous demandiez": "You used to ask (formal)",
+    "Ils/Elles demandaient": "They used to ask"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai demandé": "I have asked",
+    "Tu as demandé": "You have asked",
+    "Il/Elle a demandé": "He/She has asked",
+    "Nous avons demandé": "We have asked",
+    "Vous avez demandé": "You have asked (formal)",
+    "Ils/Elles ont demandé": "They have asked"
+  },
+  "Futur simple (Simple Future)": {
+    "Je demanderai": "I will ask",
+    "Tu demanderas": "You will ask",
+    "Il/Elle demandera": "He/She will ask",
+    "Nous demanderons": "We will ask",
+    "Vous demanderez": "You will ask (formal)",
+    "Ils/Elles demanderont": "They will ask"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "Présent (Present)": {
+    "J'admire": "I admire",
+    "Tu admires": "You admire",
+    "Il/Elle admire": "He/She admires",
+    "Nous admirons": "We admire",
+    "Vous admirez": "You admire (formal)",
+    "Ils/Elles admirent": "They admire"
+  },
+  "Imparfait (Imperfect)": {
+    "J'admirais": "I used to admire",
+    "Tu admirais": "You used to admire",
+    "Il/Elle admirait": "He/She used to admire",
+    "Nous admirions": "We used to admire",
+    "Vous admiriez": "You used to admire (formal)",
+    "Ils/Elles admiraient": "They used to admire"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai admiré": "I have admired",
+    "Tu as admiré": "You have admired",
+    "Il/Elle a admiré": "He/She has admired",
+    "Nous avons admiré": "We have admired",
+    "Vous avez admiré": "You have admired (formal)",
+    "Ils/Elles ont admiré": "They have admired"
+  },
+  "Futur (Future)": {
+    "J'admirerai": "I will admire",
+    "Tu admireras": "You will admire",
+    "Il/Elle admirera": "He/She will admire",
+    "Nous admirerons": "We will admire",
+    "Vous admirerez": "You will admire (formal)",
+    "Ils/Elles admireront": "They will admire"
+  },
+  "Conditionnel (Conditional)": {
+    "J'admirerais": "I would admire",
+    "Tu admirerais": "You would admire",
+    "Il/Elle admirerait": "He/She would admire",
+    "Nous admirerions": "We would admire",
+    "Vous admireriez": "You would admire (formal)",
+    "Ils/Elles admireraient": "They would admire"
+  },
+  "Subjonctif (Subjunctive)": {
+    "Que j'admire": "That I admire",
+    "Que tu admires": "That you admire",
+    "Qu'il/elle admire": "That he/she admires",
+    "Que nous admirions": "That we admire",
+    "Que vous admiriez": "That you admire (formal)",
+    "Qu'ils/elles admirent": "That they admire"
+  },
+  "Impératif (Imperative)": {
+    "Admire": "Admire (tu)",
+    "Admirons": "Admire (nous)",
+    "Admirez": "Admire (vous)"
+  }
+}

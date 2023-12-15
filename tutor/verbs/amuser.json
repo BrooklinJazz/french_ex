@@ -1,0 +1,55 @@
+{
+  "Présent (Present)": {
+    "J'amuse": "I amuse",
+    "Tu amuses": "You amuse",
+    "Il/Elle amuse": "He/She amuses",
+    "Nous amusons": "We amuse",
+    "Vous amusez": "You amuse (formal)",
+    "Ils/Elles amusent": "They amuse"
+  },
+  "Imparfait (Imperfect)": {
+    "J'amusais": "I used to amuse",
+    "Tu'amusais": "You used to amuse",
+    "Il/Elle'amusait": "He/She used to amuse",
+    "Nous'amusions": "We used to amuse",
+    "Vous'amusiez": "You used to amuse (formal)",
+    "Ils/Elles'amusent": "They used to amuse"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai amusé": "I have amused",
+    "Tu as amusé": "You have amused",
+    "Il/Elle a amusé": "He/She has amused",
+    "Nous avons amusé": "We have amused",
+    "Vous avez amusé": "You have amused (formal)",
+    "Ils/Elles ont amusé": "They have amused"
+  },
+  "Futur (Future)": {
+    "J'amuserai": "I will amuse",
+    "Tu amuseras": "You will amuse",
+    "Il/Elle amusera": "He/She will amuse",
+    "Nous amuserons": "We will amuse",
+    "Vous amuserez": "You will amuse (formal)",
+    "Ils/Elles amuseront": "They will amuse"
+  },
+  "Conditionnel (Conditional)": {
+    "J'amuserais": "I would amuse",
+    "Tu amuserais": "You would amuse",
+    "Il/Elle amuserait": "He/She would amuse",
+    "Nous amuserions": "We would amuse",
+    "Vous amuseriez": "You would amuse (formal)",
+    "Ils/Elles amuseraient": "They would amuse"
+  },
+  "Subjonctif (Subjunctive)": {
+    "Que j'amuse": "That I amuse",
+    "Que tu amuses": "That you amuse",
+    "Qu'il/elle amuse": "That he/she amuses",
+    "Que nous amusions": "That we amuse",
+    "Que vous amusiez": "That you amuse (formal)",
+    "Qu'ils/elles amusent": "That they amuse"
+  },
+  "Impératif (Imperative)": {
+    "Amuse": "Amuse (tu)",
+    "Amusons": "Let's amuse (nous)",
+    "Amusez": "Amuse (vous)"
+  }
+}

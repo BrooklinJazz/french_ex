@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "J'offre": "I offer / I'm offering",
+    "Tu offres": "You offer / You're offering",
+    "Il/Elle offre": "He/She offers / He/She's offering",
+    "Nous offrons": "We offer / We're offering",
+    "Vous offrez": "You offer / You're offering (formal)",
+    "Ils/Elles offrent": "They offer / They're offering"
+  },
+  "Imparfait (Imperfect)": {
+    "J'offrais": "I used to offer",
+    "Tu offrais": "You used to offer",
+    "Il/Elle offrait": "He/She used to offer",
+    "Nous offrions": "We used to offer",
+    "Vous offriez": "You used to offer (formal)",
+    "Ils/Elles offraient": "They used to offer"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai offert": "I offered / I've offered",
+    "Tu as offert": "You offered / You've offered",
+    "Il/Elle a offert": "He/She offered / He/She's offered",
+    "Nous avons offert": "We offered / We've offered",
+    "Vous avez offert": "You offered / You've offered (formal)",
+    "Ils/Elles ont offert": "They offered / They've offered"
+  },
+  "Futur simple (Simple Future)": {
+    "J'offrirai": "I will offer",
+    "Tu offriras": "You will offer",
+    "Il/Elle offrira": "He/She will offer",
+    "Nous offrirons": "We will offer",
+    "Vous offrirez": "You will offer (formal)",
+    "Ils/Elles offriront": "They will offer"
+  }
+}

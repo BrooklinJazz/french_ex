@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je refuse": "I refuse",
+    "Tu refuses": "You refuse",
+    "Il/Elle refuse": "He/She refuses",
+    "Nous refusons": "We refuse",
+    "Vous refusez": "You refuse (formal)",
+    "Ils/Elles refusent": "They refuse"
+  },
+  "Imparfait (Imperfect)": {
+    "Je refusais": "I used to refuse",
+    "Tu refusais": "You used to refuse",
+    "Il/Elle refusait": "He/She used to refuse",
+    "Nous refusions": "We used to refuse",
+    "Vous refusiez": "You used to refuse (formal)",
+    "Ils/Elles refusaient": "They used to refuse"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai refusé": "I refused",
+    "Tu as refusé": "You refused",
+    "Il/Elle a refusé": "He/She refused",
+    "Nous avons refusé": "We refused",
+    "Vous avez refusé": "You refused (formal)",
+    "Ils/Elles ont refusé": "They refused"
+  },
+  "Futur simple (Simple Future)": {
+    "Je refuserai": "I will refuse",
+    "Tu refuseras": "You will refuse",
+    "Il/Elle refusera": "He/She will refuse",
+    "Nous refuserons": "We will refuse",
+    "Vous refuserez": "You will refuse (formal)",
+    "Ils/Elles refuseront": "They will refuse"
+  }
+}

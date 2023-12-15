@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je félicite": "I congratulate",
+    "Tu félicites": "You congratulate",
+    "Il/Elle félicite": "He/She congratulates",
+    "Nous félicitons": "We congratulate",
+    "Vous félicitez": "You congratulate (formal)",
+    "Ils/Elles félicitent": "They congratulate"
+  },
+  "Imparfait (Imperfect)": {
+    "Je félicitais": "I used to congratulate",
+    "Tu félicitais": "You used to congratulate",
+    "Il/Elle félicitait": "He/She used to congratulate",
+    "Nous félicitions": "We used to congratulate",
+    "Vous félicitiez": "You used to congratulate (formal)",
+    "Ils/Elles félicitaient": "They used to congratulate"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai félicité": "I congratulated",
+    "Tu as félicité": "You congratulated",
+    "Il/Elle a félicité": "He/She congratulated",
+    "Nous avons félicité": "We congratulated",
+    "Vous avez félicité": "You congratulated (formal)",
+    "Ils/Elles ont félicité": "They congratulated"
+  },
+  "Futur simple (Simple Future)": {
+    "Je féliciterai": "I will congratulate",
+    "Tu féliciteras": "You will congratulate",
+    "Il/Elle félicitera": "He/She will congratulate",
+    "Nous féliciterons": "We will congratulate",
+    "Vous féliciterez": "You will congratulate (formal)",
+    "Ils/Elles féliciteront": "They will congratulate"
+  }
+}

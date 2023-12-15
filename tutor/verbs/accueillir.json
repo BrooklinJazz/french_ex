@@ -1,0 +1,55 @@
+{
+  "Présent (Present)": {
+    "J'accueille": "I welcome",
+    "Tu accueilles": "You welcome",
+    "Il/Elle accueille": "He/She welcomes",
+    "Nous accueillons": "We welcome",
+    "Vous accueillez": "You welcome (formal)",
+    "Ils/Elles accueillent": "They welcome"
+  },
+  "Imparfait (Imperfect)": {
+    "J'accueillais": "I used to welcome",
+    "Tu accueillais": "You used to welcome",
+    "Il/Elle accueillait": "He/She used to welcome",
+    "Nous accueillions": "We used to welcome",
+    "Vous accueilliez": "You used to welcome (formal)",
+    "Ils/Elles accueillaient": "They used to welcome"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai accueilli": "I have welcomed",
+    "Tu as accueilli": "You have welcomed",
+    "Il/Elle a accueilli": "He/She has welcomed",
+    "Nous avons accueilli": "We have welcomed",
+    "Vous avez accueilli": "You have welcomed (formal)",
+    "Ils/Elles ont accueilli": "They have welcomed"
+  },
+  "Futur (Future)": {
+    "J'accueillerai": "I will welcome",
+    "Tu accueilleras": "You will welcome",
+    "Il/Elle accueillera": "He/She will welcome",
+    "Nous accueillerons": "We will welcome",
+    "Vous accueillerez": "You will welcome (formal)",
+    "Ils/Elles accueilleront": "They will welcome"
+  },
+  "Conditionnel (Conditional)": {
+    "J'accueillerais": "I would welcome",
+    "Tu accueillerais": "You would welcome",
+    "Il/Elle accueillerait": "He/She would welcome",
+    "Nous accueillerions": "We would welcome",
+    "Vous accueilleriez": "You would welcome (formal)",
+    "Ils/Elles accueilleraient": "They would welcome"
+  },
+  "Subjonctif (Subjunctive)": {
+    "Que j'accueille": "That I welcome",
+    "Que tu accueilles": "That you welcome",
+    "Qu'il/elle accueille": "That he/she welcomes",
+    "Que nous accueillions": "That we welcome",
+    "Que vous accueilliez": "That you welcome (formal)",
+    "Qu'ils/elles accueillent": "That they welcome"
+  },
+  "Impératif (Imperative)": {
+    "Accueille": "Welcome (tu)",
+    "Accueillons": "Let's welcome (nous)",
+    "Accueillez": "Welcome (vous)"
+  }
+}

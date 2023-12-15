@@ -1,0 +1,58 @@
+{
+  "Présent (Present)": {
+    "Je fais": "I do/make",
+    "Tu fais": "You do/make",
+    "Il/Elle/On fait": "He/She/One does/makes",
+    "Nous faisons": "We do/make",
+    "Vous faites": "You do/make (formal)",
+    "Ils/Elles font": "They do/make"
+  },
+  "Imparfait (Imperfect)": {
+    "Je faisais": "I did/made",
+    "Tu faisais": "You did/made",
+    "Il/Elle/On faisait": "He/She/One did/made",
+    "Nous faisions": "We did/made",
+    "Vous faisiez": "You did/made (formal)",
+    "Ils/Elles faisaient": "They did/made"
+  },
+  "Passé Composé (Past Simple)": {
+    "J'ai fait": "I did/made",
+    "Tu as fait": "You did/made",
+    "Il/Elle/On a fait": "He/She/One did/made",
+    "Nous avons fait": "We did/made",
+    "Vous avez fait": "You did/made (formal)",
+    "Ils/Elles ont fait": "They did/made"
+  },
+  "Futur Simple (Future)": {
+    "Je ferai": "I will do/make",
+    "Tu feras": "You will do/make",
+    "Il/Elle/On fera": "He/She/One will do/make",
+    "Nous ferons": "We will do/make",
+    "Vous ferez": "You will do/make (formal)",
+    "Ils/Elles feront": "They will do/make"
+  },
+  "Conditionnel Présent (Conditional)": {
+    "Je ferais": "I would do/make",
+    "Tu ferais": "You would do/make",
+    "Il/Elle/On ferait": "He/She/One would do/make",
+    "Nous ferions": "We would do/make",
+    "Vous feriez": "You would do/make (formal)",
+    "Ils/Elles feraient": "They would do/make"
+  },
+  "Futur Proche (Near Future)": {
+    "Je vais faire": "I am going to do/make",
+    "Tu vas faire": "You are going to do/make",
+    "Il/Elle/On va faire": "He/She/One is going to do/make",
+    "Nous allons faire": "We are going to do/make",
+    "Vous allez faire": "You are going to do/make",
+    "Ils/Elles vont faire": "They are going to do/make"
+  },
+  "Subjonctif Présent (Subjunctive Present)": {
+    "Que je fasse": "That I do/make",
+    "Que tu fasses": "That you do/make",
+    "Qu'il/Elle/On fasse": "That he/she/one does/makes",
+    "Que nous fassions": "That we do/make",
+    "Que vous fassiez": "That you do/make",
+    "Qu'ils/Elles fassent": "That they do/make"
+  }
+}

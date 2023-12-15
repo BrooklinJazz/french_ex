@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je gère": "I manage",
+    "Tu gères": "You manage",
+    "Il/Elle gère": "He/She manages",
+    "Nous gérons": "We manage",
+    "Vous gérez": "You manage (formal)",
+    "Ils/Elles gèrent": "They manage"
+  },
+  "Imparfait (Imperfect)": {
+    "Je gérais": "I used to manage",
+    "Tu gérais": "You used to manage",
+    "Il/Elle gérait": "He/She used to manage",
+    "Nous gérions": "We used to manage",
+    "Vous gériez": "You used to manage (formal)",
+    "Ils/Elles géraient": "They used to manage"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai géré": "I managed",
+    "Tu as géré": "You managed",
+    "Il/Elle a géré": "He/She managed",
+    "Nous avons géré": "We managed",
+    "Vous avez géré": "You managed (formal)",
+    "Ils/Elles ont géré": "They managed"
+  },
+  "Futur simple (Simple Future)": {
+    "Je gérerai": "I will manage",
+    "Tu géreras": "You will manage",
+    "Il/Elle gérera": "He/She will manage",
+    "Nous gérerons": "We will manage",
+    "Vous gérerez": "You will manage (formal)",
+    "Ils/Elles géreront": "They will manage"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je termine": "I end",
+    "Tu termines": "You end",
+    "Il/Elle termine": "He/She ends",
+    "Nous terminons": "We end",
+    "Vous terminez": "You end (formal)",
+    "Ils/Elles terminent": "They end"
+  },
+  "Imparfait (Imperfect)": {
+    "Je terminais": "I used to end",
+    "Tu terminais": "You used to end",
+    "Il/Elle terminait": "He/She used to end",
+    "Nous terminions": "We used to end",
+    "Vous terminiez": "You used to end (formal)",
+    "Ils/Elles terminaient": "They used to end"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai terminé": "I ended",
+    "Tu as terminé": "You ended",
+    "Il/Elle a terminé": "He/She ended",
+    "Nous avons terminé": "We ended",
+    "Vous avez terminé": "You ended (formal)",
+    "Ils/Elles ont terminé": "They ended"
+  },
+  "Futur simple (Simple Future)": {
+    "Je terminerai": "I will end",
+    "Tu termineras": "You will end",
+    "Il/Elle terminera": "He/She will end",
+    "Nous terminerons": "We will end",
+    "Vous terminerez": "You will end (formal)",
+    "Ils/Elles termineront": "They will end"
+  }
+}

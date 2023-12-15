@@ -1,0 +1,55 @@
+{
+  "Présent (Present)": {
+    "J'accepte": "I accept",
+    "Tu acceptes": "You accept",
+    "Il/Elle accepte": "He/She accepts",
+    "Nous acceptons": "We accept",
+    "Vous acceptez": "You accept (formal)",
+    "Ils/Elles acceptent": "They accept"
+  },
+  "Imparfait (Imperfect)": {
+    "J'acceptais": "I used to accept",
+    "Tu acceptais": "You used to accept",
+    "Il/Elle acceptait": "He/She used to accept",
+    "Nous acceptions": "We used to accept",
+    "Vous acceptiez": "You used to accept (formal)",
+    "Ils/Elles acceptaient": "They used to accept"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai accepté": "I have accepted",
+    "Tu as accepté": "You have accepted",
+    "Il/Elle a accepté": "He/She has accepted",
+    "Nous avons accepté": "We have accepted",
+    "Vous avez accepté": "You have accepted (formal)",
+    "Ils/Elles ont accepté": "They have accepted"
+  },
+  "Futur (Future)": {
+    "J'accepterai": "I will accept",
+    "Tu accepteras": "You will accept",
+    "Il/Elle acceptera": "He/She will accept",
+    "Nous accepterons": "We will accept",
+    "Vous accepterez": "You will accept (formal)",
+    "Ils/Elles accepteront": "They will accept"
+  },
+  "Conditionnel (Conditional)": {
+    "J'accepterais": "I would accept",
+    "Tu accepterais": "You would accept",
+    "Il/Elle accepterait": "He/She would accept",
+    "Nous accepterions": "We would accept",
+    "Vous accepteriez": "You would accept (formal)",
+    "Ils/Elles accepteraient": "They would accept"
+  },
+  "Subjonctif (Subjunctive)": {
+    "Que j'accepte": "That I accept",
+    "Que tu acceptes": "That you accept",
+    "Qu'il/elle accepte": "That he/she accept",
+    "Que nous acceptions": "That we accept",
+    "Que vous acceptiez": "That you accept (formal)",
+    "Qu'ils/elles acceptent": "That they accept"
+  },
+  "Impératif (Imperative)": {
+    "Accepte": "Accept (tu)",
+    "Acceptons": "Let's accept (nous)",
+    "Acceptez": "Accept (vous)"
+  }
+}

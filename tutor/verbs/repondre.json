@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je réponds": "I answer, I reply",
+    "Tu réponds": "You answer, You reply",
+    "Il/Elle répond": "He/She answers, He/She replies",
+    "Nous répondons": "We answer, We reply",
+    "Vous répondez": "You answer, You reply (formal)",
+    "Ils/Elles répondent": "They answer, They reply"
+  },
+  "Imparfait (Imperfect)": {
+    "Je répondais": "I used to answer, I used to reply",
+    "Tu répondais": "You used to answer, You used to reply",
+    "Il/Elle répondait": "He/She used to answer, He/She used to reply",
+    "Nous répondions": "We used to answer, We used to reply",
+    "Vous répondiez": "You used to answer, You used to reply (formal)",
+    "Ils/Elles répondaient": "They used to answer, They used to reply"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai répondu": "I answered, I replied",
+    "Tu as répondu": "You answered, You replied",
+    "Il/Elle a répondu": "He/She answered, He/She replied",
+    "Nous avons répondu": "We answered, We replied",
+    "Vous avez répondu": "You answered, You replied (formal)",
+    "Ils/Elles ont répondu": "They answered, They replied"
+  },
+  "Futur simple (Simple Future)": {
+    "Je répondrai": "I will answer, I will reply",
+    "Tu répondras": "You will answer, You will reply",
+    "Il/Elle répondra": "He/She will answer, He/She will reply",
+    "Nous répondrons": "We will answer, We will reply",
+    "Vous répondrez": "You will answer, You will reply (formal)",
+    "Ils/Elles répondront": "They will answer, They will reply"
+  }
+}

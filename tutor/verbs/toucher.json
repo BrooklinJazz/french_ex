@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je touche": "I touch",
+    "Tu touches": "You touch",
+    "Il/Elle touche": "He/She touches",
+    "Nous touchons": "We touch",
+    "Vous touchez": "You touch (formal)",
+    "Ils/Elles touchent": "They touch"
+  },
+  "Imparfait (Imperfect)": {
+    "Je touchais": "I used to touch",
+    "Tu touchais": "You used to touch",
+    "Il/Elle touchait": "He/She used to touch",
+    "Nous touchions": "We used to touch",
+    "Vous touchiez": "You used to touch (formal)",
+    "Ils/Elles touchaient": "They used to touch"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai touché": "I touched",
+    "Tu as touché": "You touched",
+    "Il/Elle a touché": "He/She touched",
+    "Nous avons touché": "We touched",
+    "Vous avez touché": "You touched (formal)",
+    "Ils/Elles ont touché": "They touched"
+  },
+  "Futur simple (Simple Future)": {
+    "Je toucherai": "I will touch",
+    "Tu toucheras": "You will touch",
+    "Il/Elle touchera": "He/She will touch",
+    "Nous toucherons": "We will touch",
+    "Vous toucherez": "You will touch (formal)",
+    "Ils/Elles toucheront": "They will touch"
+  }
+}

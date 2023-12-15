@@ -1,0 +1,55 @@
+{
+  "Présent (Present)": {
+    "J'agis": "I act, behave; work, take effect",
+    "Tu agis": "You act, behave; work, take effect",
+    "Il/Elle agit": "He/She acts, behaves; works, takes effect",
+    "Nous agissons": "We act, behave; work, take effect",
+    "Vous agissez": "You act, behave; work, take effect (formal)",
+    "Ils/Elles agissent": "They act, behave; work, take effect"
+  },
+  "Imparfait (Imperfect)": {
+    "J'agissais": "I used to act, behave; work, take effect",
+    "Tu agissais": "You used to act, behave; work, take effect",
+    "Il/Elle agissait": "He/She used to act, behave; work, take effect",
+    "Nous agissions": "We used to act, behave; work, take effect",
+    "Vous agissiez": "You used to act, behave; work, take effect (formal)",
+    "Ils/Elles agissaient": "They used to act, behave; work, take effect"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai agi": "I have acted, behaved; worked, taken effect",
+    "Tu as agi": "You have acted, behaved; worked, taken effect",
+    "Il/Elle a agi": "He/She has acted, behaved; worked, taken effect",
+    "Nous avons agi": "We have acted, behaved; worked, taken effect",
+    "Vous avez agi": "You have acted, behaved; worked, taken effect (formal)",
+    "Ils/Elles ont agi": "They have acted, behaved; worked, taken effect"
+  },
+  "Futur (Future)": {
+    "J'agirai": "I will act, behave; work, take effect",
+    "Tu agiras": "You will act, behave; work, take effect",
+    "Il/Elle agira": "He/She will act, behave; work, take effect",
+    "Nous agirons": "We will act, behave; work, take effect",
+    "Vous agirez": "You will act, behave; work, take effect (formal)",
+    "Ils/Elles agiront": "They will act, behave; work, take effect"
+  },
+  "Conditionnel (Conditional)": {
+    "J'agirais": "I would act, behave; work, take effect",
+    "Tu agirais": "You would act, behave; work, take effect",
+    "Il/Elle agirait": "He/She would act, behave; work, take effect",
+    "Nous agirions": "We would act, behave; work, take effect",
+    "Vous agiriez": "You would act, behave; work, take effect (formal)",
+    "Ils/Elles agiraient": "They would act, behave; work, take effect"
+  },
+  "Subjonctif (Subjunctive)": {
+    "Que j'agisse": "That I act, behave; work, take effect",
+    "Que tu agisses": "That you act, behave; work, take effect",
+    "Qu'il/elle agisse": "That he/she acts, behaves; works, takes effect",
+    "Que nous agissions": "That we act, behave; work, take effect",
+    "Que vous agissiez": "That you act, behave; work, take effect (formal)",
+    "Qu'ils/elles agissent": "That they act, behave; work, take effect"
+  },
+  "Impératif (Imperative)": {
+    "Agis": "Act, behave; work, take effect (tu)",
+    "Agissons": "Let's act, behave; work, take effect (nous)",
+    "Agissez": "Act, behave; work, take effect (vous)"
+  }
+}

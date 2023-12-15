@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je répète": "I repeat",
+    "Tu répètes": "You repeat",
+    "Il/Elle répète": "He/She repeats",
+    "Nous répétons": "We repeat",
+    "Vous répétez": "You repeat (formal)",
+    "Ils/Elles répètent": "They repeat"
+  },
+  "Imparfait (Imperfect)": {
+    "Je répétais": "I used to repeat",
+    "Tu répétais": "You used to repeat",
+    "Il/Elle répétait": "He/She used to repeat",
+    "Nous répétions": "We used to repeat",
+    "Vous répétiez": "You used to repeat (formal)",
+    "Ils/Elles répétaient": "They used to repeat"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai répété": "I repeated",
+    "Tu as répété": "You repeated",
+    "Il/Elle a répété": "He/She repeated",
+    "Nous avons répété": "We repeated",
+    "Vous avez répété": "You repeated (formal)",
+    "Ils/Elles ont répété": "They repeated"
+  },
+  "Futur simple (Simple Future)": {
+    "Je répéterai": "I will repeat",
+    "Tu répéteras": "You will repeat",
+    "Il/Elle répétera": "He/She will repeat",
+    "Nous répéterons": "We will repeat",
+    "Vous répéterez": "You will repeat (formal)",
+    "Ils/Elles répéteront": "They will repeat"
+  }
+}

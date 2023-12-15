@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je trouve": "I find",
+    "Tu trouves": "You find",
+    "Il/Elle trouve": "He/She finds",
+    "Nous trouvons": "We find",
+    "Vous trouvez": "You find (formal)",
+    "Ils/Elles trouvent": "They find"
+  },
+  "Imparfait (Imperfect)": {
+    "Je trouvais": "I used to find",
+    "Tu trouvais": "You used to find",
+    "Il/Elle trouvait": "He/She used to find",
+    "Nous trouvions": "We used to find",
+    "Vous trouviez": "You used to find (formal)",
+    "Ils/Elles trouvaient": "They used to find"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai trouvé": "I found",
+    "Tu as trouvé": "You found",
+    "Il/Elle a trouvé": "He/She found",
+    "Nous avons trouvé": "We found",
+    "Vous avez trouvé": "You found (formal)",
+    "Ils/Elles ont trouvé": "They found"
+  },
+  "Futur simple (Simple Future)": {
+    "Je trouverai": "I will find",
+    "Tu trouveras": "You will find",
+    "Il/Elle trouvera": "He/She will find",
+    "Nous trouverons": "We will find",
+    "Vous trouverez": "You will find (formal)",
+    "Ils/Elles trouveront": "They will find"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je maintiens": "I keep/maintain",
+    "Tu maintiens": "You keep/maintain",
+    "Il/Elle maintient": "He/She keeps/maintains",
+    "Nous maintenons": "We keep/maintain",
+    "Vous maintenez": "You keep/maintain (formal)",
+    "Ils/Elles maintiennent": "They keep/maintain"
+  },
+  "Imparfait (Imperfect)": {
+    "Je maintenais": "I used to keep/maintain",
+    "Tu maintenais": "You used to keep/maintain",
+    "Il/Elle maintenait": "He/She used to keep/maintain",
+    "Nous maintenions": "We used to keep/maintain",
+    "Vous mainteniez": "You used to keep/maintain (formal)",
+    "Ils/Elles maintenaient": "They used to keep/maintain"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai maintenu": "I kept/maintained",
+    "Tu as maintenu": "You kept/maintained",
+    "Il/Elle a maintenu": "He/She kept/maintained",
+    "Nous avons maintenu": "We kept/maintained",
+    "Vous avez maintenu": "You kept/maintained (formal)",
+    "Ils/Elles ont maintenu": "They kept/maintained"
+  },
+  "Futur simple (Simple Future)": {
+    "Je maintiendrai": "I will keep/maintain",
+    "Tu maintiendras": "You will keep/maintain",
+    "Il/Elle maintiendra": "He/She will keep/maintain",
+    "Nous maintiendrons": "We will keep/maintain",
+    "Vous maintiendrez": "You will keep/maintain (formal)",
+    "Ils/Elles maintiendront": "They will keep/maintain"
+  }
+}

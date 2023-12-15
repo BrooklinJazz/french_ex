@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je porte": "I carry / I'm wearing",
+    "Tu portes": "You carry / You're wearing",
+    "Il/Elle porte": "He/She carries / He/She's wearing",
+    "Nous portons": "We carry / We're wearing",
+    "Vous portez": "You carry / You're wearing (formal)",
+    "Ils/Elles portent": "They carry / They're wearing"
+  },
+  "Imparfait (Imperfect)": {
+    "Je portais": "I used to carry / I used to wear",
+    "Tu portais": "You used to carry / You used to wear",
+    "Il/Elle portait": "He/She used to carry / He/She used to wear",
+    "Nous portions": "We used to carry / We used to wear",
+    "Vous portiez": "You used to carry / You used to wear (formal)",
+    "Ils/Elles portaient": "They used to carry / They used to wear"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai porté": "I carried / I've worn",
+    "Tu as porté": "You carried / You've worn",
+    "Il/Elle a porté": "He/She carried / He/She's worn",
+    "Nous avons porté": "We carried / We've worn",
+    "Vous avez porté": "You carried / You've worn (formal)",
+    "Ils/Elles ont porté": "They carried / They've worn"
+  },
+  "Futur simple (Simple Future)": {
+    "Je porterai": "I will carry / I will wear",
+    "Tu porteras": "You will carry / You will wear",
+    "Il/Elle portera": "He/She will carry / He/She will wear",
+    "Nous porterons": "We will carry / We will wear",
+    "Vous porterez": "You will carry / You will wear (formal)",
+    "Ils/Elles porteront": "They will carry / They will wear"
+  }
+}

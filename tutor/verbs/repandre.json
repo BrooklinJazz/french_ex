@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je répands": "I spread",
+    "Tu répands": "You spread",
+    "Il/Elle répand": "He/She spreads",
+    "Nous répandons": "We spread",
+    "Vous répandez": "You spread (formal)",
+    "Ils/Elles répandent": "They spread"
+  },
+  "Imparfait (Imperfect)": {
+    "Je répandais": "I used to spread",
+    "Tu répandais": "You used to spread",
+    "Il/Elle répandait": "He/She used to spread",
+    "Nous répandions": "We used to spread",
+    "Vous répandiez": "You used to spread (formal)",
+    "Ils/Elles répandaient": "They used to spread"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai répandu": "I spread",
+    "Tu as répandu": "You spread",
+    "Il/Elle a répandu": "He/She spread",
+    "Nous avons répandu": "We spread",
+    "Vous avez répandu": "You spread (formal)",
+    "Ils/Elles ont répandu": "They spread"
+  },
+  "Futur simple (Simple Future)": {
+    "Je répandrai": "I will spread",
+    "Tu répandras": "You will spread",
+    "Il/Elle répandra": "He/She will spread",
+    "Nous répandrons": "We will spread",
+    "Vous répandrez": "You will spread (formal)",
+    "Ils/Elles répandront": "They will spread"
+  }
+}

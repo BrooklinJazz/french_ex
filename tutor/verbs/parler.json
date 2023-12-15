@@ -1,0 +1,58 @@
+{
+  "Présent (Present)": {
+    "Je parle": "I speak",
+    "Tu parles": "You speak",
+    "Il/Elle/On parle": "He/She/One speaks",
+    "Nous parlons": "We speak",
+    "Vous parlez": "You speak (formal)",
+    "Ils/Elles parlent": "They speak"
+  },
+  "Imparfait (Imperfect)": {
+    "Je parlais": "I spoke",
+    "Tu parlais": "You spoke",
+    "Il/Elle/On parlait": "He/She/One spoke",
+    "Nous parlions": "We spoke",
+    "Vous parliez": "You spoke (formal)",
+    "Ils/Elles parlaient": "They spoke"
+  },
+  "Passé Composé (Past Simple)": {
+    "J'ai parlé": "I spoke",
+    "Tu as parlé": "You spoke",
+    "Il/Elle/On a parlé": "He/She/One spoke",
+    "Nous avons parlé": "We spoke",
+    "Vous avez parlé": "You spoke (formal)",
+    "Ils/Elles ont parlé": "They spoke"
+  },
+  "Futur Simple (Future)": {
+    "Je parlerai": "I will speak",
+    "Tu parleras": "You will speak",
+    "Il/Elle/On parlera": "He/She/One will speak",
+    "Nous parlerons": "We will speak",
+    "Vous parlerez": "You will speak (formal)",
+    "Ils/Elles parleront": "They will speak"
+  },
+  "Conditionnel Présent (Conditional)": {
+    "Je parlerais": "I would speak",
+    "Tu parlerais": "You would speak",
+    "Il/Elle/On parlerait": "He/She/One would speak",
+    "Nous parlerions": "We would speak",
+    "Vous parleriez": "You would speak (formal)",
+    "Ils/Elles parleraient": "They would speak"
+  },
+  "Futur Proche (Near Future)": {
+    "Je vais parler": "I am going to speak",
+    "Tu vas parler": "You are going to speak",
+    "Il/Elle/On va parler": "He/She/One is going to speak",
+    "Nous allons parler": "We are going to speak",
+    "Vous allez parler": "You are going to speak",
+    "Ils/Elles vont parler": "They are going to speak"
+  },
+  "Subjonctif Présent (Subjunctive Present)": {
+    "Que je parle": "That I speak",
+    "Que tu parles": "That you speak",
+    "Qu'il/Elle/On parle": "That he/she/one speaks",
+    "Que nous parlions": "That we speak",
+    "Que vous parliez": "That you speak",
+    "Qu'ils/Elles parlent": "That they speak"
+  }
+}

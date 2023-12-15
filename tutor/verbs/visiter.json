@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je visite": "I visit",
+    "Tu visites": "You visit",
+    "Il/Elle visite": "He/She visits",
+    "Nous visitons": "We visit",
+    "Vous visitez": "You visit (formal)",
+    "Ils/Elles visitent": "They visit"
+  },
+  "Imparfait (Imperfect)": {
+    "Je visitais": "I used to visit",
+    "Tu visitais": "You used to visit",
+    "Il/Elle visitait": "He/She used to visit",
+    "Nous visitiions": "We used to visit",
+    "Vous visitiez": "You used to visit (formal)",
+    "Ils/Elles visitaient": "They used to visit"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai visité": "I visited",
+    "Tu as visité": "You visited",
+    "Il/Elle a visité": "He/She visited",
+    "Nous avons visité": "We visited",
+    "Vous avez visité": "You visited (formal)",
+    "Ils/Elles ont visité": "They visited"
+  },
+  "Futur simple (Simple Future)": {
+    "Je visiterai": "I will visit",
+    "Tu visiteras": "You will visit",
+    "Il/Elle visitera": "He/She will visit",
+    "Nous visiterons": "We will visit",
+    "Vous visiterez": "You will visit (formal)",
+    "Ils/Elles visiteront": "They will visit"
+  }
+}

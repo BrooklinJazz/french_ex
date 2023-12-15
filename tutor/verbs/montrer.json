@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je montre": "I show / I'm showing",
+    "Tu montres": "You show / You're showing",
+    "Il/Elle montre": "He/She shows / He/She's showing",
+    "Nous montrons": "We show / We're showing",
+    "Vous montrez": "You show / You're showing (formal)",
+    "Ils/Elles montrent": "They show / They're showing"
+  },
+  "Imparfait (Imperfect)": {
+    "Je montrais": "I used to show",
+    "Tu montrais": "You used to show",
+    "Il/Elle montrait": "He/She used to show",
+    "Nous montrions": "We used to show",
+    "Vous montriez": "You used to show (formal)",
+    "Ils/Elles montraient": "They used to show"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai montré": "I showed / I've shown",
+    "Tu as montré": "You showed / You've shown",
+    "Il/Elle a montré": "He/She showed / He/She's shown",
+    "Nous avons montré": "We showed / We've shown",
+    "Vous avez montré": "You showed / You've shown (formal)",
+    "Ils/Elles ont montré": "They showed / They've shown"
+  },
+  "Futur simple (Simple Future)": {
+    "Je montrerai": "I will show",
+    "Tu montreras": "You will show",
+    "Il/Elle montrera": "He/She will show",
+    "Nous montrerons": "We will show",
+    "Vous montrerez": "You will show (formal)",
+    "Ils/Elles montreront": "They will show"
+  }
+}

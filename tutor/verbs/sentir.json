@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je sens": "I smell",
+    "Tu sens": "You smell",
+    "Il/Elle sent": "He/She smells",
+    "Nous sentons": "We smell",
+    "Vous sentez": "You smell (formal)",
+    "Ils/Elles sentent": "They smell"
+  },
+  "Imparfait (Imperfect)": {
+    "Je sentais": "I used to smell",
+    "Tu sentais": "You used to smell",
+    "Il/Elle sentait": "He/She used to smell",
+    "Nous sentions": "We used to smell",
+    "Vous sentiez": "You used to smell (formal)",
+    "Ils/Elles sentaient": "They used to smell"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai senti": "I smelled",
+    "Tu as senti": "You smelled",
+    "Il/Elle a senti": "He/She smelled",
+    "Nous avons senti": "We smelled",
+    "Vous avez senti": "You smelled (formal)",
+    "Ils/Elles ont senti": "They smelled"
+  },
+  "Futur simple (Simple Future)": {
+    "Je sentirai": "I will smell",
+    "Tu sentiras": "You will smell",
+    "Il/Elle sentira": "He/She will smell",
+    "Nous sentirons": "We will smell",
+    "Vous sentirez": "You will smell (formal)",
+    "Ils/Elles sentiront": "They will smell"
+  }
+}

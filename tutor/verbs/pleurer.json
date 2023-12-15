@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je pleure": "I cry / I'm crying",
+    "Tu pleures": "You cry / You're crying",
+    "Il/Elle pleure": "He/She cries / He/She's crying",
+    "Nous pleurons": "We cry / We're crying",
+    "Vous pleurez": "You cry / You're crying (formal)",
+    "Ils/Elles pleurent": "They cry / They're crying"
+  },
+  "Imparfait (Imperfect)": {
+    "Je pleurais": "I used to cry",
+    "Tu pleurais": "You used to cry",
+    "Il/Elle pleurait": "He/She used to cry",
+    "Nous pleurions": "We used to cry",
+    "Vous pleuriez": "You used to cry (formal)",
+    "Ils/Elles pleuraient": "They used to cry"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai pleuré": "I cried / I've cried",
+    "Tu as pleuré": "You cried / You've cried",
+    "Il/Elle a pleuré": "He/She cried / He/She's cried",
+    "Nous avons pleuré": "We cried / We've cried",
+    "Vous avez pleuré": "You cried / You've cried (formal)",
+    "Ils/Elles ont pleuré": "They cried / They've cried"
+  },
+  "Futur simple (Simple Future)": {
+    "Je pleurerai": "I will cry",
+    "Tu pleureras": "You will cry",
+    "Il/Elle pleurera": "He/She will cry",
+    "Nous pleurerons": "We will cry",
+    "Vous pleurerez": "You will cry (formal)",
+    "Ils/Elles pleureront": "They will cry"
+  }
+}

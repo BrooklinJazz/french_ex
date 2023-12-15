@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je loue": "I rent",
+    "Tu loues": "You rent",
+    "Il/Elle loue": "He/She rents",
+    "Nous louons": "We rent",
+    "Vous louez": "You rent (formal)",
+    "Ils/Elles louent": "They rent"
+  },
+  "Imparfait (Imperfect)": {
+    "Je louais": "I used to rent",
+    "Tu louais": "You used to rent",
+    "Il/Elle louait": "He/She used to rent",
+    "Nous louions": "We used to rent",
+    "Vous louiez": "You used to rent (formal)",
+    "Ils/Elles louaient": "They used to rent"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai loué": "I rented",
+    "Tu as loué": "You rented",
+    "Il/Elle a loué": "He/She rented",
+    "Nous avons loué": "We rented",
+    "Vous avez loué": "You rented (formal)",
+    "Ils/Elles ont loué": "They rented"
+  },
+  "Futur simple (Simple Future)": {
+    "Je louerai": "I will rent",
+    "Tu loueras": "You will rent",
+    "Il/Elle louera": "He/She will rent",
+    "Nous louerons": "We will rent",
+    "Vous louerez": "You will rent (formal)",
+    "Ils/Elles loueront": "They will rent"
+  }
+}

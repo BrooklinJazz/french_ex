@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je passe": "I pass / I'm passing",
+    "Tu passes": "You pass / You're passing",
+    "Il/Elle passe": "He/She passes / He/She's passing",
+    "Nous passons": "We pass / We're passing",
+    "Vous passez": "You pass / You're passing (formal)",
+    "Ils/Elles passent": "They pass / They're passing"
+  },
+  "Imparfait (Imperfect)": {
+    "Je passais": "I used to pass",
+    "Tu passais": "You used to pass",
+    "Il/Elle passait": "He/She used to pass",
+    "Nous passions": "We used to pass",
+    "Vous passiez": "You used to pass (formal)",
+    "Ils/Elles passaient": "They used to pass"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai passé": "I passed / I've passed",
+    "Tu as passé": "You passed / You've passed",
+    "Il/Elle a passé": "He/She passed / He/She's passed",
+    "Nous avons passé": "We passed / We've passed",
+    "Vous avez passé": "You passed / You've passed (formal)",
+    "Ils/Elles ont passé": "They passed / They've passed"
+  },
+  "Futur simple (Simple Future)": {
+    "Je passerai": "I will pass",
+    "Tu passeras": "You will pass",
+    "Il/Elle passera": "He/She will pass",
+    "Nous passerons": "We will pass",
+    "Vous passerez": "You will pass (formal)",
+    "Ils/Elles passeront": "They will pass"
+  }
+}

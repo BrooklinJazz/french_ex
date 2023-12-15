@@ -1,0 +1,55 @@
+{
+  "Présent (Present)": {
+    "J'acquiers": "I acquire",
+    "Tu acquiers": "You acquire",
+    "Il/Elle acquiert": "He/She acquires",
+    "Nous acquérons": "We acquire",
+    "Vous acquérez": "You acquire (formal)",
+    "Ils/Elles acquièrent": "They acquire"
+  },
+  "Imparfait (Imperfect)": {
+    "J'acquérais": "I used to acquire",
+    "Tu acquérais": "You used to acquire",
+    "Il/Elle acquérait": "He/She used to acquire",
+    "Nous acquérions": "We used to acquire",
+    "Vous acquériez": "You used to acquire (formal)",
+    "Ils/Elles acquéraient": "They used to acquire"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai acquis": "I have acquired",
+    "Tu as acquis": "You have acquired",
+    "Il/Elle a acquis": "He/She has acquired",
+    "Nous avons acquis": "We have acquired",
+    "Vous avez acquis": "You have acquired (formal)",
+    "Ils/Elles ont acquis": "They have acquired"
+  },
+  "Futur (Future)": {
+    "J'acquerrai": "I will acquire",
+    "Tu acquerras": "You will acquire",
+    "Il/Elle acquerra": "He/She will acquire",
+    "Nous acquerrons": "We will acquire",
+    "Vous acquerrez": "You will acquire (formal)",
+    "Ils/Elles acquerront": "They will acquire"
+  },
+  "Conditionnel (Conditional)": {
+    "J'acquerrais": "I would acquire",
+    "Tu acquerrais": "You would acquire",
+    "Il/Elle acquerrait": "He/She would acquire",
+    "Nous acquerrions": "We would acquire",
+    "Vous acquerriez": "You would acquire (formal)",
+    "Ils/Elles acquerraient": "They would acquire"
+  },
+  "Subjonctif (Subjunctive)": {
+    "Que j'acquière": "That I acquire",
+    "Que tu acquières": "That you acquire",
+    "Qu'il/elle acquière": "That he/she acquires",
+    "Que nous acquérions": "That we acquire",
+    "Que vous acquériez": "That you acquire (formal)",
+    "Qu'ils/elles acquièrent": "That they acquire"
+  },
+  "Impératif (Imperative)": {
+    "Acquiers": "Acquire (tu)",
+    "Acquérons": "Let's acquire (nous)",
+    "Acquérez": "Acquire (vous)"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je nettoie": "I clean / I'm cleaning",
+    "Tu nettoies": "You clean / You're cleaning",
+    "Il/Elle nettoie": "He/She cleans / He/She's cleaning",
+    "Nous nettoyons": "We clean / We're cleaning",
+    "Vous nettoyez": "You clean / You're cleaning (formal)",
+    "Ils/Elles nettoient": "They clean / They're cleaning"
+  },
+  "Imparfait (Imperfect)": {
+    "Je nettoyais": "I used to clean",
+    "Tu nettoyais": "You used to clean",
+    "Il/Elle nettoyait": "He/She used to clean",
+    "Nous nettoyions": "We used to clean",
+    "Vous nettoyiez": "You used to clean (formal)",
+    "Ils/Elles nettoyaient": "They used to clean"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai nettoyé": "I cleaned / I've cleaned",
+    "Tu as nettoyé": "You cleaned / You've cleaned",
+    "Il/Elle a nettoyé": "He/She cleaned / He/She's cleaned",
+    "Nous avons nettoyé": "We cleaned / We've cleaned",
+    "Vous avez nettoyé": "You cleaned / You've cleaned (formal)",
+    "Ils/Elles ont nettoyé": "They cleaned / They've cleaned"
+  },
+  "Futur simple (Simple Future)": {
+    "Je nettoierai": "I will clean",
+    "Tu nettoieras": "You will clean",
+    "Il/Elle nettoiera": "He/She will clean",
+    "Nous nettoierons": "We will clean",
+    "Vous nettoierez": "You will clean (formal)",
+    "Ils/Elles nettoieront": "They will clean"
+  }
+}

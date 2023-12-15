@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je reçois": "I receive/get",
+    "Tu reçois": "You receive/get",
+    "Il/Elle reçoit": "He/She receives/gets",
+    "Nous recevons": "We receive/get",
+    "Vous recevez": "You receive/get (formal)",
+    "Ils/Elles reçoivent": "They receive/get"
+  },
+  "Imparfait (Imperfect)": {
+    "Je recevais": "I used to receive/get",
+    "Tu recevais": "You used to receive/get",
+    "Il/Elle recevait": "He/She used to receive/get",
+    "Nous recevions": "We used to receive/get",
+    "Vous receviez": "You used to receive/get (formal)",
+    "Ils/Elles recevaient": "They used to receive/get"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai reçu": "I received/got",
+    "Tu as reçu": "You received/got",
+    "Il/Elle a reçu": "He/She received/got",
+    "Nous avons reçu": "We received/got",
+    "Vous avez reçu": "You received/got (formal)",
+    "Ils/Elles ont reçu": "They received/got"
+  },
+  "Futur simple (Simple Future)": {
+    "Je recevrai": "I will receive/get",
+    "Tu recevras": "You will receive/get",
+    "Il/Elle recevra": "He/She will receive/get",
+    "Nous recevrons": "We will receive/get",
+    "Vous recevrez": "You will receive/get (formal)",
+    "Ils/Elles recevront": "They will receive/get"
+  }
+}

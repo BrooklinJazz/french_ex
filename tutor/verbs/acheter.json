@@ -1,0 +1,55 @@
+{
+  "Présent (Present)": {
+    "J'achète": "I buy",
+    "Tu achètes": "You buy",
+    "Il/Elle achète": "He/She buys",
+    "Nous achetons": "We buy",
+    "Vous achetez": "You buy (formal)",
+    "Ils/Elles achètent": "They buy"
+  },
+  "Imparfait (Imperfect)": {
+    "J'achetais": "I used to buy",
+    "Tu achetais": "You used to buy",
+    "Il/Elle achetait": "He/She used to buy",
+    "Nous achetions": "We used to buy",
+    "Vous achetiez": "You used to buy (formal)",
+    "Ils/Elles achetaient": "They used to buy"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai acheté": "I have bought",
+    "Tu as acheté": "You have bought",
+    "Il/Elle a acheté": "He/She has bought",
+    "Nous avons acheté": "We have bought",
+    "Vous avez acheté": "You have bought (formal)",
+    "Ils/Elles ont acheté": "They have bought"
+  },
+  "Futur (Future)": {
+    "J'achèterai": "I will buy",
+    "Tu achèteras": "You will buy",
+    "Il/Elle achètera": "He/She will buy",
+    "Nous achèterons": "We will buy",
+    "Vous achèterez": "You will buy (formal)",
+    "Ils/Elles achèteront": "They will buy"
+  },
+  "Conditionnel (Conditional)": {
+    "J'achèterais": "I would buy",
+    "Tu achèterais": "You would buy",
+    "Il/Elle achèterait": "He/She would buy",
+    "Nous achèterions": "We would buy",
+    "Vous achèteriez": "You would buy (formal)",
+    "Ils/Elles achèteraient": "They would buy"
+  },
+  "Subjonctif (Subjunctive)": {
+    "Que j'achète": "That I buy",
+    "Que tu achètes": "That you buy",
+    "Qu'il/elle achète": "That he/she buys",
+    "Que nous achetions": "That we buy",
+    "Que vous achetiez": "That you buy (formal)",
+    "Qu'ils/elles achètent": "That they buy"
+  },
+  "Impératif (Imperative)": {
+    "Achète": "Buy (tu)",
+    "Achetons": "Let's buy (nous)",
+    "Achetez": "Buy (vous)"
+  }
+}

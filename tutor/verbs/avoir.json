@@ -1,0 +1,63 @@
+{
+  "Présent (Present)": {
+    "J'ai": "I have",
+    "Tu as": "You have",
+    "Il/Elle/On a": "He/She/One has",
+    "Nous avons": "We have",
+    "Vous avez": "You have (formal)",
+    "Ils/Elles ont": "They have"
+  },
+  "Imparfait (Imperfect)": {
+    "J'avais": "I had",
+    "Tu avais": "You had",
+    "Il/Elle/On avait": "He/She/One had",
+    "Nous avions": "We had",
+    "Vous aviez": "You had (formal)",
+    "Ils/Elles avaient": "They had"
+  },
+  "Passé Composé (Past Simple)": {
+    "J'ai eu": "I had",
+    "Tu as eu": "You had",
+    "Il/Elle/On a eu": "He/She/One had",
+    "Nous avons eu": "We had",
+    "Vous avez eu": "You had (formal)",
+    "Ils/Elles ont eu": "They had"
+  },
+  "Futur Simple (Future)": {
+    "J'aurai": "I will have",
+    "Tu auras": "You will have",
+    "Il/Elle/On aura": "He/She/One will have",
+    "Nous aurons": "We will have",
+    "Vous aurez": "You will have (formal)",
+    "Ils/Elles auront": "They will have"
+  },
+  "Conditionnel Présent (Conditional)": {
+    "Je aurais": "I would have",
+    "Tu aurais": "You would have",
+    "Il/Elle/On aurait": "He/She/One would have",
+    "Nous aurions": "We would have",
+    "Vous auriez": "You would have (formal)",
+    "Ils/Elles auraient": "They would have"
+  },
+  "Futur Proche (Near Future)": {
+    "Je vais avoir": "I am going to have",
+    "Tu vas avoir": "You are going to have",
+    "Il/Elle/On va avoir": "He/She/One is going to have",
+    "Nous allons avoir": "We are going to have",
+    "Vous allez avoir": "You are going to have",
+    "Ils/Elles vont avoir": "They are going to have"
+  },
+  "Impératif (Imperative)": {
+    "(Tu) Aie": "(You) Have",
+    "(Nous) Ayons": "(Let's) Have",
+    "(Vous) Ayez": "(You) Have"
+  },
+  "Subjonctif Présent (Subjunctive Present)": {
+    "Que j'aie": "That I have",
+    "Que tu aies": "That you have",
+    "Qu'il/Elle/On ait": "That he/she/one has",
+    "Que nous ayons": "That we have",
+    "Que vous ayez": "That you have",
+    "Qu'ils/Elles aient": "That they have"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "Présent (Present)": {
+    "Je crois": "I believe",
+    "Tu crois": "You believe",
+    "Il/Elle/On croit": "He/She/One believes",
+    "Nous croyons": "We believe",
+    "Vous croyez": "You believe (formal)",
+    "Ils/Elles croient": "They believe"
+  },
+  "Imparfait (Imperfect)": {
+    "Je croyais": "I believed",
+    "Tu croyais": "You believed",
+    "Il/Elle/On croyait": "He/She/One believed",
+    "Nous croyions": "We believed",
+    "Vous croyiez": "You believed (formal)",
+    "Ils/Elles croyaient": "They believed"
+  },
+  "Passé Composé (Past Simple)": {
+    "J'ai cru": "I believed",
+    "Tu as cru": "You believed",
+    "Il/Elle/On a cru": "He/She/One believed",
+    "Nous avons cru": "We believed",
+    "Vous avez cru": "You believed (formal)",
+    "Ils/Elles ont cru": "They believed"
+  },
+  "Futur Simple (Future)": {
+    "Je croirai": "I will believe",
+    "Tu croiras": "You will believe",
+    "Il/Elle/On croira": "He/She/One will believe",
+    "Nous croirons": "We will believe",
+    "Vous croirez": "You will believe (formal)",
+    "Ils/Elles croiront": "They will believe"
+  },
+  "Conditionnel Présent (Conditional)": {
+    "Je croirais": "I would believe",
+    "Tu croirais": "You would believe",
+    "Il/Elle/On croirait": "He/She/One would believe",
+    "Nous croirions": "We would believe",
+    "Vous croiriez": "You would believe (formal)",
+    "Ils/Elles croiraient": "They would believe"
+  },
+  "Futur Proche (Near Future)": {
+    "Je vais croire": "I am going to believe",
+    "Tu vas croire": "You are going to believe",
+    "Il/Elle/On va croire": "He/She/One is going to believe",
+    "Nous allons croire": "We are going to believe",
+    "Vous allez croire": "You are going to believe",
+    "Ils/Elles vont croire": "They are going to believe"
+  },
+  "Subjonctif Présent (Subjunctive Present)": {
+    "Que je croie": "That I believe",
+    "Que tu croies": "That you believe",
+    "Qu'il/Elle/On croie": "That he/she/one believes",
+    "Que nous croyions": "That we believe",
+    "Que vous croyiez": "That you believe",
+    "Qu'ils/Elles croient": "That they believe"
+  }
+}

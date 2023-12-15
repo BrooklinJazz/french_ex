@@ -1,0 +1,55 @@
+{
+  "Présent (Present)": {
+    "J'adjoins": "I appoint",
+    "Tu adjoins": "You appoint",
+    "Il/Elle adjoins": "He/She appoints",
+    "Nous adjointons": "We appoint",
+    "Vous adjoignez": "You appoint (formal)",
+    "Ils/Elles adjoignent": "They appoint"
+  },
+  "Imparfait (Imperfect)": {
+    "J'adjoignais": "I used to appoint",
+    "Tu adjoignais": "You used to appoint",
+    "Il/Elle adjoignait": "He/She used to appoint",
+    "Nous adjoignions": "We used to appoint",
+    "Vous adjoigniez": "You used to appoint (formal)",
+    "Ils/Elles adjoignaient": "They used to appoint"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai adjoint": "I have appointed",
+    "Tu as adjoint": "You have appointed",
+    "Il/Elle a adjoint": "He/She has appointed",
+    "Nous avons adjoint": "We have appointed",
+    "Vous avez adjoint": "You have appointed (formal)",
+    "Ils/Elles ont adjoint": "They have appointed"
+  },
+  "Futur (Future)": {
+    "J'adjoindrai": "I will appoint",
+    "Tu adjoindras": "You will appoint",
+    "Il/Elle adjoindra": "He/She will appoint",
+    "Nous adjoindrons": "We will appoint",
+    "Vous adjoindrez": "You will appoint (formal)",
+    "Ils/Elles adjoindront": "They will appoint"
+  },
+  "Conditionnel (Conditional)": {
+    "J'adjoindrais": "I would appoint",
+    "Tu adjoindrais": "You would appoint",
+    "Il/Elle adjoindrait": "He/She would appoint",
+    "Nous adjoindrions": "We would appoint",
+    "Vous adjoindriez": "You would appoint (formal)",
+    "Ils/Elles adjoindraient": "They would appoint"
+  },
+  "Subjonctif (Subjunctive)": {
+    "Que j'adjoigne": "That I appoint",
+    "Que tu adjoignes": "That you appoint",
+    "Qu'il/elle adjoigne": "That he/she appoints",
+    "Que nous adjoignions": "That we appoint",
+    "Que vous adjoigniez": "That you appoint (formal)",
+    "Qu'ils/elles adjoignent": "That they appoint"
+  },
+  "Impératif (Imperative)": {
+    "Adjoins": "Appoint (tu)",
+    "Adjoints": "Appoint (nous)",
+    "Adjoignez": "Appoint (vous)"
+  }
+}

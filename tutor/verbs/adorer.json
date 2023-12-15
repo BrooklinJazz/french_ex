@@ -1,0 +1,55 @@
+{
+  "Présent (Present)": {
+    "J'adore": "I adore, love",
+    "Tu adores": "You adore, love",
+    "Il/Elle adore": "He/She adores, loves",
+    "Nous adorons": "We adore, love",
+    "Vous adorez": "You adore, love (formal)",
+    "Ils/Elles adorent": "They adore, love"
+  },
+  "Imparfait (Imperfect)": {
+    "J'adorais": "I used to adore, love",
+    "Tu adorais": "You used to adore, love",
+    "Il/Elle adorait": "He/She used to adore, love",
+    "Nous adorions": "We used to adore, love",
+    "Vous adoriez": "You used to adore, love (formal)",
+    "Ils/Elles adoraient": "They used to adore, love"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai adoré": "I have adored, loved",
+    "Tu as adoré": "You have adored, loved",
+    "Il/Elle a adoré": "He/She has adored, loved",
+    "Nous avons adoré": "We have adored, loved",
+    "Vous avez adoré": "You have adored, loved (formal)",
+    "Ils/Elles ont adoré": "They have adored, loved"
+  },
+  "Futur (Future)": {
+    "J'adorerai": "I will adore, love",
+    "Tu adoreras": "You will adore, love",
+    "Il/Elle adorera": "He/She will adore, love",
+    "Nous adorerons": "We will adore, love",
+    "Vous adorerez": "You will adore, love (formal)",
+    "Ils/Elles adoreront": "They will adore, love"
+  },
+  "Conditionnel (Conditional)": {
+    "J'adorerais": "I would adore, love",
+    "Tu adorerais": "You would adore, love",
+    "Il/Elle adorerait": "He/She would adore, love",
+    "Nous adorerions": "We would adore, love",
+    "Vous adoreriez": "You would adore, love (formal)",
+    "Ils/Elles adoreraient": "They would adore, love"
+  },
+  "Subjonctif (Subjunctive)": {
+    "Que j'adore": "That I adore, love",
+    "Que tu adores": "That you adore, love",
+    "Qu'il/elle adore": "That he/she adore, love",
+    "Que nous adorions": "That we adore, love",
+    "Que vous adoriez": "That you adore, love (formal)",
+    "Qu'ils/elles adorent": "That they adore, love"
+  },
+  "Impératif (Imperative)": {
+    "Adore": "Adore (tu)",
+    "Adorons": "Adore (nous)",
+    "Adorez": "Adore (vous)"
+  }
+}

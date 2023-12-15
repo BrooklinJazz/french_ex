@@ -1,0 +1,55 @@
+{
+  "Présent (Present)": {
+    "J'assieds": "I sit down",
+    "Tu assieds": "You sit down",
+    "Il/Elle assied": "He/She sits down",
+    "Nous asseyons": "We sit down",
+    "Vous asseyez": "You sit down (formal)",
+    "Ils/Elles assoient": "They sit down"
+  },
+  "Imparfait (Imperfect)": {
+    "J'asseyais": "I used to sit down",
+    "Tu asseyais": "You used to sit down",
+    "Il/Elle asseyait": "He/She used to sit down",
+    "Nous asseyions": "We used to sit down",
+    "Vous asseyiez": "You used to sit down (formal)",
+    "Ils/Elles asseyaient": "They used to sit down"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai assis": "I have sat down",
+    "Tu as assis": "You have sat down",
+    "Il/Elle a assis": "He/She has sat down",
+    "Nous avons assis": "We have sat down",
+    "Vous avez assis": "You have sat down (formal)",
+    "Ils/Elles ont assis": "They have sat down"
+  },
+  "Futur (Future)": {
+    "J'assiérai": "I will sit down",
+    "Tu assiéras": "You will sit down",
+    "Il/Elle assiéra": "He/She will sit down",
+    "Nous assiérons": "We will sit down",
+    "Vous assiérez": "You will sit down (formal)",
+    "Ils/Elles assiéront": "They will sit down"
+  },
+  "Conditionnel (Conditional)": {
+    "J'assiérais": "I would sit down",
+    "Tu assiérais": "You would sit down",
+    "Il/Elle assiérait": "He/She would sit down",
+    "Nous assiérions": "We would sit down",
+    "Vous assiériez": "You would sit down (formal)",
+    "Ils/Elles assiéraient": "They would sit down"
+  },
+  "Subjonctif (Subjunctive)": {
+    "Que j'asseye": "That I sit down",
+    "Que tu asseyes": "That you sit down",
+    "Qu'il/elle asseye": "That he/she sits down",
+    "Que nous asseyions": "That we sit down",
+    "Que vous asseyiez": "That you sit down (formal)",
+    "Qu'ils/elles asseyent": "That they sit down"
+  },
+  "Impératif (Imperative)": {
+    "Assieds": "Sit down (tu)",
+    "Asseyons": "Let's sit down (nous)",
+    "Asseyez": "Sit down (vous)"
+  }
+}

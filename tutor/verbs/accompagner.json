@@ -1,0 +1,55 @@
+{
+  "Présent (Present)": {
+    "J'accompagne": "I go with, accompany",
+    "Tu accompagnes": "You go with, accompany",
+    "Il/Elle accompagne": "He/She goes with, accompanies",
+    "Nous accompagnons": "We go with, accompany",
+    "Vous accompagnez": "You go with, accompany (formal)",
+    "Ils/Elles accompagnent": "They go with, accompany"
+  },
+  "Imparfait (Imperfect)": {
+    "J'accompagnais": "I used to go with, accompany",
+    "Tu accompagnais": "You used to go with, accompany",
+    "Il/Elle accompagnait": "He/She used to go with, accompany",
+    "Nous accompagnions": "We used to go with, accompany",
+    "Vous accompagniez": "You used to go with, accompany (formal)",
+    "Ils/Elles accompagnaient": "They used to go with, accompany"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai accompagné": "I have gone with, accompanied",
+    "Tu as accompagné": "You have gone with, accompanied",
+    "Il/Elle a accompagné": "He/She has gone with, accompanied",
+    "Nous avons accompagné": "We have gone with, accompanied",
+    "Vous avez accompagné": "You have gone with, accompanied (formal)",
+    "Ils/Elles ont accompagné": "They have gone with, accompanied"
+  },
+  "Futur (Future)": {
+    "J'accompagnerai": "I will go with, accompany",
+    "Tu accompagneras": "You will go with, accompany",
+    "Il/Elle accompagnera": "He/She will go with, accompany",
+    "Nous accompagnerons": "We will go with, accompany",
+    "Vous accompagnerez": "You will go with, accompany (formal)",
+    "Ils/Elles accompagneront": "They will go with, accompany"
+  },
+  "Conditionnel (Conditional)": {
+    "J'accompagnerais": "I would go with, accompany",
+    "Tu accompagnerais": "You would go with, accompany",
+    "Il/Elle accompagnerait": "He/She would go with, accompany",
+    "Nous accompagnerions": "We would go with, accompany",
+    "Vous accompagneriez": "You would go with, accompany (formal)",
+    "Ils/Elles accompagneraient": "They would go with, accompany"
+  },
+  "Subjonctif (Subjunctive)": {
+    "Que j'accompagne": "That I go with, accompany",
+    "Que tu accompagnes": "That you go with, accompany",
+    "Qu'il/elle accompagne": "That he/she go with, accompany",
+    "Que nous accompagnions": "That we go with, accompany",
+    "Que vous accompagniez": "That you go with, accompany (formal)",
+    "Qu'ils/elles accompagnent": "That they go with, accompany"
+  },
+  "Impératif (Imperative)": {
+    "Accompagne": "Go with, accompany (tu)",
+    "Accompagnons": "Let's go with, accompany (nous)",
+    "Accompagnez": "Go with, accompany (vous)"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je fais du mal": "I hurt",
+    "Tu fais du mal": "You hurt",
+    "Il/Elle fait du mal": "He/She hurts",
+    "Nous faisons du mal": "We hurt",
+    "Vous faites du mal": "You hurt (formal)",
+    "Ils/Elles font du mal": "They hurt"
+  },
+  "Imparfait (Imperfect)": {
+    "Je faisais du mal": "I used to hurt",
+    "Tu faisais du mal": "You used to hurt",
+    "Il/Elle faisait du mal": "He/She used to hurt",
+    "Nous faisions du mal": "We used to hurt",
+    "Vous faisiez du mal": "You used to hurt (formal)",
+    "Ils/Elles faisaient du mal": "They used to hurt"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai fait du mal": "I hurt",
+    "Tu as fait du mal": "You hurt",
+    "Il/Elle a fait du mal": "He/She hurt",
+    "Nous avons fait du mal": "We hurt",
+    "Vous avez fait du mal": "You hurt (formal)",
+    "Ils/Elles ont fait du mal": "They hurt"
+  },
+  "Futur simple (Simple Future)": {
+    "Je ferai du mal": "I will hurt",
+    "Tu feras du mal": "You will hurt",
+    "Il/Elle fera du mal": "He/She will hurt",
+    "Nous ferons du mal": "We will hurt",
+    "Vous ferez du mal": "You will hurt (formal)",
+    "Ils/Elles feront du mal": "They will hurt"
+  }
+}

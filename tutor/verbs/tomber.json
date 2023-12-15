@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je tombe": "I fall",
+    "Tu tombes": "You fall",
+    "Il/Elle tombe": "He/She falls",
+    "Nous tombons": "We fall",
+    "Vous tombez": "You fall (formal)",
+    "Ils/Elles tombent": "They fall"
+  },
+  "Imparfait (Imperfect)": {
+    "Je tombais": "I used to fall",
+    "Tu tombais": "You used to fall",
+    "Il/Elle tombait": "He/She used to fall",
+    "Nous tombions": "We used to fall",
+    "Vous tombiez": "You used to fall (formal)",
+    "Ils/Elles tombaient": "They used to fall"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai tombé": "I fell",
+    "Tu as tombé": "You fell",
+    "Il/Elle a tombé": "He/She fell",
+    "Nous avons tombé": "We fell",
+    "Vous avez tombé": "You fell (formal)",
+    "Ils/Elles ont tombé": "They fell"
+  },
+  "Futur simple (Simple Future)": {
+    "Je tomberai": "I will fall",
+    "Tu tomberas": "You will fall",
+    "Il/Elle tombera": "He/She will fall",
+    "Nous tomberons": "We will fall",
+    "Vous tomberez": "You will fall (formal)",
+    "Ils/Elles tomberont": "They will fall"
+  }
+}

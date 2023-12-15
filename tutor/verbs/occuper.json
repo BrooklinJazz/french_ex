@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "J'occupe": "I occupy / I'm occupying",
+    "Tu occupes": "You occupy / You're occupying",
+    "Il/Elle occupe": "He/She occupies / He/She's occupying",
+    "Nous occupons": "We occupy / We're occupying",
+    "Vous occupez": "You occupy / You're occupying (formal)",
+    "Ils/Elles occupent": "They occupy / They're occupying"
+  },
+  "Imparfait (Imperfect)": {
+    "J'occupais": "I used to occupy",
+    "Tu occupais": "You used to occupy",
+    "Il/Elle occupait": "He/She used to occupy",
+    "Nous occupions": "We used to occupy",
+    "Vous occupiez": "You used to occupy (formal)",
+    "Ils/Elles occupaient": "They used to occupy"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai occupé": "I occupied / I've occupied",
+    "Tu as occupé": "You occupied / You've occupied",
+    "Il/Elle a occupé": "He/She occupied / He/She's occupied",
+    "Nous avons occupé": "We occupied / We've occupied",
+    "Vous avez occupé": "You occupied / You've occupied (formal)",
+    "Ils/Elles ont occupé": "They occupied / They've occupied"
+  },
+  "Futur simple (Simple Future)": {
+    "J'occuperai": "I will occupy",
+    "Tu occuperas": "You will occupy",
+    "Il/Elle occupera": "He/She will occupy",
+    "Nous occuperons": "We will occupy",
+    "Vous occuperez": "You will occupy (formal)",
+    "Ils/Elles occuperont": "They will occupy"
+  }
+}

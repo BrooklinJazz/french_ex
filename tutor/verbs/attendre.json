@@ -1,0 +1,55 @@
+{
+  "Présent (Present)": {
+    "J'attends": "I wait for",
+    "Tu attends": "You wait for",
+    "Il/Elle attend": "He/She waits for",
+    "Nous attendons": "We wait for",
+    "Vous attendez": "You wait for (formal)",
+    "Ils/Elles attendent": "They wait for"
+  },
+  "Imparfait (Imperfect)": {
+    "J'attendais": "I used to wait for",
+    "Tu attendais": "You used to wait for",
+    "Il/Elle attendait": "He/She used to wait for",
+    "Nous attendions": "We used to wait for",
+    "Vous attendiez": "You used to wait for (formal)",
+    "Ils/Elles attendaient": "They used to wait for"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai attendu": "I have waited for",
+    "Tu as attendu": "You have waited for",
+    "Il/Elle a attendu": "He/She has waited for",
+    "Nous avons attendu": "We have waited for",
+    "Vous avez attendu": "You have waited for (formal)",
+    "Ils/Elles ont attendu": "They have waited for"
+  },
+  "Futur (Future)": {
+    "J'attendrai": "I will wait for",
+    "Tu attendras": "You will wait for",
+    "Il/Elle attendra": "He/She will wait for",
+    "Nous attendrons": "We will wait for",
+    "Vous attendrez": "You will wait for (formal)",
+    "Ils/Elles attendront": "They will wait for"
+  },
+  "Conditionnel (Conditional)": {
+    "J'attendrais": "I would wait for",
+    "Tu attendrais": "You would wait for",
+    "Il/Elle attendrait": "He/She would wait for",
+    "Nous attendrions": "We would wait for",
+    "Vous attendriez": "You would wait for (formal)",
+    "Ils/Elles attendraient": "They would wait for"
+  },
+  "Subjonctif (Subjunctive)": {
+    "Que j'attende": "That I wait for",
+    "Que tu attendes": "That you wait for",
+    "Qu'il/elle attende": "That he/she waits for",
+    "Que nous attendions": "That we wait for",
+    "Que vous attendiez": "That you wait for (formal)",
+    "Qu'ils/elles attendent": "That they wait for"
+  },
+  "Impératif (Imperative)": {
+    "Attends": "Wait for (tu)",
+    "Attendons": "Let's wait for (nous)",
+    "Attendez": "Wait for (vous)"
+  }
+}

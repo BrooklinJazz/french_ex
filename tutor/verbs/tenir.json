@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je tiens": "I hold",
+    "Tu tiens": "You hold",
+    "Il/Elle tient": "He/She holds",
+    "Nous tenons": "We hold",
+    "Vous tenez": "You hold (formal)",
+    "Ils/Elles tiennent": "They hold"
+  },
+  "Imparfait (Imperfect)": {
+    "Je tenais": "I used to hold",
+    "Tu tenais": "You used to hold",
+    "Il/Elle tenait": "He/She used to hold",
+    "Nous tenions": "We used to hold",
+    "Vous teniez": "You used to hold (formal)",
+    "Ils/Elles tenaient": "They used to hold"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai tenu": "I held",
+    "Tu as tenu": "You held",
+    "Il/Elle a tenu": "He/She held",
+    "Nous avons tenu": "We held",
+    "Vous avez tenu": "You held (formal)",
+    "Ils/Elles ont tenu": "They held"
+  },
+  "Futur simple (Simple Future)": {
+    "Je tiendrai": "I will hold",
+    "Tu tiendras": "You will hold",
+    "Il/Elle tiendra": "He/She will hold",
+    "Nous tiendrons": "We will hold",
+    "Vous tiendrez": "You will hold (formal)",
+    "Ils/Elles tiendront": "They will hold"
+  }
+}

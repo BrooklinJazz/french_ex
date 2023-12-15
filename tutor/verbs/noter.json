@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je note": "I write down / I'm writing down",
+    "Tu notes": "You write down / You're writing down",
+    "Il/Elle note": "He/She writes down / He/She's writing down",
+    "Nous notons": "We write down / We're writing down",
+    "Vous notez": "You write down / You're writing down (formal)",
+    "Ils/Elles notent": "They write down / They're writing down"
+  },
+  "Imparfait (Imperfect)": {
+    "Je notais": "I used to write down",
+    "Tu notais": "You used to write down",
+    "Il/Elle notait": "He/She used to write down",
+    "Nous notions": "We used to write down",
+    "Vous notiez": "You used to write down (formal)",
+    "Ils/Elles notaient": "They used to write down"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai noté": "I wrote down / I've written down",
+    "Tu as noté": "You wrote down / You've written down",
+    "Il/Elle a noté": "He/She wrote down / He/She's written down",
+    "Nous avons noté": "We wrote down / We've written down",
+    "Vous avez noté": "You wrote down / You've written down (formal)",
+    "Ils/Elles ont noté": "They wrote down / They've written down"
+  },
+  "Futur simple (Simple Future)": {
+    "Je noterai": "I will write down",
+    "Tu noteras": "You will write down",
+    "Il/Elle notera": "He/She will write down",
+    "Nous noterons": "We will write down",
+    "Vous noterez": "You will write down (formal)",
+    "Ils/Elles noteront": "They will write down"
+  }
+}

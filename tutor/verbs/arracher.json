@@ -1,0 +1,55 @@
+{
+  "Présent (Present)": {
+    "J'arrache": "I pull up/out",
+    "Tu arraches": "You pull up/out",
+    "Il/Elle arrache": "He/She pulls up/out",
+    "Nous arrachons": "We pull up/out",
+    "Vous arrachez": "You pull up/out (formal)",
+    "Ils/Elles arrachent": "They pull up/out"
+  },
+  "Imparfait (Imperfect)": {
+    "J'arrachais": "I used to pull up/out",
+    "Tu arrachais": "You used to pull up/out",
+    "Il/Elle arrachait": "He/She used to pull up/out",
+    "Nous arrachions": "We used to pull up/out",
+    "Vous arrachiez": "You used to pull up/out (formal)",
+    "Ils/Elles arrachaient": "They used to pull up/out"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai arraché": "I have pulled up/out",
+    "Tu as arraché": "You have pulled up/out",
+    "Il/Elle a arraché": "He/She has pulled up/out",
+    "Nous avons arraché": "We have pulled up/out",
+    "Vous avez arraché": "You have pulled up/out (formal)",
+    "Ils/Elles ont arraché": "They have pulled up/out"
+  },
+  "Futur (Future)": {
+    "J'arracherai": "I will pull up/out",
+    "Tu arracheras": "You will pull up/out",
+    "Il/Elle arrachera": "He/She will pull up/out",
+    "Nous arracherons": "We will pull up/out",
+    "Vous arracherez": "You will pull up/out (formal)",
+    "Ils/Elles arracheront": "They will pull up/out"
+  },
+  "Conditionnel (Conditional)": {
+    "J'arracherais": "I would pull up/out",
+    "Tu arracherais": "You would pull up/out",
+    "Il/Elle arracherait": "He/She would pull up/out",
+    "Nous arracherions": "We would pull up/out",
+    "Vous arracheriez": "You would pull up/out (formal)",
+    "Ils/Elles arracheraient": "They would pull up/out"
+  },
+  "Subjonctif (Subjunctive)": {
+    "Que j'arrache": "That I pull up/out",
+    "Que tu arraches": "That you pull up/out",
+    "Qu'il/elle arrache": "That he/she pulls up/out",
+    "Que nous arrachions": "That we pull up/out",
+    "Que vous arrachiez": "That you pull up/out (formal)",
+    "Qu'ils/elles arrachent": "That they pull up/out"
+  },
+  "Impératif (Imperative)": {
+    "Arrache": "Pull up/out (tu)",
+    "Arrachons": "Let's pull up/out (nous)",
+    "Arrachez": "Pull up/out (vous)"
+  }
+}

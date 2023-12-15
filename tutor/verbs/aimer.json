@@ -1,0 +1,58 @@
+{
+  "Présent (Present)": {
+    "J'aime": "I like/I love",
+    "Tu aimes": "You like/You love",
+    "Il/Elle/On aime": "He/She/One likes/He/She/One loves",
+    "Nous aimons": "We like/We love",
+    "Vous aimez": "You like/You love (formal)",
+    "Ils/Elles aiment": "They like/They love"
+  },
+  "Imparfait (Imperfect)": {
+    "J'aimais": "I liked/I loved",
+    "Tu aimais": "You liked/You loved",
+    "Il/Elle/On aimait": "He/She/One liked/He/She/One loved",
+    "Nous aimions": "We liked/We loved",
+    "Vous aimiez": "You liked/You loved (formal)",
+    "Ils/Elles aimaient": "They liked/They loved"
+  },
+  "Passé Composé (Past Simple)": {
+    "J'ai aimé": "I liked/I loved",
+    "Tu as aimé": "You liked/You loved",
+    "Il/Elle/On a aimé": "He/She/One liked/He/She/One loved",
+    "Nous avons aimé": "We liked/We loved",
+    "Vous avez aimé": "You liked/You loved (formal)",
+    "Ils/Elles ont aimé": "They liked/They loved"
+  },
+  "Futur Simple (Future)": {
+    "J'aimerai": "I will like/I will love",
+    "Tu aimeras": "You will like/You will love",
+    "Il/Elle/On aimera": "He/She/One will like/He/She/One will love",
+    "Nous aimerons": "We will like/We will love",
+    "Vous aimerez": "You will like/You will love (formal)",
+    "Ils/Elles aimeront": "They will like/They will love"
+  },
+  "Conditionnel Présent (Conditional)": {
+    "J'aimerais": "I would like/I would love",
+    "Tu aimerais": "You would like/You would love",
+    "Il/Elle/On aimerait": "He/She/One would like/He/She/One would love",
+    "Nous aimerions": "We would like/We would love",
+    "Vous aimeriez": "You would like/You would love (formal)",
+    "Ils/Elles aimeraient": "They would like/They would love"
+  },
+  "Futur Proche (Near Future)": {
+    "Je vais aimer": "I am going to like/I am going to love",
+    "Tu vas aimer": "You are going to like/You are going to love",
+    "Il/Elle/On va aimer": "He/She/One is going to like/He/She/One is going to love",
+    "Nous allons aimer": "We are going to like/We are going to love",
+    "Vous allez aimer": "You are going to like/You are going to love",
+    "Ils/Elles vont aimer": "They are going to like/They are going to love"
+  },
+  "Subjonctif Présent (Subjunctive Present)": {
+    "Que j'aime": "That I like/That I love",
+    "Que tu aimes": "That you like/That you love",
+    "Qu'il/Elle/On aime": "That he/she/one likes/That he/she/one loves",
+    "Que nous aimions": "That we like/That we love",
+    "Que vous aimiez": "That you like/That you love",
+    "Qu'ils/Elles aiment": "That they like/That they love"
+  }
+}

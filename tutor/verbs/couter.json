@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je coûte": "I cost",
+    "Tu coûtes": "You cost",
+    "Il/Elle coûte": "He/She costs",
+    "Nous coûtons": "We cost",
+    "Vous coûtez": "You cost (formal)",
+    "Ils/Elles coûtent": "They cost"
+  },
+  "Imparfait (Imperfect)": {
+    "Je coûtais": "I used to cost",
+    "Tu coûtais": "You used to cost",
+    "Il/Elle coûtait": "He/She used to cost",
+    "Nous coûtions": "We used to cost",
+    "Vous coûtiez": "You used to cost (formal)",
+    "Ils/Elles coûtaient": "They used to cost"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai coûté": "I have cost",
+    "Tu as coûté": "You have cost",
+    "Il/Elle a coûté": "He/She has cost",
+    "Nous avons coûté": "We have cost",
+    "Vous avez coûté": "You have cost (formal)",
+    "Ils/Elles ont coûté": "They have cost"
+  },
+  "Futur simple (Simple Future)": {
+    "Je coûterai": "I will cost",
+    "Tu coûteras": "You will cost",
+    "Il/Elle coûtera": "He/She will cost",
+    "Nous coûterons": "We will cost",
+    "Vous coûterez": "You will cost (formal)",
+    "Ils/Elles coûteront": "They will cost"
+  }
+}

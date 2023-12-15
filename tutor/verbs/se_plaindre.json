@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je me plains": "I complain",
+    "Tu te plains": "You complain",
+    "Il/Elle se plaint": "He/She complains",
+    "Nous nous plaignons": "We complain",
+    "Vous vous plaignez": "You complain (formal)",
+    "Ils/Elles se plaignent": "They complain"
+  },
+  "Imparfait (Imperfect)": {
+    "Je me plaignais": "I used to complain",
+    "Tu te plaignais": "You used to complain",
+    "Il/Elle se plaignait": "He/She used to complain",
+    "Nous nous plaignions": "We used to complain",
+    "Vous vous plaigniez": "You used to complain (formal)",
+    "Ils/Elles se plaignaient": "They used to complain"
+  },
+  "Passé composé (Present Perfect)": {
+    "Je me suis plaint": "I complained",
+    "Tu t'es plaint": "You complained",
+    "Il/Elle s'est plaint": "He/She complained",
+    "Nous nous sommes plaints/plaintes": "We complained",
+    "Vous vous êtes plaint/plainte": "You complained (formal)",
+    "Ils/Elles se sont plaint/plainte": "They complained"
+  },
+  "Futur simple (Simple Future)": {
+    "Je me plaindrai": "I will complain",
+    "Tu te plaindras": "You will complain",
+    "Il/Elle se plaindra": "He/She will complain",
+    "Nous nous plaindrons": "We will complain",
+    "Vous vous plaindrez": "You will complain (formal)",
+    "Ils/Elles se plaindront": "They will complain"
+  }
+}

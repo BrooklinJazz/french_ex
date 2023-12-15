@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "J'évite": "I avoid",
+    "Tu évites": "You avoid",
+    "Il/Elle évite": "He/She avoids",
+    "Nous évitons": "We avoid",
+    "Vous évitez": "You avoid (formal)",
+    "Ils/Elles évitent": "They avoid"
+  },
+  "Imparfait (Imperfect)": {
+    "J'évitais": "I used to avoid",
+    "Tu évitais": "You used to avoid",
+    "Il/Elle évitait": "He/She used to avoid",
+    "Nous évitions": "We used to avoid",
+    "Vous évitiez": "You used to avoid (formal)",
+    "Ils/Elles évitaient": "They used to avoid"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai évité": "I avoided",
+    "Tu as évité": "You avoided",
+    "Il/Elle a évité": "He/She avoided",
+    "Nous avons évité": "We avoided",
+    "Vous avez évité": "You avoided (formal)",
+    "Ils/Elles ont évité": "They avoided"
+  },
+  "Futur simple (Simple Future)": {
+    "J'éviterai": "I will avoid",
+    "Tu éviteras": "You will avoid",
+    "Il/Elle évitera": "He/She will avoid",
+    "Nous éviterons": "We will avoid",
+    "Vous éviterez": "You will avoid (formal)",
+    "Ils/Elles éviteront": "They will avoid"
+  }
+}

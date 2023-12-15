@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je gagne": "I win, earn",
+    "Tu gagnes": "You win, earn",
+    "Il/Elle gagne": "He/She wins, earns",
+    "Nous gagnons": "We win, earn",
+    "Vous gagnez": "You win, earn (formal)",
+    "Ils/Elles gagnent": "They win, earn"
+  },
+  "Imparfait (Imperfect)": {
+    "Je gagnais": "I used to win, earn",
+    "Tu gagnais": "You used to win, earn",
+    "Il/Elle gagnait": "He/She used to win, earn",
+    "Nous gagnions": "We used to win, earn",
+    "Vous gagniez": "You used to win, earn (formal)",
+    "Ils/Elles gagnaient": "They used to win, earn"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai gagné": "I won, earned",
+    "Tu as gagné": "You won, earned",
+    "Il/Elle a gagné": "He/She won, earned",
+    "Nous avons gagné": "We won, earned",
+    "Vous avez gagné": "You won, earned (formal)",
+    "Ils/Elles ont gagné": "They won, earned"
+  },
+  "Futur simple (Simple Future)": {
+    "Je gagnerai": "I will win, earn",
+    "Tu gagneras": "You will win, earn",
+    "Il/Elle gagnera": "He/She will win, earn",
+    "Nous gagnerons": "We will win, earn",
+    "Vous gagnerez": "You will win, earn (formal)",
+    "Ils/Elles gagneront": "They will win, earn"
+  }
+}

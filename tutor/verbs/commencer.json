@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je commence": "I start",
+    "Tu commences": "You start",
+    "Il/Elle commence": "He/She starts",
+    "Nous commençons": "We start",
+    "Vous commencez": "You start (formal)",
+    "Ils/Elles commencent": "They start"
+  },
+  "Imparfait (Imperfect)": {
+    "Je commençais": "I used to start",
+    "Tu commençais": "You used to start",
+    "Il/Elle commençait": "He/She used to start",
+    "Nous commencions": "We used to start",
+    "Vous commenciez": "You used to start (formal)",
+    "Ils/Elles commençaient": "They used to start"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai commencé": "I have started",
+    "Tu as commencé": "You have started",
+    "Il/Elle a commencé": "He/She has started",
+    "Nous avons commencé": "We have started",
+    "Vous avez commencé": "You have started (formal)",
+    "Ils/Elles ont commencé": "They have started"
+  },
+  "Futur simple (Simple Future)": {
+    "Je commencerai": "I will start",
+    "Tu commenceras": "You will start",
+    "Il/Elle commencera": "He/She will start",
+    "Nous commencerons": "We will start",
+    "Vous commencerez": "You will start (formal)",
+    "Ils/Elles commenceront": "They will start"
+  }
+}

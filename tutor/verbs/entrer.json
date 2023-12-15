@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "J'entre": "I go in, I enter",
+    "Tu entres": "You go in, You enter",
+    "Il/Elle entre": "He/She goes in, He/She enters",
+    "Nous entrons": "We go in, We enter",
+    "Vous entrez": "You go in, You enter (formal)",
+    "Ils/Elles entrent": "They go in, They enter"
+  },
+  "Imparfait (Imperfect)": {
+    "J'entrais": "I used to go in, I used to enter",
+    "Tu entrais": "You used to go in, You used to enter",
+    "Il/Elle entrait": "He/She used to go in, He/She used to enter",
+    "Nous entrions": "We used to go in, We used to enter",
+    "Vous entriez": "You used to go in, You used to enter (formal)",
+    "Ils/Elles entraient": "They used to go in, They used to enter"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai entré": "I went in, I entered",
+    "Tu as entré": "You went in, You entered",
+    "Il/Elle a entré": "He/She went in, He/She entered",
+    "Nous avons entré": "We went in, We entered",
+    "Vous avez entré": "You went in, You entered (formal)",
+    "Ils/Elles ont entré": "They went in, They entered"
+  },
+  "Futur simple (Simple Future)": {
+    "J'entrerai": "I will go in, I will enter",
+    "Tu entreras": "You will go in, You will enter",
+    "Il/Elle entrera": "He/She will go in, He/She will enter",
+    "Nous entrerons": "We will go in, We will enter",
+    "Vous entrerez": "You will go in, You will enter (formal)",
+    "Ils/Elles entreront": "They will go in, They will enter"
+  }
+}

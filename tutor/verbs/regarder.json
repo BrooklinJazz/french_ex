@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je regarde": "I look at/watch",
+    "Tu regardes": "You look at/watch",
+    "Il/Elle regarde": "He/She looks at/watch",
+    "Nous regardons": "We look at/watch",
+    "Vous regardez": "You look at/watch (formal)",
+    "Ils/Elles regardent": "They look at/watch"
+  },
+  "Imparfait (Imperfect)": {
+    "Je regardais": "I used to look at/watch",
+    "Tu regardais": "You used to look at/watch",
+    "Il/Elle regardait": "He/She used to look at/watch",
+    "Nous regardions": "We used to look at/watch",
+    "Vous regardiez": "You used to look at/watch (formal)",
+    "Ils/Elles regardaient": "They used to look at/watch"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai regardé": "I looked at/watched",
+    "Tu as regardé": "You looked at/watched",
+    "Il/Elle a regardé": "He/She looked at/watched",
+    "Nous avons regardé": "We looked at/watched",
+    "Vous avez regardé": "You looked at/watched (formal)",
+    "Ils/Elles ont regardé": "They looked at/watched"
+  },
+  "Futur simple (Simple Future)": {
+    "Je regarderai": "I will look at/watch",
+    "Tu regarderas": "You will look at/watch",
+    "Il/Elle regardera": "He/She will look at/watch",
+    "Nous regarderons": "We will look at/watch",
+    "Vous regarderez": "You will look at/watch (formal)",
+    "Ils/Elles regarderont": "They will look at/watch"
+  }
+}

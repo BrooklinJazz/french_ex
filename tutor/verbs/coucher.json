@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je couche": "I put to bed / I sleep",
+    "Tu couches": "You put to bed / You sleep",
+    "Il/Elle couche": "He/She puts to bed / He/She sleeps",
+    "Nous couchons": "We put to bed / We sleep",
+    "Vous couchez": "You put to bed / You sleep (formal)",
+    "Ils/Elles couchent": "They put to bed / They sleep"
+  },
+  "Imparfait (Imperfect)": {
+    "Je couchais": "I used to put to bed / I used to sleep",
+    "Tu couchais": "You used to put to bed / You used to sleep",
+    "Il/Elle couchait": "He/She used to put to bed / He/She used to sleep",
+    "Nous couchions": "We used to put to bed / We used to sleep",
+    "Vous couchiez": "You used to put to bed / You used to sleep (formal)",
+    "Ils/Elles couchaient": "They used to put to bed / They used to sleep"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai couché": "I have put to bed / I have slept",
+    "Tu as couché": "You have put to bed / You have slept",
+    "Il/Elle a couché": "He/She has put to bed / He/She has slept",
+    "Nous avons couché": "We have put to bed / We have slept",
+    "Vous avez couché": "You have put to bed / You have slept (formal)",
+    "Ils/Elles ont couché": "They have put to bed / They have slept"
+  },
+  "Futur simple (Simple Future)": {
+    "Je coucherai": "I will put to bed / I will sleep",
+    "Tu coucheras": "You will put to bed / You will sleep",
+    "Il/Elle couchera": "He/She will put to bed / He/She will sleep",
+    "Nous coucherons": "We will put to bed / We will sleep",
+    "Vous coucherez": "You will put to bed / You will sleep (formal)",
+    "Ils/Elles coucheront": "They will put to bed / They will sleep"
+  }
+}

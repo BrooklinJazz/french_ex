@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je sers": "I serve",
+    "Tu sers": "You serve",
+    "Il/Elle sert": "He/She serves",
+    "Nous servons": "We serve",
+    "Vous servez": "You serve (formal)",
+    "Ils/Elles servent": "They serve"
+  },
+  "Imparfait (Imperfect)": {
+    "Je servais": "I used to serve",
+    "Tu servais": "You used to serve",
+    "Il/Elle servait": "He/She used to serve",
+    "Nous servions": "We used to serve",
+    "Vous serviez": "You used to serve (formal)",
+    "Ils/Elles servaient": "They used to serve"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai servi": "I served",
+    "Tu as servi": "You served",
+    "Il/Elle a servi": "He/She served",
+    "Nous avons servi": "We served",
+    "Vous avez servi": "You served (formal)",
+    "Ils/Elles ont servi": "They served"
+  },
+  "Futur simple (Simple Future)": {
+    "Je servirai": "I will serve",
+    "Tu serviras": "You will serve",
+    "Il/Elle servira": "He/She will serve",
+    "Nous servirons": "We will serve",
+    "Vous servirez": "You will serve (formal)",
+    "Ils/Elles serviront": "They will serve"
+  }
+}

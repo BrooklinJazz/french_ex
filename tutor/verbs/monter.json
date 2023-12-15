@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je monte": "I go up / I'm going up",
+    "Tu montes": "You go up / You're going up",
+    "Il/Elle monte": "He/She goes up / He/She's going up",
+    "Nous montons": "We go up / We're going up",
+    "Vous montez": "You go up / You're going up (formal)",
+    "Ils/Elles montent": "They go up / They're going up"
+  },
+  "Imparfait (Imperfect)": {
+    "Je montais": "I used to go up",
+    "Tu montais": "You used to go up",
+    "Il/Elle montait": "He/She used to go up",
+    "Nous montions": "We used to go up",
+    "Vous montiez": "You used to go up (formal)",
+    "Ils/Elles montaient": "They used to go up"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai monté": "I went up / I've gone up",
+    "Tu as monté": "You went up / You've gone up",
+    "Il/Elle a monté": "He/She went up / He/She's gone up",
+    "Nous avons monté": "We went up / We've gone up",
+    "Vous avez monté": "You went up / You've gone up (formal)",
+    "Ils/Elles ont monté": "They went up / They've gone up"
+  },
+  "Futur simple (Simple Future)": {
+    "Je monterai": "I will go up",
+    "Tu monteras": "You will go up",
+    "Il/Elle montera": "He/She will go up",
+    "Nous monterons": "We will go up",
+    "Vous monterez": "You will go up (formal)",
+    "Ils/Elles monteront": "They will go up"
+  }
+}

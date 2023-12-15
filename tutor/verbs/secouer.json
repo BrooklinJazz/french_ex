@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je secoue": "I shake",
+    "Tu secoues": "You shake",
+    "Il/Elle secoue": "He/She shakes",
+    "Nous secouons": "We shake",
+    "Vous secouez": "You shake (formal)",
+    "Ils/Elles secouent": "They shake"
+  },
+  "Imparfait (Imperfect)": {
+    "Je secouais": "I used to shake",
+    "Tu secouais": "You used to shake",
+    "Il/Elle secouait": "He/She used to shake",
+    "Nous secouions": "We used to shake",
+    "Vous secouiez": "You used to shake (formal)",
+    "Ils/Elles secouaient": "They used to shake"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai secoué": "I shook",
+    "Tu as secoué": "You shook",
+    "Il/Elle a secoué": "He/She shook",
+    "Nous avons secoué": "We shook",
+    "Vous avez secoué": "You shook (formal)",
+    "Ils/Elles ont secoué": "They shook"
+  },
+  "Futur simple (Simple Future)": {
+    "Je secouerai": "I will shake",
+    "Tu secoueras": "You will shake",
+    "Il/Elle secouera": "He/She will shake",
+    "Nous secouerons": "We will shake",
+    "Vous secouerez": "You will shake (formal)",
+    "Ils/Elles secoueront": "They will shake"
+  }
+}

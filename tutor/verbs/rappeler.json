@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je rappelle": "I remind/remember/call back",
+    "Tu rappelles": "You remind/remember/call back",
+    "Il/Elle rappelle": "He/She reminds/remember/calls back",
+    "Nous rappelons": "We remind/remember/call back",
+    "Vous rappelez": "You remind/remember/call back (formal)",
+    "Ils/Elles rappellent": "They remind/remember/call back"
+  },
+  "Imparfait (Imperfect)": {
+    "Je rappelais": "I used to remind/remember/call back",
+    "Tu rappelais": "You used to remind/remember/call back",
+    "Il/Elle rappelait": "He/She used to remind/remember/call back",
+    "Nous rappelions": "We used to remind/remember/call back",
+    "Vous rappeliez": "You used to remind/remember/call back (formal)",
+    "Ils/Elles rappelaient": "They used to remind/remember/call back"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai rappelé": "I reminded/remembered/called back",
+    "Tu as rappelé": "You reminded/remembered/called back",
+    "Il/Elle a rappelé": "He/She reminded/remembered/called back",
+    "Nous avons rappelé": "We reminded/remembered/called back",
+    "Vous avez rappelé": "You reminded/remembered/called back (formal)",
+    "Ils/Elles ont rappelé": "They reminded/remembered/called back"
+  },
+  "Futur simple (Simple Future)": {
+    "Je rappellerai": "I will remind/remember/call back",
+    "Tu rappelleras": "You will remind/remember/call back",
+    "Il/Elle rappellera": "He/She will remind/remember/call back",
+    "Nous rappellerons": "We will remind/remember/call back",
+    "Vous rappellerez": "You will remind/remember/call back (formal)",
+    "Ils/Elles rappelleront": "They will remind/remember/call back"
+  }
+}

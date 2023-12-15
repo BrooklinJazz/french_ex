@@ -1,0 +1,58 @@
+{
+  "Présent (Present)": {
+    "Je prends": "I take",
+    "Tu prends": "You take",
+    "Il/Elle/On prend": "He/She/One takes",
+    "Nous prenons": "We take",
+    "Vous prenez": "You take (formal)",
+    "Ils/Elles prennent": "They take"
+  },
+  "Imparfait (Imperfect)": {
+    "Je prenais": "I took",
+    "Tu prenais": "You took",
+    "Il/Elle/On prenait": "He/She/One took",
+    "Nous prenions": "We took",
+    "Vous preniez": "You took (formal)",
+    "Ils/Elles prenaient": "They took"
+  },
+  "Passé Composé (Past Simple)": {
+    "J'ai pris": "I took",
+    "Tu as pris": "You took",
+    "Il/Elle/On a pris": "He/She/One took",
+    "Nous avons pris": "We took",
+    "Vous avez pris": "You took (formal)",
+    "Ils/Elles ont pris": "They took"
+  },
+  "Futur Simple (Future)": {
+    "Je prendrai": "I will take",
+    "Tu prendras": "You will take",
+    "Il/Elle/On prendra": "He/She/One will take",
+    "Nous prendrons": "We will take",
+    "Vous prendrez": "You will take (formal)",
+    "Ils/Elles prendront": "They will take"
+  },
+  "Conditionnel Présent (Conditional)": {
+    "Je prendrais": "I would take",
+    "Tu prendrais": "You would take",
+    "Il/Elle/On prendrait": "He/She/One would take",
+    "Nous prendrions": "We would take",
+    "Vous prendriez": "You would take (formal)",
+    "Ils/Elles prendraient": "They would take"
+  },
+  "Futur Proche (Near Future)": {
+    "Je vais prendre": "I am going to take",
+    "Tu vas prendre": "You are going to take",
+    "Il/Elle/On va prendre": "He/She/One is going to take",
+    "Nous allons prendre": "We are going to take",
+    "Vous allez prendre": "You are going to take",
+    "Ils/Elles vont prendre": "They are going to take"
+  },
+  "Subjonctif Présent (Subjunctive Present)": {
+    "Que je prenne": "That I take",
+    "Que tu prennes": "That you take",
+    "Qu'il/Elle/On prenne": "That he/she/one takes",
+    "Que nous prenions": "That we take",
+    "Que vous preniez": "That you take",
+    "Qu'ils/Elles prennent": "That they take"
+  }
+}

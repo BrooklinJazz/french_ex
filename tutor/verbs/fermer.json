@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je ferme": "I close",
+    "Tu fermes": "You close",
+    "Il/Elle ferme": "He/She closes",
+    "Nous fermons": "We close",
+    "Vous fermez": "You close (formal)",
+    "Ils/Elles ferment": "They close"
+  },
+  "Imparfait (Imperfect)": {
+    "Je fermait": "I used to close",
+    "Tu fermait": "You used to close",
+    "Il/Elle fermait": "He/She used to close",
+    "Nous fermions": "We used to close",
+    "Vous fermiez": "You used to close (formal)",
+    "Ils/Elles fermaient": "They used to close"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai fermé": "I closed",
+    "Tu as fermé": "You closed",
+    "Il/Elle a fermé": "He/She closed",
+    "Nous avons fermé": "We closed",
+    "Vous avez fermé": "You closed (formal)",
+    "Ils/Elles ont fermé": "They closed"
+  },
+  "Futur simple (Simple Future)": {
+    "Je fermerai": "I will close",
+    "Tu fermeras": "You will close",
+    "Il/Elle fermera": "He/She will close",
+    "Nous fermerons": "We will close",
+    "Vous fermerez": "You will close (formal)",
+    "Ils/Elles fermeront": "They will close"
+  }
+}

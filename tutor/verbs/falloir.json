@@ -1,0 +1,20 @@
+{
+  "Présent (Present)": {
+    "Il/Elle/On faut": "It is necessary"
+  },
+  "Imparfait (Imperfect)": {
+    "Il/Elle/On fallait": "It was necessary"
+  },
+  "Passé Composé (Past Simple)": {
+    "Il/Elle/On a fallu": "It was necessary"
+  },
+  "Futur Simple (Future)": {
+    "Il/Elle/On faudra": "It will be necessary"
+  },
+  "Conditionnel Présent (Conditional)": {
+    "Il/Elle/On faudrait": "It would be necessary"
+  },
+  "Subjonctif Présent (Subjunctive Present)": {
+    "Qu'il/Elle/On faille": "That it be necessary"
+  }
+}

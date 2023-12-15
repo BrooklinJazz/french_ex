@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "J'intéresse": "I interest",
+    "Tu intéresses": "You interest",
+    "Il/Elle intéresse": "He/She interests",
+    "Nous intéressons": "We interest",
+    "Vous intéressez": "You interest (formal)",
+    "Ils/Elles intéressent": "They interest"
+  },
+  "Imparfait (Imperfect)": {
+    "J'intéressais": "I used to interest",
+    "Tu intéressais": "You used to interest",
+    "Il/Elle intéressait": "He/She used to interest",
+    "Nous intéressions": "We used to interest",
+    "Vous intéressiez": "You used to interest (formal)",
+    "Ils/Elles intéressaient": "They used to interest"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai intéressé": "I interested",
+    "Tu as intéressé": "You interested",
+    "Il/Elle a intéressé": "He/She interested",
+    "Nous avons intéressé": "We interested",
+    "Vous avez intéressé": "You interested (formal)",
+    "Ils/Elles ont intéressé": "They interested"
+  },
+  "Futur simple (Simple Future)": {
+    "J'intéresserai": "I will interest",
+    "Tu intéresseras": "You will interest",
+    "Il/Elle intéressera": "He/She will interest",
+    "Nous intéresserons": "We will interest",
+    "Vous intéresserez": "You will interest (formal)",
+    "Ils/Elles intéresseront": "They will interest"
+  }
+}

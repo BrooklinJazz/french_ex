@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je conseille": "I recommend",
+    "Tu conseilles": "You recommend",
+    "Il/Elle conseille": "He/She recommends",
+    "Nous conseillons": "We recommend",
+    "Vous conseillez": "You recommend (formal)",
+    "Ils/Elles conseillent": "They recommend"
+  },
+  "Imparfait (Imperfect)": {
+    "Je conseillais": "I used to recommend",
+    "Tu conseillais": "You used to recommend",
+    "Il/Elle conseillait": "He/She used to recommend",
+    "Nous conseillions": "We used to recommend",
+    "Vous conseilliez": "You used to recommend (formal)",
+    "Ils/Elles conseillaient": "They used to recommend"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai conseillé": "I have recommended",
+    "Tu as conseillé": "You have recommended",
+    "Il/Elle a conseillé": "He/She has recommended",
+    "Nous avons conseillé": "We have recommended",
+    "Vous avez conseillé": "You have recommended (formal)",
+    "Ils/Elles ont conseillé": "They have recommended"
+  },
+  "Futur simple (Simple Future)": {
+    "Je conseillerai": "I will recommend",
+    "Tu conseilleras": "You will recommend",
+    "Il/Elle conseillera": "He/She will recommend",
+    "Nous conseillerons": "We will recommend",
+    "Vous conseillerez": "You will recommend (formal)",
+    "Ils/Elles conseilleront": "They will recommend"
+  }
+}

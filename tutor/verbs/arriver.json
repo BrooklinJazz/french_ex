@@ -1,0 +1,55 @@
+{
+  "Présent (Present)": {
+    "J'arrive": "I arrive",
+    "Tu arrives": "You arrive",
+    "Il/Elle arrive": "He/She arrives",
+    "Nous arrivons": "We arrive",
+    "Vous arrivez": "You arrive (formal)",
+    "Ils/Elles arrivent": "They arrive"
+  },
+  "Imparfait (Imperfect)": {
+    "J'arrivais": "I used to arrive",
+    "Tu arrivais": "You used to arrive",
+    "Il/Elle arrivait": "He/She used to arrive",
+    "Nous arrivions": "We used to arrive",
+    "Vous arriviez": "You used to arrive (formal)",
+    "Ils/Elles arrivaient": "They used to arrive"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai arrivé": "I have arrived",
+    "Tu as arrivé": "You have arrived",
+    "Il/Elle a arrivé": "He/She has arrived",
+    "Nous avons arrivé": "We have arrived",
+    "Vous avez arrivé": "You have arrived (formal)",
+    "Ils/Elles ont arrivé": "They have arrived"
+  },
+  "Futur (Future)": {
+    "J'arriverai": "I will arrive",
+    "Tu arriveras": "You will arrive",
+    "Il/Elle arrivera": "He/She will arrive",
+    "Nous arriverons": "We will arrive",
+    "Vous arriverez": "You will arrive (formal)",
+    "Ils/Elles arriveront": "They will arrive"
+  },
+  "Conditionnel (Conditional)": {
+    "J'arriverais": "I would arrive",
+    "Tu arriverais": "You would arrive",
+    "Il/Elle arriverait": "He/She would arrive",
+    "Nous arriverions": "We would arrive",
+    "Vous arriveriez": "You would arrive (formal)",
+    "Ils/Elles arriveraient": "They would arrive"
+  },
+  "Subjonctif (Subjunctive)": {
+    "Que j'arrive": "That I arrive",
+    "Que tu arrives": "That you arrive",
+    "Qu'il/elle arrive": "That he/she arrives",
+    "Que nous arrivions": "That we arrive",
+    "Que vous arriviez": "That you arrive (formal)",
+    "Qu'ils/elles arrivent": "That they arrive"
+  },
+  "Impératif (Imperative)": {
+    "Arrive": "Arrive (tu)",
+    "Arrivons": "Let's arrive (nous)",
+    "Arrivez": "Arrive (vous)"
+  }
+}

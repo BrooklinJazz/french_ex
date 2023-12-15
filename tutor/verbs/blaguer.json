@@ -1,0 +1,55 @@
+{
+  "Présent (Present)": {
+    "Je blague": "I joke",
+    "Tu blagues": "You joke",
+    "Il/Elle blague": "He/She jokes",
+    "Nous blaguons": "We joke",
+    "Vous blaguez": "You joke (formal)",
+    "Ils/Elles blaguent": "They joke"
+  },
+  "Imparfait (Imperfect)": {
+    "Je blaguais": "I used to joke",
+    "Tu blaguais": "You used to joke",
+    "Il/Elle blaguait": "He/She used to joke",
+    "Nous blaguions": "We used to joke",
+    "Vous blaguiez": "You used to joke (formal)",
+    "Ils/Elles blaguaient": "They used to joke"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai blagué": "I have joked",
+    "Tu as blagué": "You have joked",
+    "Il/Elle a blagué": "He/She has joked",
+    "Nous avons blagué": "We have joked",
+    "Vous avez blagué": "You have joked (formal)",
+    "Ils/Elles ont blagué": "They have joked"
+  },
+  "Futur (Future)": {
+    "Je blaguerai": "I will joke",
+    "Tu blagueras": "You will joke",
+    "Il/Elle blaguera": "He/She will joke",
+    "Nous blaguerons": "We will joke",
+    "Vous blaguerez": "You will joke (formal)",
+    "Ils/Elles blagueront": "They will joke"
+  },
+  "Conditionnel (Conditional)": {
+    "Je blaguerais": "I would joke",
+    "Tu blaguerais": "You would joke",
+    "Il/Elle blaguerait": "He/She would joke",
+    "Nous blaguerions": "We would joke",
+    "Vous blagueriez": "You would joke (formal)",
+    "Ils/Elles blagueraient": "They would joke"
+  },
+  "Subjonctif (Subjunctive)": {
+    "Que je blague": "That I joke",
+    "Que tu blagues": "That you joke",
+    "Qu'il/elle blague": "That he/she jokes",
+    "Que nous blaguions": "That we joke",
+    "Que vous blaguiez": "That you joke (formal)",
+    "Qu'ils/elles blaguent": "That they joke"
+  },
+  "Impératif (Imperative)": {
+    "Blague": "Joke (tu)",
+    "Blaguons": "Let's joke (nous)",
+    "Blaguez": "Joke (vous)"
+  }
+}

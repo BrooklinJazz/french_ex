@@ -1,0 +1,55 @@
+{
+  "Présent (Present)": {
+    "J'acclame": "I cheer",
+    "Tu acclames": "You cheer",
+    "Il/Elle acclame": "He/She cheers",
+    "Nous acclamons": "We cheer",
+    "Vous acclamez": "You cheer (formal)",
+    "Ils/Elles acclament": "They cheer"
+  },
+  "Imparfait (Imperfect)": {
+    "J'acclamais": "I used to cheer",
+    "Tu acclamais": "You used to cheer",
+    "Il/Elle acclamait": "He/She used to cheer",
+    "Nous acclamions": "We used to cheer",
+    "Vous acclamiez": "You used to cheer (formal)",
+    "Ils/Elles acclamaient": "They used to cheer"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai acclamé": "I have cheered",
+    "Tu as acclamé": "You have cheered",
+    "Il/Elle a acclamé": "He/She has cheered",
+    "Nous avons acclamé": "We have cheered",
+    "Vous avez acclamé": "You have cheered (formal)",
+    "Ils/Elles ont acclamé": "They have cheered"
+  },
+  "Futur (Future)": {
+    "J'acclamerai": "I will cheer",
+    "Tu acclameras": "You will cheer",
+    "Il/Elle acclamera": "He/She will cheer",
+    "Nous acclamerons": "We will cheer",
+    "Vous acclamerez": "You will cheer (formal)",
+    "Ils/Elles acclameront": "They will cheer"
+  },
+  "Conditionnel (Conditional)": {
+    "J'acclamerais": "I would cheer",
+    "Tu acclamerais": "You would cheer",
+    "Il/Elle acclamerait": "He/She would cheer",
+    "Nous acclamerions": "We would cheer",
+    "Vous acclameriez": "You would cheer (formal)",
+    "Ils/Elles acclameraient": "They would cheer"
+  },
+  "Subjonctif (Subjunctive)": {
+    "Que j'acclame": "That I cheer",
+    "Que tu acclames": "That you cheer",
+    "Qu'il/elle acclame": "That he/she cheer",
+    "Que nous acclamions": "That we cheer",
+    "Que vous acclamiez": "That you cheer (formal)",
+    "Qu'ils/elles acclament": "That they cheer"
+  },
+  "Impératif (Imperative)": {
+    "Acclame": "Cheer (tu)",
+    "Acclamons": "Let's cheer (nous)",
+    "Acclamez": "Cheer (vous)"
+  }
+}

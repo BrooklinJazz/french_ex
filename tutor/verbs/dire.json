@@ -1,0 +1,58 @@
+{
+  "Présent (Present)": {
+    "Je dis": "I say/tell",
+    "Tu dis": "You say/tell",
+    "Il/Elle/On dit": "He/She/One says/tells",
+    "Nous disons": "We say/tell",
+    "Vous dites": "You say/tell (formal)",
+    "Ils/Elles disent": "They say/tell"
+  },
+  "Imparfait (Imperfect)": {
+    "Je disais": "I said/told",
+    "Tu disais": "You said/told",
+    "Il/Elle/On disait": "He/She/One said/told",
+    "Nous disions": "We said/told",
+    "Vous disiez": "You said/told (formal)",
+    "Ils/Elles disaient": "They said/told"
+  },
+  "Passé Composé (Past Simple)": {
+    "J'ai dit": "I said/told",
+    "Tu as dit": "You said/told",
+    "Il/Elle/On a dit": "He/She/One said/told",
+    "Nous avons dit": "We said/told",
+    "Vous avez dit": "You said/told (formal)",
+    "Ils/Elles ont dit": "They said/told"
+  },
+  "Futur Simple (Future)": {
+    "Je dirai": "I will say/tell",
+    "Tu diras": "You will say/tell",
+    "Il/Elle/On dira": "He/She/One will say/tell",
+    "Nous dirons": "We will say/tell",
+    "Vous direz": "You will say/tell (formal)",
+    "Ils/Elles diront": "They will say/tell"
+  },
+  "Conditionnel Présent (Conditional)": {
+    "Je dirais": "I would say/tell",
+    "Tu dirais": "You would say/tell",
+    "Il/Elle/On dirait": "He/She/One would say/tell",
+    "Nous dirions": "We would say/tell",
+    "Vous diriez": "You would say/tell (formal)",
+    "Ils/Elles diraient": "They would say/tell"
+  },
+  "Futur Proche (Near Future)": {
+    "Je vais dire": "I am going to say/tell",
+    "Tu vas dire": "You are going to say/tell",
+    "Il/Elle/On va dire": "He/She/One is going to say/tell",
+    "Nous allons dire": "We are going to say/tell",
+    "Vous allez dire": "You are going to say/tell",
+    "Ils/Elles vont dire": "They are going to say/tell"
+  },
+  "Subjonctif Présent (Subjunctive Present)": {
+    "Que je dise": "That I say/tell",
+    "Que tu dises": "That you say/tell",
+    "Qu'il/Elle/On dise": "That he/she/one says/tells",
+    "Que nous disions": "That we say/tell",
+    "Que vous disiez": "That you say/tell",
+    "Qu'ils/Elles disent": "That they say/tell"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "Présent (Present)": {
+    "J'approche": "I approach",
+    "Tu approches": "You approach",
+    "Il/Elle approche": "He/She approaches",
+    "Nous approchons": "We approach",
+    "Vous approchez": "You approach (formal)",
+    "Ils/Elles approchent": "They approach"
+  },
+  "Imparfait (Imperfect)": {
+    "J'approchais": "I used to approach",
+    "Tu approchais": "You used to approach",
+    "Il/Elle approchait": "He/She used to approach",
+    "Nous approchions": "We used to approach",
+    "Vous approchiez": "You used to approach (formal)",
+    "Ils/Elles approchaient": "They used to approach"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai approché": "I have approached",
+    "Tu as approché": "You have approached",
+    "Il/Elle a approché": "He/She has approached",
+    "Nous avons approché": "We have approached",
+    "Vous avez approché": "You have approached (formal)",
+    "Ils/Elles ont approché": "They have approached"
+  },
+  "Futur (Future)": {
+    "J'approcherai": "I will approach",
+    "Tu approcheras": "You will approach",
+    "Il/Elle approchera": "He/She will approach",
+    "Nous approcherons": "We will approach",
+    "Vous approcherez": "You will approach (formal)",
+    "Ils/Elles approcheront": "They will approach"
+  },
+  "Conditionnel (Conditional)": {
+    "J'approcherais": "I would approach",
+    "Tu approcherais": "You would approach",
+    "Il/Elle approcherait": "He/She would approach",
+    "Nous approcherions": "We would approach",
+    "Vous approcheriez": "You would approach (formal)",
+    "Ils/Elles approcheraient": "They would approach"
+  },
+  "Subjonctif (Subjunctive)": {
+    "Que j'approche": "That I approach",
+    "Que tu approches": "That you approach",
+    "Qu'il/elle approche": "That he/she approaches",
+    "Que nous approchions": "That we approach",
+    "Que vous approchiez": "That you approach (formal)",
+    "Qu'ils/elles approchent": "That they approach"
+  },
+  "Impératif (Imperative)": {
+    "Approche": "Approach (tu)",
+    "Approchons": "Let's approach (nous)",
+    "Approchez": "Approach (vous)"
+  }
+}

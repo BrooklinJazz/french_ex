@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je déteste": "I hate",
+    "Tu détestes": "You hate",
+    "Il/Elle déteste": "He/She hates",
+    "Nous détestons": "We hate",
+    "Vous détestez": "You hate (formal)",
+    "Ils/Elles détestent": "They hate"
+  },
+  "Imparfait (Imperfect)": {
+    "Je détestais": "I used to hate",
+    "Tu détestais": "You used to hate",
+    "Il/Elle détestait": "He/She used to hate",
+    "Nous détestions": "We used to hate",
+    "Vous détestiez": "You used to hate (formal)",
+    "Ils/Elles détestaient": "They used to hate"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai détesté": "I have hated",
+    "Tu as détesté": "You have hated",
+    "Il/Elle a détesté": "He/She has hated",
+    "Nous avons détesté": "We have hated",
+    "Vous avez détesté": "You have hated (formal)",
+    "Ils/Elles ont détesté": "They have hated"
+  },
+  "Futur simple (Simple Future)": {
+    "Je détesterai": "I will hate",
+    "Tu détesteras": "You will hate",
+    "Il/Elle détestera": "He/She will hate",
+    "Nous détesterons": "We will hate",
+    "Vous détesterez": "You will hate (formal)",
+    "Ils/Elles détesteront": "They will hate"
+  }
+}

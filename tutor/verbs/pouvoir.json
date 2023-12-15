@@ -1,0 +1,58 @@
+{
+  "Présent (Present)": {
+    "Je peux": "I can",
+    "Tu peux": "You can",
+    "Il/Elle/On peut": "He/She/One can",
+    "Nous pouvons": "We can",
+    "Vous pouvez": "You can (formal)",
+    "Ils/Elles peuvent": "They can"
+  },
+  "Imparfait (Imperfect)": {
+    "Je pouvais": "I could",
+    "Tu pouvais": "You could",
+    "Il/Elle/On pouvait": "He/She/One could",
+    "Nous pouvions": "We could",
+    "Vous pouviez": "You could (formal)",
+    "Ils/Elles pouvaient": "They could"
+  },
+  "Passé Composé (Past Simple)": {
+    "J'ai pu": "I could",
+    "Tu as pu": "You could",
+    "Il/Elle/On a pu": "He/She/One could",
+    "Nous avons pu": "We could",
+    "Vous avez pu": "You could (formal)",
+    "Ils/Elles ont pu": "They could"
+  },
+  "Futur Simple (Future)": {
+    "Je pourrai": "I will be able to",
+    "Tu pourras": "You will be able to",
+    "Il/Elle/On pourra": "He/She/One will be able to",
+    "Nous pourrons": "We will be able to",
+    "Vous pourrez": "You will be able to (formal)",
+    "Ils/Elles pourront": "They will be able to"
+  },
+  "Conditionnel Présent (Conditional)": {
+    "Je pourrais": "I would be able to",
+    "Tu pourrais": "You would be able to",
+    "Il/Elle/On pourrait": "He/She/One would be able to",
+    "Nous pourrions": "We would be able to",
+    "Vous pourriez": "You would be able to (formal)",
+    "Ils/Elles pourraient": "They would be able to"
+  },
+  "Futur Proche (Near Future)": {
+    "Je vais pouvoir": "I am going to be able to",
+    "Tu vas pouvoir": "You are going to be able to",
+    "Il/Elle/On va pouvoir": "He/She/One is going to be able to",
+    "Nous allons pouvoir": "We are going to be able to",
+    "Vous allez pouvoir": "You are going to be able to",
+    "Ils/Elles vont pouvoir": "They are going to be able to"
+  },
+  "Subjonctif Présent (Subjunctive Present)": {
+    "Que je puisse": "That I can",
+    "Que tu puisses": "That you can",
+    "Qu'il/Elle/On puisse": "That he/she/one can",
+    "Que nous puissions": "That we can",
+    "Que vous puissiez": "That you can",
+    "Qu'ils/Elles puissent": "That they can"
+  }
+}

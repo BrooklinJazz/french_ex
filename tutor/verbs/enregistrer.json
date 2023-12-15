@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "J'enregistre": "I record",
+    "Tu enregistres": "You record",
+    "Il/Elle enregistre": "He/She records",
+    "Nous enregistrons": "We record",
+    "Vous enregistrez": "You record (formal)",
+    "Ils/Elles enregistrent": "They record"
+  },
+  "Imparfait (Imperfect)": {
+    "J'enregistrais": "I used to record",
+    "Tu enregistrais": "You used to record",
+    "Il/Elle enregistrait": "He/She used to record",
+    "Nous enregistrions": "We used to record",
+    "Vous enregistriez": "You used to record (formal)",
+    "Ils/Elles enregistraient": "They used to record"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai enregistré": "I recorded",
+    "Tu as enregistré": "You recorded",
+    "Il/Elle a enregistré": "He/She recorded",
+    "Nous avons enregistré": "We recorded",
+    "Vous avez enregistré": "You recorded (formal)",
+    "Ils/Elles ont enregistré": "They recorded"
+  },
+  "Futur simple (Simple Future)": {
+    "J'enregistrerai": "I will record",
+    "Tu enregistreras": "You will record",
+    "Il/Elle enregistrera": "He/She will record",
+    "Nous enregistrerons": "We will record",
+    "Vous enregistrerez": "You will record (formal)",
+    "Ils/Elles enregistreront": "They will record"
+  }
+}

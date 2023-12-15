@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je lis": "I read",
+    "Tu lis": "You read",
+    "Il/Elle lit": "He/She reads",
+    "Nous lisons": "We read",
+    "Vous lisez": "You read (formal)",
+    "Ils/Elles lisent": "They read"
+  },
+  "Imparfait (Imperfect)": {
+    "Je lisais": "I used to read",
+    "Tu lisais": "You used to read",
+    "Il/Elle lisait": "He/She used to read",
+    "Nous lisions": "We used to read",
+    "Vous lisiez": "You used to read (formal)",
+    "Ils/Elles lisaient": "They used to read"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai lu": "I read",
+    "Tu as lu": "You read",
+    "Il/Elle a lu": "He/She read",
+    "Nous avons lu": "We read",
+    "Vous avez lu": "You read (formal)",
+    "Ils/Elles ont lu": "They read"
+  },
+  "Futur simple (Simple Future)": {
+    "Je lirai": "I will read",
+    "Tu liras": "You will read",
+    "Il/Elle lira": "He/She will read",
+    "Nous lirons": "We will read",
+    "Vous lirez": "You will read (formal)",
+    "Ils/Elles liront": "They will read"
+  }
+}

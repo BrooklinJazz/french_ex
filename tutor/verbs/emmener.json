@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "J'emmène": "I take / I take along",
+    "Tu emmènes": "You take / You take along",
+    "Il/Elle emmène": "He/She takes / He/She takes along",
+    "Nous emmenons": "We take / We take along",
+    "Vous emmenez": "You take / You take along (formal)",
+    "Ils/Elles emmènent": "They take / They take along"
+  },
+  "Imparfait (Imperfect)": {
+    "J'emmenais": "I used to take / I used to take along",
+    "Tu emmenais": "You used to take / You used to take along",
+    "Il/Elle emmenait": "He/She used to take / He/She used to take along",
+    "Nous emmenions": "We used to take / We used to take along",
+    "Vous emmeniez": "You used to take / You used to take along (formal)",
+    "Ils/Elles emmenaient": "They used to take / They used to take along"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai emmené": "I took / I took along",
+    "Tu as emmené": "You took / You took along",
+    "Il/Elle a emmené": "He/She took / He/She took along",
+    "Nous avons emmené": "We took / We took along",
+    "Vous avez emmené": "You took / You took along (formal)",
+    "Ils/Elles ont emmené": "They took / They took along"
+  },
+  "Futur simple (Simple Future)": {
+    "J'emmènerai": "I will take / I will take along",
+    "Tu emmèneras": "You will take / You will take along",
+    "Il/Elle emmènera": "He/She will take / He/She will take along",
+    "Nous emmènerons": "We will take / We will take along",
+    "Vous emmènerez": "You will take / You will take along (formal)",
+    "Ils/Elles emmèneront": "They will take / They will take along"
+  }
+}

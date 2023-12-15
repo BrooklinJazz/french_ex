@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je dépense": "I spend",
+    "Tu dépenses": "You spend",
+    "Il/Elle dépense": "He/She spends",
+    "Nous dépensons": "We spend",
+    "Vous dépensez": "You spend (formal)",
+    "Ils/Elles dépensent": "They spend"
+  },
+  "Imparfait (Imperfect)": {
+    "Je dépensais": "I used to spend",
+    "Tu dépensais": "You used to spend",
+    "Il/Elle dépensait": "He/She used to spend",
+    "Nous dépensions": "We used to spend",
+    "Vous dépensiez": "You used to spend (formal)",
+    "Ils/Elles dépensaient": "They used to spend"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai dépensé": "I have spent",
+    "Tu as dépensé": "You have spent",
+    "Il/Elle a dépensé": "He/She has spent",
+    "Nous avons dépensé": "We have spent",
+    "Vous avez dépensé": "You have spent (formal)",
+    "Ils/Elles ont dépensé": "They have spent"
+  },
+  "Futur simple (Simple Future)": {
+    "Je dépenserai": "I will spend",
+    "Tu dépenseras": "You will spend",
+    "Il/Elle dépensera": "He/She will spend",
+    "Nous dépenserons": "We will spend",
+    "Vous dépenserez": "You will spend (formal)",
+    "Ils/Elles dépenseront": "They will spend"
+  }
+}

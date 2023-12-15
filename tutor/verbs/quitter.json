@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je quitte": "I leave/depart",
+    "Tu quittes": "You leave/depart",
+    "Il/Elle quitte": "He/She leaves/departs",
+    "Nous quittons": "We leave/depart",
+    "Vous quittez": "You leave/depart (formal)",
+    "Ils/Elles quittent": "They leave/depart"
+  },
+  "Imparfait (Imperfect)": {
+    "Je quittais": "I used to leave/depart",
+    "Tu quittais": "You used to leave/depart",
+    "Il/Elle quittait": "He/She used to leave/depart",
+    "Nous quittions": "We used to leave/depart",
+    "Vous quittiez": "You used to leave/depart (formal)",
+    "Ils/Elles quittaient": "They used to leave/depart"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai quitté": "I left/departed",
+    "Tu as quitté": "You left/departed",
+    "Il/Elle a quitté": "He/She left/departed",
+    "Nous avons quitté": "We left/departed",
+    "Vous avez quitté": "You left/departed (formal)",
+    "Ils/Elles ont quitté": "They left/departed"
+  },
+  "Futur simple (Simple Future)": {
+    "Je quitterai": "I will leave/depart",
+    "Tu quitteras": "You will leave/depart",
+    "Il/Elle quittera": "He/She will leave/depart",
+    "Nous quitterons": "We will leave/depart",
+    "Vous quitterez": "You will leave/depart (formal)",
+    "Ils/Elles quitteront": "They will leave/depart"
+  }
+}

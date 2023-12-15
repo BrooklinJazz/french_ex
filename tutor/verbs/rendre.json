@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je rends": "I return",
+    "Tu rends": "You return",
+    "Il/Elle rend": "He/She returns",
+    "Nous rendons": "We return",
+    "Vous rendez": "You return (formal)",
+    "Ils/Elles rendent": "They return"
+  },
+  "Imparfait (Imperfect)": {
+    "Je rendais": "I used to return",
+    "Tu rendais": "You used to return",
+    "Il/Elle rendait": "He/She used to return",
+    "Nous rendions": "We used to return",
+    "Vous rendiez": "You used to return (formal)",
+    "Ils/Elles rendaient": "They used to return"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai rendu": "I returned",
+    "Tu as rendu": "You returned",
+    "Il/Elle a rendu": "He/She returned",
+    "Nous avons rendu": "We returned",
+    "Vous avez rendu": "You returned (formal)",
+    "Ils/Elles ont rendu": "They returned"
+  },
+  "Futur simple (Simple Future)": {
+    "Je rendrai": "I will return",
+    "Tu rendras": "You will return",
+    "Il/Elle rendra": "He/She will return",
+    "Nous rendrons": "We will return",
+    "Vous rendrez": "You will return (formal)",
+    "Ils/Elles rendront": "They will return"
+  }
+}

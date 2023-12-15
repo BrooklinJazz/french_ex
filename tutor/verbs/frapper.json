@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je frappe": "I knock",
+    "Tu frappes": "You knock",
+    "Il/Elle frappe": "He/She knocks",
+    "Nous frappons": "We knock",
+    "Vous frappez": "You knock (formal)",
+    "Ils/Elles frappent": "They knock"
+  },
+  "Imparfait (Imperfect)": {
+    "Je frappais": "I used to knock",
+    "Tu frappais": "You used to knock",
+    "Il/Elle frappait": "He/She used to knock",
+    "Nous frappions": "We used to knock",
+    "Vous frappiez": "You used to knock (formal)",
+    "Ils/Elles frappaient": "They used to knock"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai frappé": "I knocked",
+    "Tu as frappé": "You knocked",
+    "Il/Elle a frappé": "He/She knocked",
+    "Nous avons frappé": "We knocked",
+    "Vous avez frappé": "You knocked (formal)",
+    "Ils/Elles ont frappé": "They knocked"
+  },
+  "Futur simple (Simple Future)": {
+    "Je frapperai": "I will knock",
+    "Tu frapperas": "You will knock",
+    "Il/Elle frappera": "He/She will knock",
+    "Nous frapperons": "We will knock",
+    "Vous frapperez": "You will knock (formal)",
+    "Ils/Elles frapperont": "They will knock"
+  }
+}

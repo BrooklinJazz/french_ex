@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je prie": "I pray",
+    "Tu pries": "You pray",
+    "Il/Elle prie": "He/She prays",
+    "Nous prions": "We pray",
+    "Vous priez": "You pray (formal)",
+    "Ils/Elles prient": "They pray"
+  },
+  "Imparfait (Imperfect)": {
+    "Je priais": "I used to pray",
+    "Tu priais": "You used to pray",
+    "Il/Elle priait": "He/She used to pray",
+    "Nous priions": "We used to pray",
+    "Vous priiez": "You used to pray (formal)",
+    "Ils/Elles priaient": "They used to pray"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai prié": "I prayed",
+    "Tu as prié": "You prayed",
+    "Il/Elle a prié": "He/She prayed",
+    "Nous avons prié": "We prayed",
+    "Vous avez prié": "You prayed (formal)",
+    "Ils/Elles ont prié": "They prayed"
+  },
+  "Futur simple (Simple Future)": {
+    "Je prierai": "I will pray",
+    "Tu prieras": "You will pray",
+    "Il/Elle priera": "He/She will pray",
+    "Nous prierons": "We will pray",
+    "Vous prierez": "You will pray (formal)",
+    "Ils/Elles prieront": "They will pray"
+  }
+}

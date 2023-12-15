@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "J'épelle": "I spell",
+    "Tu épelles": "You spell",
+    "Il/Elle épelle": "He/She spells",
+    "Nous épelons": "We spell",
+    "Vous épeler": "You spell (formal)",
+    "Ils/Elles épellent": "They spell"
+  },
+  "Imparfait (Imperfect)": {
+    "J'épelais": "I used to spell",
+    "Tu épelais": "You used to spell",
+    "Il/Elle épelait": "He/She used to spell",
+    "Nous épelions": "We used to spell",
+    "Vous épeliez": "You used to spell (formal)",
+    "Ils/Elles épelaient": "They used to spell"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai épelé": "I spelled",
+    "Tu as épelé": "You spelled",
+    "Il/Elle a épelé": "He/She spelled",
+    "Nous avons épelé": "We spelled",
+    "Vous avez épelé": "You spelled (formal)",
+    "Ils/Elles ont épelé": "They spelled"
+  },
+  "Futur simple (Simple Future)": {
+    "J'épellerai": "I will spell",
+    "Tu épelleras": "You will spell",
+    "Il/Elle épellera": "He/She will spell",
+    "Nous épellerons": "We will spell",
+    "Vous épellerez": "You will spell (formal)",
+    "Ils/Elles épelleront": "They will spell"
+  }
+}

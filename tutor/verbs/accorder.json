@@ -1,0 +1,55 @@
+{
+  "Présent (Present)": {
+    "J'accorde": "I admit",
+    "Tu accordes": "You admit",
+    "Il/Elle accorde": "He/She admits",
+    "Nous accordons": "We admit",
+    "Vous accordez": "You admit (formal)",
+    "Ils/Elles accordent": "They admit"
+  },
+  "Imparfait (Imperfect)": {
+    "J'accordais": "I used to admit",
+    "Tu accordais": "You used to admit",
+    "Il/Elle accordait": "He/She used to admit",
+    "Nous accordions": "We used to admit",
+    "Vous accordiez": "You used to admit (formal)",
+    "Ils/Elles accordaient": "They used to admit"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai accordé": "I have admitted",
+    "Tu as accordé": "You have admitted",
+    "Il/Elle a accordé": "He/She has admitted",
+    "Nous avons accordé": "We have admitted",
+    "Vous avez accordé": "You have admitted (formal)",
+    "Ils/Elles ont accordé": "They have admitted"
+  },
+  "Futur (Future)": {
+    "J'accorderai": "I will admit",
+    "Tu accorderas": "You will admit",
+    "Il/Elle accordera": "He/She will admit",
+    "Nous accorderons": "We will admit",
+    "Vous accorderez": "You will admit (formal)",
+    "Ils/Elles accorderont": "They will admit"
+  },
+  "Conditionnel (Conditional)": {
+    "J'accorderais": "I would admit",
+    "Tu accorderais": "You would admit",
+    "Il/Elle accorderait": "He/She would admit",
+    "Nous accorderions": "We would admit",
+    "Vous accorderiez": "You would admit (formal)",
+    "Ils/Elles accorderaient": "They would admit"
+  },
+  "Subjonctif (Subjunctive)": {
+    "Que j'accorde": "That I admit",
+    "Que tu accordes": "That you admit",
+    "Qu'il/elle accorde": "That he/she admit",
+    "Que nous accordions": "That we admit",
+    "Que vous accordiez": "That you admit (formal)",
+    "Qu'ils/elles accordent": "That they admit"
+  },
+  "Impératif (Imperative)": {
+    "Accorde": "Admit (tu)",
+    "Accordons": "Let's admit (nous)",
+    "Accordez": "Admit (vous)"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je tire": "I pull",
+    "Tu tires": "You pull",
+    "Il/Elle tire": "He/She pulls",
+    "Nous tirons": "We pull",
+    "Vous tirez": "You pull (formal)",
+    "Ils/Elles tirent": "They pull"
+  },
+  "Imparfait (Imperfect)": {
+    "Je tirais": "I used to pull",
+    "Tu tirais": "You used to pull",
+    "Il/Elle tirait": "He/She used to pull",
+    "Nous tirions": "We used to pull",
+    "Vous tiriez": "You used to pull (formal)",
+    "Ils/Elles tiraient": "They used to pull"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai tiré": "I pulled",
+    "Tu as tiré": "You pulled",
+    "Il/Elle a tiré": "He/She pulled",
+    "Nous avons tiré": "We pulled",
+    "Vous avez tiré": "You pulled (formal)",
+    "Ils/Elles ont tiré": "They pulled"
+  },
+  "Futur simple (Simple Future)": {
+    "Je tirerai": "I will pull",
+    "Tu tireras": "You will pull",
+    "Il/Elle tirera": "He/She will pull",
+    "Nous tirerons": "We will pull",
+    "Vous tirerez": "You will pull (formal)",
+    "Ils/Elles tireront": "They will pull"
+  }
+}

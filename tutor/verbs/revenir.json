@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je reviens": "I come back",
+    "Tu reviens": "You come back",
+    "Il/Elle revient": "He/She comes back",
+    "Nous revenons": "We come back",
+    "Vous revenez": "You come back (formal)",
+    "Ils/Elles reviennent": "They come back"
+  },
+  "Imparfait (Imperfect)": {
+    "Je revenais": "I used to come back",
+    "Tu revenais": "You used to come back",
+    "Il/Elle revenait": "He/She used to come back",
+    "Nous revenions": "We used to come back",
+    "Vous reveniez": "You used to come back (formal)",
+    "Ils/Elles revenaient": "They used to come back"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai revenu": "I came back",
+    "Tu as revenu": "You came back",
+    "Il/Elle a revenu": "He/She came back",
+    "Nous avons revenu": "We came back",
+    "Vous avez revenu": "You came back (formal)",
+    "Ils/Elles ont revenu": "They came back"
+  },
+  "Futur simple (Simple Future)": {
+    "Je reviendrai": "I will come back",
+    "Tu reviendras": "You will come back",
+    "Il/Elle reviendra": "He/She will come back",
+    "Nous reviendrons": "We will come back",
+    "Vous reviendrez": "You will come back (formal)",
+    "Ils/Elles reviendront": "They will come back"
+  }
+}

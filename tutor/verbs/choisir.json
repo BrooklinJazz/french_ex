@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je choisis": "I choose",
+    "Tu choisis": "You choose",
+    "Il/Elle choisit": "He/She chooses",
+    "Nous choisissons": "We choose",
+    "Vous choisissez": "You choose (formal)",
+    "Ils/Elles choisissent": "They choose"
+  },
+  "Imparfait (Imperfect)": {
+    "Je choisissais": "I used to choose",
+    "Tu choisissais": "You used to choose",
+    "Il/Elle choisissait": "He/She used to choose",
+    "Nous choisissions": "We used to choose",
+    "Vous choisissiez": "You used to choose (formal)",
+    "Ils/Elles choisissaient": "They used to choose"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai choisi": "I have chosen",
+    "Tu as choisi": "You have chosen",
+    "Il/Elle a choisi": "He/She has chosen",
+    "Nous avons choisi": "We have chosen",
+    "Vous avez choisi": "You have chosen (formal)",
+    "Ils/Elles ont choisi": "They have chosen"
+  },
+  "Futur simple (Simple Future)": {
+    "Je choisirai": "I will choose",
+    "Tu choisiras": "You will choose",
+    "Il/Elle choisira": "He/She will choose",
+    "Nous choisirons": "We will choose",
+    "Vous choisirez": "You will choose (formal)",
+    "Ils/Elles choisiront": "They will choose"
+  }
+}

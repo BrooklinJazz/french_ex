@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je compte": "I count",
+    "Tu comptes": "You count",
+    "Il/Elle compte": "He/She counts",
+    "Nous comptons": "We count",
+    "Vous comptez": "You count (formal)",
+    "Ils/Elles comptent": "They count"
+  },
+  "Imparfait (Imperfect)": {
+    "Je comptais": "I used to count",
+    "Tu comptais": "You used to count",
+    "Il/Elle comptait": "He/She used to count",
+    "Nous comptions": "We used to count",
+    "Vous comptiez": "You used to count (formal)",
+    "Ils/Elles comptaient": "They used to count"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai compté": "I have counted",
+    "Tu as compté": "You have counted",
+    "Il/Elle a compté": "He/She has counted",
+    "Nous avons compté": "We have counted",
+    "Vous avez compté": "You have counted (formal)",
+    "Ils/Elles ont compté": "They have counted"
+  },
+  "Futur simple (Simple Future)": {
+    "Je compterai": "I will count",
+    "Tu compteras": "You will count",
+    "Il/Elle comptera": "He/She will count",
+    "Nous compterons": "We will count",
+    "Vous compterez": "You will count (formal)",
+    "Ils/Elles compteront": "They will count"
+  }
+}

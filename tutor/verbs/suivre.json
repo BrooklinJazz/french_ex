@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je suis": "I follow",
+    "Tu suis": "You follow",
+    "Il/Elle suit": "He/She follows",
+    "Nous suivons": "We follow",
+    "Vous suivez": "You follow (formal)",
+    "Ils/Elles suivent": "They follow"
+  },
+  "Imparfait (Imperfect)": {
+    "Je suivais": "I used to follow",
+    "Tu suivais": "You used to follow",
+    "Il/Elle suivait": "He/She used to follow",
+    "Nous suivions": "We used to follow",
+    "Vous suiviez": "You used to follow (formal)",
+    "Ils/Elles suivaient": "They used to follow"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai suivi": "I followed",
+    "Tu as suivi": "You followed",
+    "Il/Elle a suivi": "He/She followed",
+    "Nous avons suivi": "We followed",
+    "Vous avez suivi": "You followed (formal)",
+    "Ils/Elles ont suivi": "They followed"
+  },
+  "Futur simple (Simple Future)": {
+    "Je suivrai": "I will follow",
+    "Tu suivras": "You will follow",
+    "Il/Elle suivra": "He/She will follow",
+    "Nous suivrons": "We will follow",
+    "Vous suivrez": "You will follow (formal)",
+    "Ils/Elles suivront": "They will follow"
+  }
+}

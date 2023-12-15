@@ -1,0 +1,35 @@
+{
+    "Présent (Present)": {
+      "Je deviens": "I become",
+      "Tu deviens": "You become",
+      "Il/Elle devient": "He/She becomes",
+      "Nous devenons": "We become",
+      "Vous devenez": "You become (formal)",
+      "Ils/Elles deviennent": "They become"
+    },
+    "Imparfait (Imperfect)": {
+      "Je devenais": "I used to become",
+      "Tu devenais": "You used to become",
+      "Il/Elle devenait": "He/She used to become",
+      "Nous devenions": "We used to become",
+      "Vous deveniez": "You used to become (formal)",
+      "Ils/Elles devenaient": "They used to become"
+    },
+    "Passé composé (Present Perfect)": {
+      "Je suis devenu(e)": "I have become",
+      "Tu es devenu(e)": "You have become",
+      "Il/Elle est devenu(e)": "He/She has become",
+      "Nous sommes devenu(e)s": "We have become",
+      "Vous êtes devenu(e)(s)": "You have become (formal)",
+      "Ils/Elles sont devenu(e)s": "They have become"
+    },
+    "Futur simple (Simple Future)": {
+      "Je deviendrai": "I will become",
+      "Tu deviendras": "You will become",
+      "Il/Elle deviendra": "He/She will become",
+      "Nous deviendrons": "We will become",
+      "Vous deviendrez": "You will become (formal)",
+      "Ils/Elles deviendront": "They will become"
+    }
+  }
+  

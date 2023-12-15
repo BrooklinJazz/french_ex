@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je suppose": "I suppose",
+    "Tu supposes": "You suppose",
+    "Il/Elle suppose": "He/She supposes",
+    "Nous supposons": "We suppose",
+    "Vous supposez": "You suppose (formal)",
+    "Ils/Elles supposent": "They suppose"
+  },
+  "Imparfait (Imperfect)": {
+    "Je supposais": "I used to suppose",
+    "Tu supposais": "You used to suppose",
+    "Il/Elle supposait": "He/She used to suppose",
+    "Nous supposions": "We used to suppose",
+    "Vous supposiez": "You used to suppose (formal)",
+    "Ils/Elles supposaient": "They used to suppose"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai supposé": "I supposed",
+    "Tu as supposé": "You supposed",
+    "Il/Elle a supposé": "He/She supposed",
+    "Nous avons supposé": "We supposed",
+    "Vous avez supposé": "You supposed (formal)",
+    "Ils/Elles ont supposé": "They supposed"
+  },
+  "Futur simple (Simple Future)": {
+    "Je supposerai": "I will suppose",
+    "Tu supposeras": "You will suppose",
+    "Il/Elle supposera": "He/She will suppose",
+    "Nous supposerons": "We will suppose",
+    "Vous supposerez": "You will suppose (formal)",
+    "Ils/Elles supposeront": "They will suppose"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je rougis": "I redden",
+    "Tu rougis": "You redden",
+    "Il/Elle rougit": "He/She reddens",
+    "Nous rougissons": "We redden",
+    "Vous rougissez": "You redden (formal)",
+    "Ils/Elles rougissent": "They redden"
+  },
+  "Imparfait (Imperfect)": {
+    "Je rougissais": "I used to redden",
+    "Tu rougissais": "You used to redden",
+    "Il/Elle rougissait": "He/She used to redden",
+    "Nous rougissions": "We used to redden",
+    "Vous rougissiez": "You used to redden (formal)",
+    "Ils/Elles rougissaient": "They used to redden"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai rougi": "I reddened",
+    "Tu as rougi": "You reddened",
+    "Il/Elle a rougi": "He/She reddened",
+    "Nous avons rougi": "We reddened",
+    "Vous avez rougi": "You reddened (formal)",
+    "Ils/Elles ont rougi": "They reddened"
+  },
+  "Futur simple (Simple Future)": {
+    "Je rougirai": "I will redden",
+    "Tu rougiras": "You will redden",
+    "Il/Elle rougira": "He/She will redden",
+    "Nous rougirons": "We will redden",
+    "Vous rougirez": "You will redden (formal)",
+    "Ils/Elles rougiront": "They will redden"
+  }
+}

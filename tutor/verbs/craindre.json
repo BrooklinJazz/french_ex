@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je crains": "I fear",
+    "Tu crains": "You fear",
+    "Il/Elle craint": "He/She fears",
+    "Nous craignons": "We fear",
+    "Vous craignez": "You fear (formal)",
+    "Ils/Elles craignent": "They fear"
+  },
+  "Imparfait (Imperfect)": {
+    "Je craignais": "I used to fear",
+    "Tu craignais": "You used to fear",
+    "Il/Elle craignait": "He/She used to fear",
+    "Nous craignions": "We used to fear",
+    "Vous craigniez": "You used to fear (formal)",
+    "Ils/Elles craignaient": "They used to fear"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai craint": "I have feared",
+    "Tu as craint": "You have feared",
+    "Il/Elle a craint": "He/She has feared",
+    "Nous avons craint": "We have feared",
+    "Vous avez craint": "You have feared (formal)",
+    "Ils/Elles ont craint": "They have feared"
+  },
+  "Futur simple (Simple Future)": {
+    "Je craindrai": "I will fear",
+    "Tu craindras": "You will fear",
+    "Il/Elle craindra": "He/She will fear",
+    "Nous craindrons": "We will fear",
+    "Vous craindrez": "You will fear (formal)",
+    "Ils/Elles craindront": "They will fear"
+  }
+}

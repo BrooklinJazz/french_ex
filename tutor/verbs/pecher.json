@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je pêche": "I fish / I'm fishing",
+    "Tu pêches": "You fish / You're fishing",
+    "Il/Elle pêche": "He/She fishes / He/She's fishing",
+    "Nous pêchons": "We fish / We're fishing",
+    "Vous pêchez": "You fish / You're fishing (formal)",
+    "Ils/Elles pêchent": "They fish / They're fishing"
+  },
+  "Imparfait (Imperfect)": {
+    "Je pêchais": "I used to fish",
+    "Tu pêchais": "You used to fish",
+    "Il/Elle pêchait": "He/She used to fish",
+    "Nous pêchions": "We used to fish",
+    "Vous pêchiez": "You used to fish (formal)",
+    "Ils/Elles pêchaient": "They used to fish"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai pêché": "I fished / I've fished",
+    "Tu as pêché": "You fished / You've fished",
+    "Il/Elle a pêché": "He/She fished / He/She's fished",
+    "Nous avons pêché": "We fished / We've fished",
+    "Vous avez pêché": "You fished / You've fished (formal)",
+    "Ils/Elles ont pêché": "They fished / They've fished"
+  },
+  "Futur simple (Simple Future)": {
+    "Je pêcherai": "I will fish",
+    "Tu pêcheras": "You will fish",
+    "Il/Elle pêchera": "He/She will fish",
+    "Nous pêcherons": "We will fish",
+    "Vous pêcherez": "You will fish (formal)",
+    "Ils/Elles pêcheront": "They will fish"
+  }
+}

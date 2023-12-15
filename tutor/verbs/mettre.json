@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je mets": "I put / I'm putting",
+    "Tu mets": "You put / You're putting",
+    "Il/Elle met": "He/She puts / He/She's putting",
+    "Nous mettons": "We put / We're putting",
+    "Vous mettez": "You put / You're putting (formal)",
+    "Ils/Elles mettent": "They put / They're putting"
+  },
+  "Imparfait (Imperfect)": {
+    "Je mettais": "I used to put",
+    "Tu mettais": "You used to put",
+    "Il/Elle mettait": "He/She used to put",
+    "Nous mettions": "We used to put",
+    "Vous mettiez": "You used to put (formal)",
+    "Ils/Elles mettaient": "They used to put"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai mis": "I put / I've put",
+    "Tu as mis": "You put / You've put",
+    "Il/Elle a mis": "He/She put / He/She's put",
+    "Nous avons mis": "We put / We've put",
+    "Vous avez mis": "You put / You've put (formal)",
+    "Ils/Elles ont mis": "They put / They've put"
+  },
+  "Futur simple (Simple Future)": {
+    "Je mettrai": "I will put",
+    "Tu mettras": "You will put",
+    "Il/Elle mettra": "He/She will put",
+    "Nous mettrons": "We will put",
+    "Vous mettrez": "You will put (formal)",
+    "Ils/Elles mettront": "They will put"
+  }
+}

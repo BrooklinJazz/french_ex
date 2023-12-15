@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je joue": "I play",
+    "Tu joues": "You play",
+    "Il/Elle joue": "He/She plays",
+    "Nous jouons": "We play",
+    "Vous jouez": "You play (formal)",
+    "Ils/Elles jouent": "They play"
+  },
+  "Imparfait (Imperfect)": {
+    "Je jouais": "I used to play",
+    "Tu jouais": "You used to play",
+    "Il/Elle jouait": "He/She used to play",
+    "Nous jouions": "We used to play",
+    "Vous jouiez": "You used to play (formal)",
+    "Ils/Elles jouaient": "They used to play"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai joué": "I played",
+    "Tu as joué": "You played",
+    "Il/Elle a joué": "He/She played",
+    "Nous avons joué": "We played",
+    "Vous avez joué": "You played (formal)",
+    "Ils/Elles ont joué": "They played"
+  },
+  "Futur simple (Simple Future)": {
+    "Je jouerai": "I will play",
+    "Tu joueras": "You will play",
+    "Il/Elle jouera": "He/She will play",
+    "Nous jouerons": "We will play",
+    "Vous jouerez": "You will play (formal)",
+    "Ils/Elles joueront": "They will play"
+  }
+}

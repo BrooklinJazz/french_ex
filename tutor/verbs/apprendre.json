@@ -1,0 +1,55 @@
+{
+  "Présent (Present)": {
+    "J'apprends": "I learn, I hear",
+    "Tu apprends": "You learn, you hear",
+    "Il/Elle apprend": "He/She learns, he/she hears",
+    "Nous apprenons": "We learn, we hear",
+    "Vous apprenez": "You learn, you hear (formal)",
+    "Ils/Elles apprennent": "They learn, they hear"
+  },
+  "Imparfait (Imperfect)": {
+    "J'apprenais": "I used to learn, I used to hear",
+    "Tu apprenais": "You used to learn, you used to hear",
+    "Il/Elle apprenait": "He/She used to learn, he/she used to hear",
+    "Nous apprenions": "We used to learn, we used to hear",
+    "Vous appreniez": "You used to learn, you used to hear (formal)",
+    "Ils/Elles apprenaient": "They used to learn, they used to hear"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai appris": "I have learned, I have heard",
+    "Tu as appris": "You have learned, you have heard",
+    "Il/Elle a appris": "He/She has learned, he/she has heard",
+    "Nous avons appris": "We have learned, we have heard",
+    "Vous avez appris": "You have learned, you have heard (formal)",
+    "Ils/Elles ont appris": "They have learned, they have heard"
+  },
+  "Futur (Future)": {
+    "J'apprendrai": "I will learn, I will hear",
+    "Tu apprendras": "You will learn, you will hear",
+    "Il/Elle apprendra": "He/She will learn, he/she will hear",
+    "Nous apprendrons": "We will learn, we will hear",
+    "Vous apprendrez": "You will learn, you will hear (formal)",
+    "Ils/Elles apprendront": "They will learn, they will hear"
+  },
+  "Conditionnel (Conditional)": {
+    "J'apprendrais": "I would learn, I would hear",
+    "Tu apprendrais": "You would learn, you would hear",
+    "Il/Elle apprendrait": "He/She would learn, he/she would hear",
+    "Nous apprendrions": "We would learn, we would hear",
+    "Vous apprendriez": "You would learn, you would hear (formal)",
+    "Ils/Elles apprendraient": "They would learn, they would hear"
+  },
+  "Subjonctif (Subjunctive)": {
+    "Que j'apprenne": "That I learn, that I hear",
+    "Que tu apprennes": "That you learn, that you hear",
+    "Qu'il/elle apprenne": "That he/she learns, that he/she hears",
+    "Que nous apprenions": "That we learn, that we hear",
+    "Que vous appreniez": "That you learn, that you hear (formal)",
+    "Qu'ils/elles apprennent": "That they learn, that they hear"
+  },
+  "Impératif (Imperative)": {
+    "Apprends": "Learn, hear (tu)",
+    "Apprenons": "Let's learn, let's hear (nous)",
+    "Apprenez": "Learn, hear (vous)"
+  }
+}

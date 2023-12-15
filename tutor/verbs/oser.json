@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "J'ose": "I dare / I'm daring",
+    "Tu oses": "You dare / You're daring",
+    "Il/Elle ose": "He/She dares / He/She's daring",
+    "Nous osons": "We dare / We're daring",
+    "Vous osez": "You dare / You're daring (formal)",
+    "Ils/Elles osent": "They dare / They're daring"
+  },
+  "Imparfait (Imperfect)": {
+    "J'osais": "I used to dare",
+    "Tu osais": "You used to dare",
+    "Il/Elle osait": "He/She used to dare",
+    "Nous osions": "We used to dare",
+    "Vous osiez": "You used to dare (formal)",
+    "Ils/Elles osaient": "They used to dare"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai osé": "I dared / I've dared",
+    "Tu as osé": "You dared / You've dared",
+    "Il/Elle a osé": "He/She dared / He/She's dared",
+    "Nous avons osé": "We dared / We've dared",
+    "Vous avez osé": "You dared / You've dared (formal)",
+    "Ils/Elles ont osé": "They dared / They've dared"
+  },
+  "Futur simple (Simple Future)": {
+    "J'oserai": "I will dare",
+    "Tu oseras": "You will dare",
+    "Il/Elle osera": "He/She will dare",
+    "Nous oserons": "We will dare",
+    "Vous oserez": "You will dare (formal)",
+    "Ils/Elles oseront": "They will dare"
+  }
+}

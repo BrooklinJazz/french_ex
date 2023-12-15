@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je marche": "I walk",
+    "Tu marches": "You walk",
+    "Il/Elle marche": "He/She walks",
+    "Nous marchons": "We walk",
+    "Vous marchez": "You walk (formal)",
+    "Ils/Elles marchent": "They walk"
+  },
+  "Imparfait (Imperfect)": {
+    "Je marchais": "I used to walk",
+    "Tu marchais": "You used to walk",
+    "Il/Elle marchait": "He/She used to walk",
+    "Nous marchions": "We used to walk",
+    "Vous marchiez": "You used to walk (formal)",
+    "Ils/Elles marchaient": "They used to walk"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai marché": "I walked",
+    "Tu as marché": "You walked",
+    "Il/Elle a marché": "He/She walked",
+    "Nous avons marché": "We walked",
+    "Vous avez marché": "You walked (formal)",
+    "Ils/Elles ont marché": "They walked"
+  },
+  "Futur simple (Simple Future)": {
+    "Je marcherai": "I will walk",
+    "Tu marcheras": "You will walk",
+    "Il/Elle marchera": "He/She will walk",
+    "Nous marcherons": "We will walk",
+    "Vous marcherez": "You will walk (formal)",
+    "Ils/Elles marcheront": "They will walk"
+  }
+}

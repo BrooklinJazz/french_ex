@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je dors": "I sleep",
+    "Tu dors": "You sleep",
+    "Il/Elle dort": "He/She sleeps",
+    "Nous dormons": "We sleep",
+    "Vous dormez": "You sleep (formal)",
+    "Ils/Elles dorment": "They sleep"
+  },
+  "Imparfait (Imperfect)": {
+    "Je dormais": "I used to sleep",
+    "Tu dormais": "You used to sleep",
+    "Il/Elle dormait": "He/She used to sleep",
+    "Nous dormions": "We used to sleep",
+    "Vous dormiez": "You used to sleep (formal)",
+    "Ils/Elles dormaient": "They used to sleep"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai dormi": "I slept",
+    "Tu as dormi": "You slept",
+    "Il/Elle a dormi": "He/She slept",
+    "Nous avons dormi": "We slept",
+    "Vous avez dormi": "You slept (formal)",
+    "Ils/Elles ont dormi": "They slept"
+  },
+  "Futur simple (Simple Future)": {
+    "Je dormirai": "I will sleep",
+    "Tu dormiras": "You will sleep",
+    "Il/Elle dormira": "He/She will sleep",
+    "Nous dormirons": "We will sleep",
+    "Vous dormirez": "You will sleep (formal)",
+    "Ils/Elles dormiront": "They will sleep"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je geins": "I groan",
+    "Tu geins": "You groan",
+    "Il/Elle geint": "He/She groans",
+    "Nous geignons": "We groan",
+    "Vous geignez": "You groan (formal)",
+    "Ils/Elles geignent": "They groan"
+  },
+  "Imparfait (Imperfect)": {
+    "Je geignais": "I used to groan",
+    "Tu geignais": "You used to groan",
+    "Il/Elle geignait": "He/She used to groan",
+    "Nous geignions": "We used to groan",
+    "Vous geigniez": "You used to groan (formal)",
+    "Ils/Elles geignaient": "They used to groan"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai geint": "I groaned",
+    "Tu as geint": "You groaned",
+    "Il/Elle a geint": "He/She groaned",
+    "Nous avons geint": "We groaned",
+    "Vous avez geint": "You groaned (formal)",
+    "Ils/Elles ont geint": "They groaned"
+  },
+  "Futur simple (Simple Future)": {
+    "Je geindrai": "I will groan",
+    "Tu geindras": "You will groan",
+    "Il/Elle geindra": "He/She will groan",
+    "Nous geindrons": "We will groan",
+    "Vous geindrez": "You will groan (formal)",
+    "Ils/Elles geindront": "They will groan"
+  }
+}

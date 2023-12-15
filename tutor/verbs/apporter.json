@@ -1,0 +1,55 @@
+{
+  "Présent (Present)": {
+    "J'apporte": "I bring",
+    "Tu apportes": "You bring",
+    "Il/Elle apporte": "He/She brings",
+    "Nous apportons": "We bring",
+    "Vous apportez": "You bring (formal)",
+    "Ils/Elles apportent": "They bring"
+  },
+  "Imparfait (Imperfect)": {
+    "J'apportais": "I used to bring",
+    "Tu apportais": "You used to bring",
+    "Il/Elle apportait": "He/She used to bring",
+    "Nous apportions": "We used to bring",
+    "Vous apportiez": "You used to bring (formal)",
+    "Ils/Elles apportaient": "They used to bring"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai apporté": "I have brought",
+    "Tu as apporté": "You have brought",
+    "Il/Elle a apporté": "He/She has brought",
+    "Nous avons apporté": "We have brought",
+    "Vous avez apporté": "You have brought (formal)",
+    "Ils/Elles ont apporté": "They have brought"
+  },
+  "Futur (Future)": {
+    "J'apporterai": "I will bring",
+    "Tu apporteras": "You will bring",
+    "Il/Elle apportera": "He/She will bring",
+    "Nous apporterons": "We will bring",
+    "Vous apporterez": "You will bring (formal)",
+    "Ils/Elles apporteront": "They will bring"
+  },
+  "Conditionnel (Conditional)": {
+    "J'apporterais": "I would bring",
+    "Tu apporterais": "You would bring",
+    "Il/Elle apporterait": "He/She would bring",
+    "Nous apporterions": "We would bring",
+    "Vous apporteriez": "You would bring (formal)",
+    "Ils/Elles apporteraient": "They would bring"
+  },
+  "Subjonctif (Subjunctive)": {
+    "Que j'apporte": "That I bring",
+    "Que tu apportes": "That you bring",
+    "Qu'il/elle apporte": "That he/she brings",
+    "Que nous apportions": "That we bring",
+    "Que vous apportiez": "That you bring (formal)",
+    "Qu'ils/elles apportent": "That they bring"
+  },
+  "Impératif (Imperative)": {
+    "Apporte": "Bring (tu)",
+    "Apportons": "Let's bring (nous)",
+    "Apportez": "Bring (vous)"
+  }
+}

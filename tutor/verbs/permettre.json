@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je permets": "I allow / I'm allowing",
+    "Tu permets": "You allow / You're allowing",
+    "Il/Elle permet": "He/She allows / He/She's allowing",
+    "Nous permettons": "We allow / We're allowing",
+    "Vous permettez": "You allow / You're allowing (formal)",
+    "Ils/Elles permettent": "They allow / They're allowing"
+  },
+  "Imparfait (Imperfect)": {
+    "Je permettais": "I used to allow",
+    "Tu permettais": "You used to allow",
+    "Il/Elle permettait": "He/She used to allow",
+    "Nous permettions": "We used to allow",
+    "Vous permettiez": "You used to allow (formal)",
+    "Ils/Elles permettaient": "They used to allow"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai permis": "I allowed / I've allowed",
+    "Tu as permis": "You allowed / You've allowed",
+    "Il/Elle a permis": "He/She allowed / He/She's allowed",
+    "Nous avons permis": "We allowed / We've allowed",
+    "Vous avez permis": "You allowed / You've allowed (formal)",
+    "Ils/Elles ont permis": "They allowed / They've allowed"
+  },
+  "Futur simple (Simple Future)": {
+    "Je permettrai": "I will allow",
+    "Tu permettras": "You will allow",
+    "Il/Elle permettra": "He/She will allow",
+    "Nous permettrons": "We will allow",
+    "Vous permettrez": "You will allow (formal)",
+    "Ils/Elles permettront": "They will allow"
+  }
+}

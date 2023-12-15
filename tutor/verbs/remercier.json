@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je remercie": "I thank",
+    "Tu remercies": "You thank",
+    "Il/Elle remercie": "He/She thanks",
+    "Nous remercions": "We thank",
+    "Vous remerciez": "You thank (formal)",
+    "Ils/Elles remercient": "They thank"
+  },
+  "Imparfait (Imperfect)": {
+    "Je remerciais": "I used to thank",
+    "Tu remerciais": "You used to thank",
+    "Il/Elle remerciait": "He/She used to thank",
+    "Nous remerciions": "We used to thank",
+    "Vous remerciiez": "You used to thank (formal)",
+    "Ils/Elles remerciaient": "They used to thank"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai remercié": "I thanked",
+    "Tu as remercié": "You thanked",
+    "Il/Elle a remercié": "He/She thanked",
+    "Nous avons remercié": "We thanked",
+    "Vous avez remercié": "You thanked (formal)",
+    "Ils/Elles ont remercié": "They thanked"
+  },
+  "Futur simple (Simple Future)": {
+    "Je remercierai": "I will thank",
+    "Tu remercieras": "You will thank",
+    "Il/Elle remerciera": "He/She will thank",
+    "Nous remercierons": "We will thank",
+    "Vous remercierez": "You will thank (formal)",
+    "Ils/Elles remercieront": "They will thank"
+  }
+}

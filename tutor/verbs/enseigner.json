@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "J'enseigne": "I teach",
+    "Tu enseignes": "You teach",
+    "Il/Elle enseigne": "He/She teaches",
+    "Nous enseignons": "We teach",
+    "Vous enseignez": "You teach (formal)",
+    "Ils/Elles enseignent": "They teach"
+  },
+  "Imparfait (Imperfect)": {
+    "J'enseignais": "I used to teach",
+    "Tu enseignais": "You used to teach",
+    "Il/Elle enseignait": "He/She used to teach",
+    "Nous enseignions": "We used to teach",
+    "Vous enseigniez": "You used to teach (formal)",
+    "Ils/Elles enseignaient": "They used to teach"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai enseigné": "I taught",
+    "Tu as enseigné": "You taught",
+    "Il/Elle a enseigné": "He/She taught",
+    "Nous avons enseigné": "We taught",
+    "Vous avez enseigné": "You taught (formal)",
+    "Ils/Elles ont enseigné": "They taught"
+  },
+  "Futur simple (Simple Future)": {
+    "J'enseignerai": "I will teach",
+    "Tu enseigneras": "You will teach",
+    "Il/Elle enseignera": "He/She will teach",
+    "Nous enseignerons": "We will teach",
+    "Vous enseignerez": "You will teach (formal)",
+    "Ils/Elles enseigneront": "They will teach"
+  }
+}

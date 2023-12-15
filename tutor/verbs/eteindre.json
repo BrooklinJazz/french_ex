@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "J'éteins": "I turn off",
+    "Tu éteins": "You turn off",
+    "Il/Elle éteint": "He/She turns off",
+    "Nous éteignons": "We turn off",
+    "Vous éteignez": "You turn off (formal)",
+    "Ils/Elles éteignent": "They turn off"
+  },
+  "Imparfait (Imperfect)": {
+    "J'éteignais": "I used to turn off",
+    "Tu éteignais": "You used to turn off",
+    "Il/Elle éteignait": "He/She used to turn off",
+    "Nous éteignions": "We used to turn off",
+    "Vous éteigniez": "You used to turn off (formal)",
+    "Ils/Elles éteignaient": "They used to turn off"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai éteint": "I turned off",
+    "Tu as éteint": "You turned off",
+    "Il/Elle a éteint": "He/She turned off",
+    "Nous avons éteint": "We turned off",
+    "Vous avez éteint": "You turned off (formal)",
+    "Ils/Elles ont éteint": "They turned off"
+  },
+  "Futur simple (Simple Future)": {
+    "J'éteindrai": "I will turn off",
+    "Tu éteindras": "You will turn off",
+    "Il/Elle éteindra": "He/She will turn off",
+    "Nous éteindrons": "We will turn off",
+    "Vous éteindrez": "You will turn off (formal)",
+    "Ils/Elles éteindront": "They will turn off"
+  }
+}

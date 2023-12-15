@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je change": "I change",
+    "Tu changes": "You change",
+    "Il/Elle change": "He/She changes",
+    "Nous changeons": "We change",
+    "Vous changez": "You change (formal)",
+    "Ils/Elles changent": "They change"
+  },
+  "Imparfait (Imperfect)": {
+    "Je changeais": "I used to change",
+    "Tu changeais": "You used to change",
+    "Il/Elle changeait": "He/She used to change",
+    "Nous changions": "We used to change",
+    "Vous changiez": "You used to change (formal)",
+    "Ils/Elles changeaient": "They used to change"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai changé": "I have changed",
+    "Tu as changé": "You have changed",
+    "Il/Elle a changé": "He/She has changed",
+    "Nous avons changé": "We have changed",
+    "Vous avez changé": "You have changed (formal)",
+    "Ils/Elles ont changé": "They have changed"
+  },
+  "Futur simple (Simple Future)": {
+    "Je changerai": "I will change",
+    "Tu changeras": "You will change",
+    "Il/Elle changera": "He/She will change",
+    "Nous changerons": "We will change",
+    "Vous changerez": "You will change (formal)",
+    "Ils/Elles changeront": "They will change"
+  }
+}

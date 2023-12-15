@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "J'entends": "I hear, I'm listening to, I understand",
+    "Tu entends": "You hear, You're listening to, You understand",
+    "Il/Elle entend": "He/She hears, He/She's listening to, He/She understands",
+    "Nous entendons": "We hear, We're listening to, We understand",
+    "Vous entendez": "You hear, You're listening to, You understand (formal)",
+    "Ils/Elles entendent": "They hear, They're listening to, They understand"
+  },
+  "Imparfait (Imperfect)": {
+    "J'entendais": "I used to hear, I used to listen to, I used to understand",
+    "Tu entendais": "You used to hear, You used to listen to, You used to understand",
+    "Il/Elle entendait": "He/She used to hear, He/She used to listen to, He/She used to understand",
+    "Nous entendions": "We used to hear, We used to listen to, We used to understand",
+    "Vous entendiez": "You used to hear, You used to listen to, You used to understand (formal)",
+    "Ils/Elles entendaient": "They used to hear, They used to listen to, They used to understand"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai entendu": "I heard, I listened to, I understood",
+    "Tu as entendu": "You heard, You listened to, You understood",
+    "Il/Elle a entendu": "He/She heard, He/She listened to, He/She understood",
+    "Nous avons entendu": "We heard, We listened to, We understood",
+    "Vous avez entendu": "You heard, You listened to, You understood (formal)",
+    "Ils/Elles ont entendu": "They heard, They listened to, They understood"
+  },
+  "Futur simple (Simple Future)": {
+    "J'entendrai": "I will hear, I will listen to, I will understand",
+    "Tu entendras": "You will hear, You will listen to, You will understand",
+    "Il/Elle entendra": "He/She will hear, He/She will listen to, He/She will understand",
+    "Nous entendrons": "We will hear, We will listen to, We will understand",
+    "Vous entendrez": "You will hear, You will listen to, You will understand (formal)",
+    "Ils/Elles entendront": "They will hear, They will listen to, They will understand"
+  }
+}

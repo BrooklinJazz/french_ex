@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je confonds": "I confuse",
+    "Tu confonds": "You confuse",
+    "Il/Elle confond": "He/She confuses",
+    "Nous confondons": "We confuse",
+    "Vous confondez": "You confuse (formal)",
+    "Ils/Elles confondent": "They confuse"
+  },
+  "Imparfait (Imperfect)": {
+    "Je confondais": "I used to confuse",
+    "Tu confondais": "You used to confuse",
+    "Il/Elle confondait": "He/She used to confuse",
+    "Nous confondions": "We used to confuse",
+    "Vous confondiez": "You used to confuse (formal)",
+    "Ils/Elles confondaient": "They used to confuse"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai confondu": "I have confused",
+    "Tu as confondu": "You have confused",
+    "Il/Elle a confondu": "He/She has confused",
+    "Nous avons confondu": "We have confused",
+    "Vous avez confondu": "You have confused (formal)",
+    "Ils/Elles ont confondu": "They have confused"
+  },
+  "Futur simple (Simple Future)": {
+    "Je confondrai": "I will confuse",
+    "Tu confondras": "You will confuse",
+    "Il/Elle confondra": "He/She will confuse",
+    "Nous confondrons": "We will confuse",
+    "Vous confondrez": "You will confuse (formal)",
+    "Ils/Elles confondront": "They will confuse"
+  }
+}

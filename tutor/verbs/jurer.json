@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je jure": "I swear",
+    "Tu jures": "You swear",
+    "Il/Elle jure": "He/She swears",
+    "Nous jurons": "We swear",
+    "Vous jurez": "You swear (formal)",
+    "Ils/Elles jurent": "They swear"
+  },
+  "Imparfait (Imperfect)": {
+    "Je jurais": "I used to swear",
+    "Tu jurais": "You used to swear",
+    "Il/Elle jurait": "He/She used to swear",
+    "Nous jurions": "We used to swear",
+    "Vous juriez": "You used to swear (formal)",
+    "Ils/Elles juraient": "They used to swear"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai juré": "I swore",
+    "Tu as juré": "You swore",
+    "Il/Elle a juré": "He/She swore",
+    "Nous avons juré": "We swore",
+    "Vous avez juré": "You swore (formal)",
+    "Ils/Elles ont juré": "They swore"
+  },
+  "Futur simple (Simple Future)": {
+    "Je jurerai": "I will swear",
+    "Tu jureras": "You will swear",
+    "Il/Elle jurera": "He/She will swear",
+    "Nous jurerons": "We will swear",
+    "Vous jurerez": "You will swear (formal)",
+    "Ils/Elles jureront": "They will swear"
+  }
+}

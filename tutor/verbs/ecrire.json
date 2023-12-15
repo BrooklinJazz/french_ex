@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "J'écris": "I write",
+    "Tu écris": "You write",
+    "Il/Elle écrit": "He/She writes",
+    "Nous écrivons": "We write",
+    "Vous écrivez": "You write (formal)",
+    "Ils/Elles écrivent": "They write"
+  },
+  "Imparfait (Imperfect)": {
+    "J'écrivais": "I used to write",
+    "Tu écrivais": "You used to write",
+    "Il/Elle écrivait": "He/She used to write",
+    "Nous écrivions": "We used to write",
+    "Vous écriviez": "You used to write (formal)",
+    "Ils/Elles écrivaient": "They used to write"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai écrit": "I wrote",
+    "Tu as écrit": "You wrote",
+    "Il/Elle a écrit": "He/She wrote",
+    "Nous avons écrit": "We wrote",
+    "Vous avez écrit": "You wrote (formal)",
+    "Ils/Elles ont écrit": "They wrote"
+  },
+  "Futur simple (Simple Future)": {
+    "J'écrirai": "I will write",
+    "Tu écriras": "You will write",
+    "Il/Elle écrira": "He/She will write",
+    "Nous écrirons": "We will write",
+    "Vous écrirez": "You will write (formal)",
+    "Ils/Elles écriront": "They will write"
+  }
+}

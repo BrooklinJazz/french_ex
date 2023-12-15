@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je chante": "I sing",
+    "Tu chantes": "You sing",
+    "Il/Elle chante": "He/She sings",
+    "Nous chantons": "We sing",
+    "Vous chantez": "You sing (formal)",
+    "Ils/Elles chantent": "They sing"
+  },
+  "Imparfait (Imperfect)": {
+    "Je chantais": "I used to sing",
+    "Tu chantais": "You used to sing",
+    "Il/Elle chantait": "He/She used to sing",
+    "Nous chantions": "We used to sing",
+    "Vous chantiez": "You used to sing (formal)",
+    "Ils/Elles chantaient": "They used to sing"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai chanté": "I have sung",
+    "Tu as chanté": "You have sung",
+    "Il/Elle a chanté": "He/She has sung",
+    "Nous avons chanté": "We have sung",
+    "Vous avez chanté": "You have sung (formal)",
+    "Ils/Elles ont chanté": "They have sung"
+  },
+  "Futur simple (Simple Future)": {
+    "Je chanterai": "I will sing",
+    "Tu chanteras": "You will sing",
+    "Il/Elle chantera": "He/She will sing",
+    "Nous chanterons": "We will sing",
+    "Vous chanterez": "You will sing (formal)",
+    "Ils/Elles chanteront": "They will sing"
+  }
+}

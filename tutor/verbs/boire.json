@@ -1,0 +1,55 @@
+{
+  "Présent (Present)": {
+    "Je bois": "I drink",
+    "Tu bois": "You drink",
+    "Il/Elle boit": "He/She drinks",
+    "Nous buvons": "We drink",
+    "Vous buvez": "You drink (formal)",
+    "Ils/Elles boivent": "They drink"
+  },
+  "Imparfait (Imperfect)": {
+    "Je buvais": "I used to drink",
+    "Tu buvais": "You used to drink",
+    "Il/Elle buvait": "He/She used to drink",
+    "Nous buvions": "We used to drink",
+    "Vous buviez": "You used to drink (formal)",
+    "Ils/Elles buvaient": "They used to drink"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai bu": "I have drunk",
+    "Tu as bu": "You have drunk",
+    "Il/Elle a bu": "He/She has drunk",
+    "Nous avons bu": "We have drunk",
+    "Vous avez bu": "You have drunk (formal)",
+    "Ils/Elles ont bu": "They have drunk"
+  },
+  "Futur (Future)": {
+    "Je boirai": "I will drink",
+    "Tu boiras": "You will drink",
+    "Il/Elle boira": "He/She will drink",
+    "Nous boirons": "We will drink",
+    "Vous boirez": "You will drink (formal)",
+    "Ils/Elles boiront": "They will drink"
+  },
+  "Conditionnel (Conditional)": {
+    "Je boirais": "I would drink",
+    "Tu boirais": "You would drink",
+    "Il/Elle boirait": "He/She would drink",
+    "Nous boirions": "We would drink",
+    "Vous boiriez": "You would drink (formal)",
+    "Ils/Elles boiraient": "They would drink"
+  },
+  "Subjonctif (Subjunctive)": {
+    "Que je boive": "That I drink",
+    "Que tu boives": "That you drink",
+    "Qu'il/elle boive": "That he/she drinks",
+    "Que nous buvions": "That we drink",
+    "Que vous buviez": "That you drink (formal)",
+    "Qu'ils/elles boivent": "That they drink"
+  },
+  "Impératif (Imperative)": {
+    "Bois": "Drink (tu)",
+    "Buvons": "Let's drink (nous)",
+    "Buvez": "Drink (vous)"
+  }
+}

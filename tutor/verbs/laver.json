@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je lave": "I clean",
+    "Tu laves": "You clean",
+    "Il/Elle lave": "He/She cleans",
+    "Nous lavons": "We clean",
+    "Vous lavez": "You clean (formal)",
+    "Ils/Elles lavent": "They clean"
+  },
+  "Imparfait (Imperfect)": {
+    "Je lavais": "I used to clean",
+    "Tu lavais": "You used to clean",
+    "Il/Elle lavait": "He/She used to clean",
+    "Nous lavions": "We used to clean",
+    "Vous laviez": "You used to clean (formal)",
+    "Ils/Elles lavaient": "They used to clean"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai lavé": "I cleaned",
+    "Tu as lavé": "You cleaned",
+    "Il/Elle a lavé": "He/She cleaned",
+    "Nous avons lavé": "We cleaned",
+    "Vous avez lavé": "You cleaned (formal)",
+    "Ils/Elles ont lavé": "They cleaned"
+  },
+  "Futur simple (Simple Future)": {
+    "Je laverai": "I will clean",
+    "Tu laveras": "You will clean",
+    "Il/Elle lavera": "He/She will clean",
+    "Nous laverons": "We will clean",
+    "Vous laverez": "You will clean (formal)",
+    "Ils/Elles laveront": "They will clean"
+  }
+}

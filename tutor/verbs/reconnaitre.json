@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je reconnais": "I recognize",
+    "Tu reconnais": "You recognize",
+    "Il/Elle reconnaît": "He/She recognizes",
+    "Nous reconnaissons": "We recognize",
+    "Vous reconnaissez": "You recognize (formal)",
+    "Ils/Elles reconnaissent": "They recognize"
+  },
+  "Imparfait (Imperfect)": {
+    "Je reconnaissais": "I used to recognize",
+    "Tu reconnaissais": "You used to recognize",
+    "Il/Elle reconnaissait": "He/She used to recognize",
+    "Nous reconnaissions": "We used to recognize",
+    "Vous reconnaissiez": "You used to recognize (formal)",
+    "Ils/Elles reconnaissaient": "They used to recognize"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai reconnu": "I recognized",
+    "Tu as reconnu": "You recognized",
+    "Il/Elle a reconnu": "He/She recognized",
+    "Nous avons reconnu": "We recognized",
+    "Vous avez reconnu": "You recognized (formal)",
+    "Ils/Elles ont reconnu": "They recognized"
+  },
+  "Futur simple (Simple Future)": {
+    "Je reconnaîtrai": "I will recognize",
+    "Tu reconnaîtras": "You will recognize",
+    "Il/Elle reconnaîtra": "He/She will recognize",
+    "Nous reconnaîtrons": "We will recognize",
+    "Vous reconnaîtrez": "You will recognize (formal)",
+    "Ils/Elles reconnaîtront": "They will recognize"
+  }
+}

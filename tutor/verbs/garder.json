@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je garde": "I keep",
+    "Tu gardes": "You keep",
+    "Il/Elle garde": "He/She keeps",
+    "Nous gardons": "We keep",
+    "Vous gardez": "You keep (formal)",
+    "Ils/Elles gardent": "They keep"
+  },
+  "Imparfait (Imperfect)": {
+    "Je gardais": "I used to keep",
+    "Tu gardais": "You used to keep",
+    "Il/Elle gardait": "He/She used to keep",
+    "Nous gardions": "We used to keep",
+    "Vous gardiez": "You used to keep (formal)",
+    "Ils/Elles gardaient": "They used to keep"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai gardé": "I kept",
+    "Tu as gardé": "You kept",
+    "Il/Elle a gardé": "He/She kept",
+    "Nous avons gardé": "We kept",
+    "Vous avez gardé": "You kept (formal)",
+    "Ils/Elles ont gardé": "They kept"
+  },
+  "Futur simple (Simple Future)": {
+    "Je garderai": "I will keep",
+    "Tu garderas": "You will keep",
+    "Il/Elle gardera": "He/She will keep",
+    "Nous garderons": "We will keep",
+    "Vous garderez": "You will keep (formal)",
+    "Ils/Elles garderont": "They will keep"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "J'essaie": "I try",
+    "Tu essaies": "You try",
+    "Il/Elle essaie": "He/She tries",
+    "Nous essayons": "We try",
+    "Vous essayez": "You try (formal)",
+    "Ils/Elles essaient": "They try"
+  },
+  "Imparfait (Imperfect)": {
+    "J'essayais": "I used to try",
+    "Tu essayais": "You used to try",
+    "Il/Elle essayait": "He/She used to try",
+    "Nous essayions": "We used to try",
+    "Vous essayiez": "You used to try (formal)",
+    "Ils/Elles essayaient": "They used to try"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai essayé": "I tried",
+    "Tu as essayé": "You tried",
+    "Il/Elle a essayé": "He/She tried",
+    "Nous avons essayé": "We tried",
+    "Vous avez essayé": "You tried (formal)",
+    "Ils/Elles ont essayé": "They tried"
+  },
+  "Futur simple (Simple Future)": {
+    "J'essaierai": "I will try",
+    "Tu essaieras": "You will try",
+    "Il/Elle essaiera": "He/She will try",
+    "Nous essaierons": "We will try",
+    "Vous essaierez": "You will try (formal)",
+    "Ils/Elles essaieront": "They will try"
+  }
+}

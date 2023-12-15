@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "J'excuse": "I forgive",
+    "Tu excuses": "You forgive",
+    "Il/Elle excuse": "He/She forgives",
+    "Nous excusons": "We forgive",
+    "Vous excusez": "You forgive (formal)",
+    "Ils/Elles excusent": "They forgive"
+  },
+  "Imparfait (Imperfect)": {
+    "J'excusais": "I used to forgive",
+    "Tu excusais": "You used to forgive",
+    "Il/Elle excusait": "He/She used to forgive",
+    "Nous excusions": "We used to forgive",
+    "Vous excusiez": "You used to forgive (formal)",
+    "Ils/Elles excusaient": "They used to forgive"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai excusé": "I forgave",
+    "Tu as excusé": "You forgave",
+    "Il/Elle a excusé": "He/She forgave",
+    "Nous avons excusé": "We forgave",
+    "Vous avez excusé": "You forgave (formal)",
+    "Ils/Elles ont excusé": "They forgave"
+  },
+  "Futur simple (Simple Future)": {
+    "J'excuserai": "I will forgive",
+    "Tu excuseras": "You will forgive",
+    "Il/Elle excusera": "He/She will forgive",
+    "Nous excuserons": "We will forgive",
+    "Vous excuserez": "You will forgive (formal)",
+    "Ils/Elles excuseront": "They will forgive"
+  }
+}

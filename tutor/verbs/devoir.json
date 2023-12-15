@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "Je dois": "I must / have to",
+    "Tu dois": "You must / have to",
+    "Il/Elle doit": "He/She must / has to",
+    "Nous devons": "We must / have to",
+    "Vous devez": "You must / have to (formal)",
+    "Ils/Elles doivent": "They must / have to"
+  },
+  "Imparfait (Imperfect)": {
+    "Je devais": "I had to",
+    "Tu devais": "You had to",
+    "Il/Elle devait": "He/She had to",
+    "Nous devions": "We had to",
+    "Vous deviez": "You had to (formal)",
+    "Ils/Elles devaient": "They had to"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai dû": "I had to / I must have",
+    "Tu as dû": "You had to / You must have",
+    "Il/Elle a dû": "He/She had to / He/She must have",
+    "Nous avons dû": "We had to / We must have",
+    "Vous avez dû": "You had to / You must have (formal)",
+    "Ils/Elles ont dû": "They had to / They must have"
+  },
+  "Futur simple (Simple Future)": {
+    "Je devrai": "I will have to",
+    "Tu devras": "You will have to",
+    "Il/Elle devra": "He/She will have to",
+    "Nous devrons": "We will have to",
+    "Vous devrez": "You will have to (formal)",
+    "Ils/Elles devront": "They will have to"
+  }
+}

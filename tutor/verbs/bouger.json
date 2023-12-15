@@ -1,0 +1,55 @@
+{
+  "Présent (Present)": {
+    "Je bouge": "I move",
+    "Tu bouges": "You move",
+    "Il/Elle bouge": "He/She moves",
+    "Nous bougeons": "We move",
+    "Vous bougez": "You move (formal)",
+    "Ils/Elles bougent": "They move"
+  },
+  "Imparfait (Imperfect)": {
+    "Je bougeais": "I used to move",
+    "Tu bougeais": "You used to move",
+    "Il/Elle bougeait": "He/She used to move",
+    "Nous bougeions": "We used to move",
+    "Vous bougiez": "You used to move (formal)",
+    "Ils/Elles bougeaient": "They used to move"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai bougé": "I have moved",
+    "Tu as bougé": "You have moved",
+    "Il/Elle a bougé": "He/She has moved",
+    "Nous avons bougé": "We have moved",
+    "Vous avez bougé": "You have moved (formal)",
+    "Ils/Elles ont bougé": "They have moved"
+  },
+  "Futur (Future)": {
+    "Je bougerai": "I will move",
+    "Tu bougeras": "You will move",
+    "Il/Elle bougera": "He/She will move",
+    "Nous bougerons": "We will move",
+    "Vous bougerez": "You will move (formal)",
+    "Ils/Elles bougeront": "They will move"
+  },
+  "Conditionnel (Conditional)": {
+    "Je bougerais": "I would move",
+    "Tu bougerais": "You would move",
+    "Il/Elle bougerait": "He/She would move",
+    "Nous bougerions": "We would move",
+    "Vous bougeriez": "You would move (formal)",
+    "Ils/Elles bougeraient": "They would move"
+  },
+  "Subjonctif (Subjunctive)": {
+    "Que je bouge": "That I move",
+    "Que tu bouges": "That you move",
+    "Qu'il/elle bouge": "That he/she moves",
+    "Que nous bougions": "That we move",
+    "Que vous bougiez": "That you move (formal)",
+    "Qu'ils/elles bougent": "That they move"
+  },
+  "Impératif (Imperative)": {
+    "Bouge": "Move (tu)",
+    "Bougeons": "Let's move (nous)",
+    "Bougez": "Move (vous)"
+  }
+}

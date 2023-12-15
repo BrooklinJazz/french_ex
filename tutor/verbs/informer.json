@@ -1,0 +1,34 @@
+{
+  "Présent (Present)": {
+    "J'informe": "I inform",
+    "Tu informes": "You inform",
+    "Il/Elle informe": "He/She informs",
+    "Nous informons": "We inform",
+    "Vous informez": "You inform (formal)",
+    "Ils/Elles informent": "They inform"
+  },
+  "Imparfait (Imperfect)": {
+    "J'informais": "I used to inform",
+    "Tu informais": "You used to inform",
+    "Il/Elle informait": "He/She used to inform",
+    "Nous informions": "We used to inform",
+    "Vous informiez": "You used to inform (formal)",
+    "Ils/Elles informaient": "They used to inform"
+  },
+  "Passé composé (Present Perfect)": {
+    "J'ai informé": "I informed",
+    "Tu as informé": "You informed",
+    "Il/Elle a informé": "He/She informed",
+    "Nous avons informé": "We informed",
+    "Vous avez informé": "You informed (formal)",
+    "Ils/Elles ont informé": "They informed"
+  },
+  "Futur simple (Simple Future)": {
+    "J'informerai": "I will inform",
+    "Tu informeras": "You will inform",
+    "Il/Elle informera": "He/She will inform",
+    "Nous informerons": "We will inform",
+    "Vous informerez": "You will inform (formal)",
+    "Ils/Elles informeront": "They will inform"
+  }
+}
