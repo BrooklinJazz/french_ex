@@ -1,3 +1,4 @@
 %{
   "jason": {:hex, :jason, "1.4.1", "af1504e35f629ddcdd6addb3513c3853991f694921b1b9368b0bd32beb9f1b63", [:mix], [{:decimal, "~> 1.0 or ~> 2.0", [hex: :decimal, repo: "hexpm", optional: true]}], "hexpm", "fbb01ecdfd565b56261302f7e1fcc27c4fb8f32d56eab74db621fc154604a7a1"},
+  "owl": {:hex, :owl, "0.8.0", "0ef925cb784311093d4e3734822960cbdbdb13b095d748bb5bc82abcd5b56732", [:mix], [], "hexpm", "0a5586ceb1a12f4bbda90e330c20e6ea034552335d09466c10e4218c98977529"},
 }
